@@ -1,0 +1,5 @@
+.venv/
+Scraping/scraping.py
+anotations.txt
+__pycache__/
+Scraping/teste.ipynb
