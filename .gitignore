@@ -5,3 +5,6 @@ __pycache__/
 Scraping/teste.ipynb
 Scraping/getting_data.log
 Scraping/Datas
+Scraping/complete.py
+Scraping/complete2.py
+DataBase/copy.sql

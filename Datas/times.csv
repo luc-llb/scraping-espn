@@ -1,21 +1,21 @@
-id,nome
-6086,Botafogo
-2029,Palmeiras
-6272,Fortaleza
-819,Flamengo
-1936,Internacional
-2026,São Paulo
-9967,Bahia
-2022,Cruzeiro
-3454,Vasco da Gama
-7632,Atlético-MG
-6273,Grêmio
-9971,Criciúma
-3445,Fluminense
-3457,Vitória
-874,Corinthians
-3458,Athletico-PR
-6079,Red Bull Bragantino
-6270,Juventude
-17313,Cuiabá
-10357,Atlético-GO
+nome,espn_id
+Botafogo,6086
+Palmeiras,2029
+Fortaleza,6272
+Flamengo,819
+Internacional,1936
+São Paulo,2026
+Bahia,9967
+Cruzeiro,2022
+Vasco da Gama,3454
+Atlético-MG,7632
+Grêmio,6273
+Criciúma,9971
+Fluminense,3445
+Vitória,3457
+Corinthians,874
+Athletico-PR,3458
+Red Bull Bragantino,6079
+Juventude,6270
+Cuiabá,17313
+Atlético-GO,10357

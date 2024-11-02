@@ -1,308 +1,310 @@
-partida,local,estadio,campeonato,arbitro,data,horario,audiencia,mandante,visitante
-699353,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 13 de abril,17:30,12408,Criciúma,Juventude
-699356,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 13 de abril,17:30,28511,Internacional,Bahia
-699355,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Maguielson Lima Barbosa, 13 de abril,20:00,17645,Fluminense,Red Bull Bragantino
-699357,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Alex Gomes Stefano, 13 de abril,20:00,35055,São Paulo,Fortaleza
-699350,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Jonathan Pinheiro, 14 de abril,15:00,21388,Athletico-PR,Cuiabá
-699351,"Goiãnia, Brasil ",Estádio Serra Dourada,2024 Brasileiro Serie A ,André Luis Skettino Policarpo Bento, 14 de abril,15:00,35195,Atlético-GO,Flamengo
-699352,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Yuri Elino Ferreira Da Cruz, 14 de abril,15:00,44285,Corinthians,Atlético-MG
-699358,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 14 de abril,15:00,18055,Vasco da Gama,Grêmio
-699354,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 14 de abril,16:00,20701,Cruzeiro,Botafogo
-699359,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 14 de abril,17:30,30644,Vitória,Palmeiras
-699361,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,João Vitor Gobi, 16 de abril,20:30,22893,Bahia,Fluminense
-699366,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 17 de abril,18:00,13236,Grêmio,Athletico-PR
-699369,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 17 de abril,18:00,5448,Red Bull Bragantino,Vasco da Gama
-699360,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Paulo Belence Alves Dos Prazeres Filho, 17 de abril,19:00,24613,Atlético-MG,Criciúma
-699365,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Bruno Mota Correia, 17 de abril,19:00,22131,Fortaleza,Cruzeiro
-699367,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 17 de abril,19:00,7478,Juventude,Corinthians
-699368,"Barueri, Brasil ",Arena Barueri,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 17 de abril,19:00,13464,Palmeiras,Internacional
-699364,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,"Daronco, Anderson", 17 de abril,20:30,48103,Flamengo,São Paulo
-699362,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 18 de abril,20:30,8508,Botafogo,Atlético-GO
-699375,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 20 de abril,15:00,25842,Fluminense,Vasco da Gama
-699376,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 20 de abril,17:30,22722,Grêmio,Cuiabá
-699378,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 20 de abril,17:30,9466,Red Bull Bragantino,Corinthians
-699372,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Ramon Abatti Abel, 20 de abril,20:00,39541,Atlético-MG,Cruzeiro
-699370,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 21 de abril,15:00,28788,Athletico-PR,Internacional
-699377,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 21 de abril,15:00,29956,Palmeiras,Flamengo
-699379,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Raphael Claus, 21 de abril,15:00,27396,Vitória,Bahia
-699371,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 21 de abril,17:30,9017,Atlético-GO,São Paulo
-699373,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Arthur Gomes Rabelo, 21 de abril,17:30,13273,Botafogo,Juventude
-699385,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Caio Max Augusto Vieira, 27 de abril,15:00,17607,Vasco da Gama,Criciúma
-699383,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Savio Pereira Sampaio, 27 de abril,17:30,6725,Cuiabá,Atlético-MG
-699380,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 27 de abril,20:00,35836,Bahia,Grêmio
-699389,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Raphael Claus, 28 de abril,10:00,53683,Flamengo,Botafogo
-699381,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Ramon Abatti Abel, 28 de abril,15:00,41839,Corinthians,Fluminense
-699382,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Fábio Augusto Santos Sá Junior, 28 de abril,15:00,20083,Cruzeiro,Vitória
-699384,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 28 de abril,17:30,18113,Fortaleza,Red Bull Bragantino
-699387,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Alex Gomes Stefano, 28 de abril,17:30,5032,Juventude,Athletico-PR
-699386,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Edina Alves Batista, 28 de abril,19:00,28468,Internacional,Atlético-GO
-699388,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 29 de abril,19:00,55694,São Paulo,Palmeiras
-699395,"Espírito Santo, Brasil ",Kléber Andrade,2024 Brasileiro Serie A ,Raphael Claus, 4 de maio,15:00,14202,Fluminense,Atlético-MG
-699398,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 4 de maio,17:30,9858,Red Bull Bragantino,Flamengo
-699392,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 4 de maio,20:00,42456,Corinthians,Fortaleza
-699390,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,"Daronco, Anderson", 5 de maio,15:00,30270,Athletico-PR,Vasco da Gama
-699399,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Ramon Abatti Abel, 5 de maio,15:00,25540,Vitória,São Paulo
-699391,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 5 de maio,17:30,22685,Botafogo,Bahia
-699394,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 5 de maio,17:30,10493,Cuiabá,Palmeiras
-699404,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Ramon Abatti Abel, 11 de maio,15:00,56929,Flamengo,Corinthians
-699400,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 12 de maio,15:00,7576,Atlético-GO,Cruzeiro
-699405,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 12 de maio,15:00,15914,Fortaleza,Botafogo
-699407,"Barueri, Brasil ",Arena Barueri,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 12 de maio,15:00,12108,Palmeiras,Athletico-PR
-699402,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 12 de maio,17:30,36523,Bahia,Red Bull Bragantino
-699409,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Raphael Claus, 12 de maio,17:30,11094,Vasco da Gama,Vitória
-699408,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,"Daronco, Anderson", 13 de maio,19:00,39515,São Paulo,Fluminense
-699416,"Curitiba, Brasil ",Couto Pereira,2024 Brasileiro Serie A ,Ramon Abatti Abel, 1 de junho,15:00,7439,Grêmio,Red Bull Bragantino
-699419,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Kleber Ariel Gonçalves Da Silva, 1 de junho,15:00,15887,Vitória,Atlético-GO
-699413,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Anderson Ribeiro Gonçalves, 1 de junho,17:30,5752,Cuiabá,Internacional
-699414,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 1 de junho,17:30,21037,Fluminense,Juventude
-699411,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,"Daronco, Anderson", 1 de junho,20:00,40937,Corinthians,Botafogo
-699410,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 2 de junho,15:00,37994,Atlético-MG,Bahia
-699412,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 2 de junho,15:00,19027,Criciúma,Palmeiras
-699418,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 2 de junho,15:00,62228,Vasco da Gama,Flamengo
-699415,"Fortaleza, Brasil ",Estádio Presidente Vargas,2024 Brasileiro Serie A ,João Vitor Gobi, 2 de junho,17:30,12191,Fortaleza,Athletico-PR
-699417,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 2 de junho,17:30,44928,São Paulo,Cruzeiro
-699397,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Raphael Claus, 5 de junho,18:00,5135,Juventude,Atlético-GO
-699363,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 5 de junho,19:00,3614,Cuiabá,Vitória
-699403,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 9 de junho,15:00,13846,Criciúma,Cuiabá
-699421,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 11 de junho,18:00,12089,Atlético-GO,Corinthians
-699427,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 11 de junho,18:00,6186,Juventude,Vitória
-699423,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 11 de junho,19:00,27239,Botafogo,Fluminense
-699425,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 11 de junho,20:30,4516,Red Bull Bragantino,Atlético-MG
-699429,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 13 de junho,18:00,26595,Cruzeiro,Cuiabá
-699420,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Jonathan Pinheiro, 13 de junho,19:00,22515,Athletico-PR,Criciúma
-699424,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 13 de junho,19:00,51785,Flamengo,Grêmio
-699426,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 13 de junho,19:00,19065,Internacional,São Paulo
-699422,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 13 de junho,20:30,29889,Bahia,Fortaleza
-699428,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Ramon Abatti Abel, 13 de junho,20:30,37641,Palmeiras,Vasco da Gama
-699434,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Emerson Ricardo De Almeida Andrade, 15 de junho,17:30,3275,Red Bull Bragantino,Juventude
-699430,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 15 de junho,20:00,14485,Fluminense,Atlético-GO
-699436,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,"Daronco, Anderson", 16 de junho,15:00,37598,Athletico-PR,Flamengo
-699438,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Ramon Abatti Abel, 16 de junho,15:00,45747,Corinthians,São Paulo
-699435,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 16 de junho,15:00,14143,Vitória,Internacional
-699439,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 16 de junho,17:30,8661,Criciúma,Bahia
-699431,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Jefferson Ferreira De Moraes, 16 de junho,17:30,4474,Cuiabá,Fortaleza
-699432,"Espírito Santo, Brasil ",Kléber Andrade,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 16 de junho,17:30,15811,Grêmio,Botafogo
-699433,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 16 de junho,17:30,11275,Vasco da Gama,Cruzeiro
-699437,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 17 de junho,19:30,31448,Atlético-MG,Palmeiras
-699440,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Alex Gomes Stefano, 19 de junho,18:00,6478,Atlético-GO,Criciúma
-699441,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Ramon Abatti Abel, 19 de junho,18:00,19589,Botafogo,Athletico-PR
-699449,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,João Vitor Gobi, 19 de junho,19:00,16935,Fortaleza,Grêmio
-699446,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 19 de junho,19:00,4838,Juventude,Vasco da Gama
-699448,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 19 de junho,19:00,33586,São Paulo,Cuiabá
-699442,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 19 de junho,20:30,28812,Cruzeiro,Fluminense
-699444,"Florianópolis, Brasil ",Orlando Scarpelli,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 19 de junho,20:30,17198,Internacional,Corinthians
-699445,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 20 de junho,17:30,15044,Vitória,Atlético-MG
-699443,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 20 de junho,19:00,49909,Flamengo,Bahia
-699447,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,"Daronco, Anderson", 20 de junho,20:30,29119,Palmeiras,Red Bull Bragantino
-699453,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 22 de junho,15:00,16256,Criciúma,Botafogo
-699456,"Curitiba, Brasil ",Couto Pereira,2024 Brasileiro Serie A ,Ramon Abatti Abel, 22 de junho,16:30,27771,Grêmio,Internacional
-699454,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 22 de junho,17:30,5768,Cuiabá,Atlético-GO
-699459,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Caio Max Augusto Vieira, 22 de junho,20:30,5036,Vasco da Gama,São Paulo
-699450,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 23 de junho,15:00,33689,Athletico-PR,Corinthians
-699452,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Paulo Belence Alves Dos Prazeres Filho, 23 de junho,15:00,34609,Bahia,Cruzeiro
-699455,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 23 de junho,15:00,57098,Fluminense,Flamengo
-699451,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 23 de junho,17:30,20089,Atlético-MG,Fortaleza
-699457,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 23 de junho,17:30,38258,Palmeiras,Juventude
-699458,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Jonathan Pinheiro, 23 de junho,17:30,4365,Red Bull Bragantino,Vitória
-699462,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 26 de junho,18:00,13333,Botafogo,Red Bull Bragantino
-699464,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 26 de junho,18:00,26465,Cruzeiro,Athletico-PR
-699460,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 26 de junho,19:00,8838,Atlético-GO,Grêmio
-699463,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Fábio Augusto Santos Sá Junior, 26 de junho,19:00,38219,Corinthians,Cuiabá
-699468,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 26 de junho,19:00,12675,Juventude,Flamengo
-699461,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,João Vitor Gobi, 26 de junho,20:30,38021,Bahia,Vasco da Gama
-699466,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Alex Gomes Stefano, 26 de junho,20:30,28631,Fortaleza,Palmeiras
-699467,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 26 de junho,20:30,9978,Internacional,Atlético-MG
-699465,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 27 de junho,18:00,24269,Fluminense,Vitória
-699469,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 27 de junho,19:00,28008,São Paulo,Criciúma
-699472,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 29 de junho,17:30,5015,Cuiabá,Red Bull Bragantino
-699478,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Ramon Abatti Abel, 29 de junho,17:30,16121,Vasco da Gama,Botafogo
-699474,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 30 de junho,15:00,34680,Fortaleza,Juventude
-699475,"Caxias do Sul, Brasil ",Estádio Francisco Stédile (Centenário),2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 30 de junho,15:00,8549,Grêmio,Fluminense
-699477,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 30 de junho,15:00,49037,São Paulo,Bahia
-699471,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 30 de junho,17:30,15859,Criciúma,Internacional
-699473,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 30 de junho,17:30,56263,Flamengo,Cruzeiro
-699479,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 30 de junho,17:30,20376,Vitória,Athletico-PR
-699476,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,"Daronco, Anderson", 1 de julho,19:00,41175,Palmeiras,Corinthians
-699485,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 3 de julho,18:00,7849,Cuiabá,Botafogo
-699489,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,João Vitor Gobi, 3 de julho,19:00,12352,Criciúma,Cruzeiro
-699488,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 3 de julho,19:00,14384,Vasco da Gama,Fortaleza
-699480,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Alex Gomes Stefano, 3 de julho,20:30,27482,Athletico-PR,São Paulo
-699481,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Ramon Abatti Abel, 3 de julho,20:30,39993,Atlético-MG,Flamengo
-699484,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 3 de julho,20:30,3018,Red Bull Bragantino,Atlético-GO
-699482,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 4 de julho,18:00,42022,Bahia,Juventude
-699487,"Caxias do Sul, Brasil ",Estádio Francisco Stédile (Centenário),2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 4 de julho,18:00,15597,Grêmio,Palmeiras
-699483,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 4 de julho,19:00,37689,Corinthians,Vitória
-699486,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 4 de julho,19:00,40337,Fluminense,Internacional
-699495,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 6 de julho,19:00,54948,Flamengo,Cuiabá
-699490,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 6 de julho,19:00,46321,São Paulo,Red Bull Bragantino
-699494,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Alex Gomes Stefano, 7 de julho,15:00,55186,Cruzeiro,Corinthians
-699496,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 7 de julho,15:00,34831,Fortaleza,Fluminense
-699498,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 7 de julho,15:00,7984,Juventude,Grêmio
-699497,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 7 de julho,17:00,41693,Internacional,Vasco da Gama
-699492,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,João Vitor Gobi, 7 de julho,17:30,6152,Atlético-GO,Athletico-PR
-699499,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Jonathan Pinheiro, 7 de julho,17:30,40198,Palmeiras,Bahia
-699491,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Bruno Mota Correia, 7 de julho,17:30,16489,Vitória,Criciúma
-699493,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 7 de julho,19:30,21582,Botafogo,Atlético-MG
-699504,"Caxias do Sul, Brasil ",Estádio Francisco Stédile (Centenário),2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 10 de julho,17:30,4623,Grêmio,Cruzeiro
-699502,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 10 de julho,18:00,22407,Athletico-PR,Bahia
-699507,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 10 de julho,18:00,18421,Vasco da Gama,Corinthians
-699508,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 11 de julho,18:30,26897,Palmeiras,Atlético-GO
-699500,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,"Daronco, Anderson", 11 de julho,19:00,11486,Criciúma,Fluminense
-699505,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Edina Alves Batista, 11 de julho,19:00,57717,Flamengo,Fortaleza
-699501,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 11 de julho,20:30,28772,Atlético-MG,São Paulo
-699506,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Ramon Abatti Abel, 11 de julho,20:30,16549,Vitória,Botafogo
-699516,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 13 de julho,15:00,48267,Bahia,Cuiabá
-699513,"Belo Horizonte, Brasil ",Estádio Raimundo Sampaio (Independência),2024 Brasileiro Serie A ,Savio Pereira Sampaio, 13 de julho,15:00,20042,Cruzeiro,Red Bull Bragantino
-699518,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Alex Gomes Stefano, 16 de julho,18:00,9788,Juventude,Atlético-MG
-699514,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Jonathan Pinheiro, 16 de julho,20:00,42965,Corinthians,Criciúma
-699517,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 17 de julho,18:00,12089,Atlético-GO,Vasco da Gama
-699519,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 17 de julho,19:00,53168,São Paulo,Grêmio
-699515,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,"Daronco, Anderson", 17 de julho,20:30,39570,Botafogo,Palmeiras
-699511,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 17 de julho,20:30,24813,Fortaleza,Vitória
-699524,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Maguielson Lima Barbosa, 20 de julho,15:00,60127,Flamengo,Criciúma
-699526,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 20 de julho,17:30,31344,Botafogo,Internacional
-699520,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 20 de julho,20:00,40465,Palmeiras,Cruzeiro
-699522,"Caxias do Sul, Brasil ",Estádio Francisco Stédile (Centenário),2024 Brasileiro Serie A ,Savio Pereira Sampaio, 21 de julho,10:00,14241,Grêmio,Vitória
-699528,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Raphael Claus, 21 de julho,15:00,42353,Atlético-MG,Vasco da Gama
-699527,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 21 de julho,15:00,47096,Bahia,Corinthians
-699523,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 21 de julho,17:30,30822,Fortaleza,Atlético-GO
-699521,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 21 de julho,17:30,26476,Juventude,São Paulo
-699529,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Denis Da Silva Ribeiro Serafim, 21 de julho,17:30,4343,Red Bull Bragantino,Athletico-PR
-699525,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,"Daronco, Anderson", 21 de julho,19:00,13231,Cuiabá,Fluminense
-699374,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Jonathan Pinheiro, 24 de julho,18:00,13625,Criciúma,Fortaleza
-699534,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Maguielson Lima Barbosa, 24 de julho,18:00,46603,Cruzeiro,Juventude
-699531,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 24 de julho,18:30,53244,São Paulo,Botafogo
-699539,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Raphael Claus, 24 de julho,19:00,30509,Vitória,Flamengo
-699537,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Luciano Da Silva Miranda Filho, 24 de julho,20:30,5777,Atlético-GO,Bahia
-699533,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 24 de julho,20:30,51375,Fluminense,Palmeiras
-699536,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Alex Gomes Stefano, 25 de julho,19:00,45183,Corinthians,Grêmio
-699547,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,João Vitor Gobi, 27 de julho,18:00,6564,Juventude,Criciúma
-699548,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Caio Max Augusto Vieira, 27 de julho,18:00,39609,Palmeiras,Vitória
-699541,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 27 de julho,19:00,32950,Bahia,Internacional
-699542,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 27 de julho,20:30,24057,Botafogo,Cruzeiro
-699545,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 27 de julho,20:30,41322,Fortaleza,São Paulo
-699549,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 28 de julho,10:00,7304,Red Bull Bragantino,Fluminense
-699544,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 28 de julho,15:00,63016,Flamengo,Atlético-GO
-699540,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 28 de julho,18:00,44048,Atlético-MG,Corinthians
-699543,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Jefferson Ferreira De Moraes, 28 de julho,18:00,4452,Cuiabá,Athletico-PR
-699546,"Chapecó, Brasil ",Arena Condá,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 28 de julho,18:00,17543,Grêmio,Vasco da Gama
-699555,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,João Vitor Gobi, 3 de agosto,15:00,26715,Vitória,Cuiabá
-699558,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 3 de agosto,18:00,17938,Vasco da Gama,Red Bull Bragantino
-699551,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 3 de agosto,19:00,8618,Atlético-GO,Botafogo
-699553,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Jonathan Pinheiro, 3 de agosto,19:00,15642,Criciúma,Atlético-MG
-699557,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 3 de agosto,20:30,58065,São Paulo,Flamengo
-699550,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 4 de agosto,15:00,26339,Athletico-PR,Grêmio
-699552,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 4 de agosto,15:00,43947,Corinthians,Juventude
-699554,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 4 de agosto,15:00,50262,Fluminense,Bahia
-699556,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 4 de agosto,16:00,30668,Internacional,Palmeiras
-699559,"Espírito Santo, Brasil ",Kléber Andrade,2024 Brasileiro Serie A ,Alex Gomes Stefano, 5 de agosto,20:00,9666,Cruzeiro,Fortaleza
-699565,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Kleber Ariel Gonçalves Da Silva, 10 de agosto,15:00,40311,Fortaleza,Criciúma
-699568,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 10 de agosto,18:00,9862,Cuiabá,Grêmio
-699562,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 10 de agosto,20:30,41750,Corinthians,Red Bull Bragantino
-699569,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Raphael Claus, 10 de agosto,20:30,61583,Cruzeiro,Atlético-MG
-699561,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,"Daronco, Anderson", 10 de agosto,20:30,20003,Vasco da Gama,Fluminense
-699567,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 11 de agosto,10:00,5288,Juventude,Botafogo
-699563,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 11 de agosto,15:00,45123,Bahia,Vitória
-699564,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 11 de agosto,15:00,55051,Flamengo,Palmeiras
-699560,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 11 de agosto,15:00,46600,São Paulo,Atlético-GO
-699566,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 11 de agosto,18:00,20996,Internacional,Athletico-PR
-699406,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 14 de agosto,18:30,11920,Internacional,Juventude
-699572,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 17 de agosto,15:00,36290,Atlético-MG,Cuiabá
-699576,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 17 de agosto,15:00,17010,Grêmio,Bahia
-699578,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Alex Gomes Stefano, 17 de agosto,17:30,3859,Red Bull Bragantino,Fortaleza
-699574,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 17 de agosto,20:00,30475,Fluminense,Corinthians
-699571,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 18 de agosto,15:00,5460,Atlético-GO,Internacional
-699579,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 18 de agosto,15:00,18403,Criciúma,Vasco da Gama
-699577,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Raphael Claus, 18 de agosto,15:00,35791,Palmeiras,São Paulo
-699570,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,João Vitor Gobi, 18 de agosto,17:30,21930,Athletico-PR,Juventude
-699573,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 18 de agosto,17:30,25888,Botafogo,Flamengo
-699575,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 19 de agosto,19:00,16940,Vitória,Cruzeiro
-699580,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 24 de agosto,15:00,4407,Atlético-GO,Juventude
-699587,"São Paulo, Brasil ",Brinco de Ouro da Princesa,2024 Brasileiro Serie A ,Alex Gomes Stefano, 24 de agosto,17:30,16566,Palmeiras,Cuiabá
-699581,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 24 de agosto,20:00,32068,Atlético-MG,Fluminense
-699582,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Ramon Abatti Abel, 25 de agosto,15:00,39625,Bahia,Botafogo
-699583,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 25 de agosto,15:00,17377,Criciúma,Grêmio
-699585,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 25 de agosto,15:00,51297,Fortaleza,Corinthians
-699588,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 25 de agosto,17:30,32712,São Paulo,Vitória
-699586,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 25 de agosto,18:00,30754,Internacional,Cruzeiro
-699584,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 25 de agosto,19:00,30225,Flamengo,Red Bull Bragantino
-699589,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Jonathan Pinheiro, 26 de agosto,20:00,16775,Vasco da Gama,Athletico-PR
-699535,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,André Luis Skettino Policarpo Bento, 28 de agosto,18:30,11849,Criciúma,Red Bull Bragantino
-699393,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 28 de agosto,18:30,35238,Cruzeiro,Internacional
-699594,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 31 de agosto,17:30,4095,Cuiabá,Criciúma
-699591,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 31 de agosto,20:00,32564,Botafogo,Fortaleza
-699593,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 1 de setembro,10:00,58233,Cruzeiro,Atlético-GO
-699596,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Raphael Claus, 1 de setembro,10:00,9961,Grêmio,Atlético-MG
-699592,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Ramon Abatti Abel, 1 de setembro,15:00,45237,Corinthians,Flamengo
-699590,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 1 de setembro,17:30,28334,Athletico-PR,Palmeiras
-699595,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 1 de setembro,17:30,45759,Fluminense,São Paulo
-699597,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 1 de setembro,17:30,10721,Juventude,Internacional
-699598,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 1 de setembro,17:30,3858,Red Bull Bragantino,Bahia
-699599,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 1 de setembro,17:30,20785,Vitória,Vasco da Gama
-699503,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 5 de setembro,19:00,4826,Cuiabá,Juventude
-699532,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 11 de setembro,18:30,23358,Internacional,Fortaleza
-699605,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Edina Alves Batista, 14 de setembro,15:00,4938,Atlético-GO,Vitória
-699600,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 14 de setembro,17:30,15635,Athletico-PR,Fortaleza
-699603,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,"Daronco, Anderson", 14 de setembro,20:00,32691,Botafogo,Corinthians
-699604,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 15 de setembro,15:00,6632,Juventude,Fluminense
-699602,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Alex Gomes Stefano, 15 de setembro,15:00,40035,Palmeiras,Criciúma
-699601,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 15 de setembro,15:00,5228,Red Bull Bragantino,Grêmio
-699609,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 15 de setembro,17:30,26420,Bahia,Atlético-MG
-699608,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 15 de setembro,17:30,44743,Cruzeiro,São Paulo
-699607,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Raphael Claus, 15 de setembro,17:30,63830,Flamengo,Vasco da Gama
-699606,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 16 de setembro,19:00,32686,Internacional,Cuiabá
-699611,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 21 de setembro,15:00,46001,Corinthians,Atlético-GO
-699619,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 21 de setembro,15:00,24479,Vitória,Juventude
-699614,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 21 de setembro,17:30,29710,Fluminense,Botafogo
-699615,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Raphael Claus, 21 de setembro,20:00,24774,Fortaleza,Bahia
-699610,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 22 de setembro,15:00,24618,Atlético-MG,Red Bull Bragantino
-699618,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 22 de setembro,15:00,64848,Vasco da Gama,Palmeiras
-699613,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 22 de setembro,17:30,5948,Cuiabá,Cruzeiro
-699616,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 22 de setembro,17:30,17786,Grêmio,Flamengo
-699617,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Ramon Abatti Abel, 22 de setembro,17:30,39078,São Paulo,Internacional
-699612,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,"Daronco, Anderson", 22 de setembro,19:00,12765,Criciúma,Athletico-PR
-699396,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 25 de setembro,18:00,13437,Grêmio,Criciúma
-699509,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 25 de setembro,18:00,3871,Red Bull Bragantino,Internacional
-699628,"São Paulo, Brasil ",Brinco de Ouro da Princesa,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 28 de setembro,17:30,16040,Palmeiras,Atlético-MG
-699622,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Maguielson Lima Barbosa, 28 de setembro,20:00,30735,Botafogo,Grêmio
-699627,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Alex Gomes Stefano, 29 de setembro,10:00,6285,Juventude,Red Bull Bragantino
-699620,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Ramon Abatti Abel, 29 de setembro,15:00,7871,Atlético-GO,Fluminense
-699625,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Denis Da Silva Ribeiro Serafim, 29 de setembro,15:00,32654,Fortaleza,Cuiabá
-699629,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 29 de setembro,15:00,25888,São Paulo,Corinthians
-699621,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Edina Alves Batista, 29 de setembro,17:30,24574,Bahia,Criciúma
-699623,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 29 de setembro,17:30,36817,Cruzeiro,Vasco da Gama
-699626,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 29 de setembro,17:30,40405,Internacional,Vitória
-699624,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 29 de setembro,19:00,28708,Flamengo,Athletico-PR
-699639,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,João Vitor Gobi, 3 de outubro,18:00,12343,Criciúma,Atlético-GO
-699636,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 3 de outubro,20:30,19352,Fluminense,Cruzeiro
-699637,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 4 de outubro,20:30,21984,Grêmio,Fortaleza
-699630,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 5 de outubro,15:30,22726,Athletico-PR,Botafogo
-699631,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 5 de outubro,15:30,34910,Atlético-MG,Vitória
-699634,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 5 de outubro,15:30,9989,Red Bull Bragantino,Palmeiras
-699632,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 5 de outubro,18:00,41978,Bahia,Flamengo
-699633,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 5 de outubro,18:00,44597,Corinthians,Internacional
-699635,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,"Daronco, Anderson", 5 de outubro,18:00,11883,Cuiabá,São Paulo
-699638,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Caio Max Augusto Vieira, 5 de outubro,20:00,18036,Vasco da Gama,Juventude
-699401,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 9 de outubro,18:30,22053,Atlético-MG,Grêmio
-699645,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 16 de outubro,20:45,23046,Fortaleza,Atlético-MG
-699648,"São Paulo, Brasil ",Brinco de Ouro da Princesa,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 16 de outubro,20:45,15497,São Paulo,Vasco da Gama
-699642,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 17 de outubro,19:00,44116,Corinthians,Athletico-PR
-699644,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Raphael Claus, 17 de outubro,19:00,58117,Flamengo,Fluminense
-699640,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 18 de outubro,18:00,3622,Atlético-GO,Cuiabá
-699641,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 18 de outubro,19:00,64727,Botafogo,Criciúma
-699643,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 18 de outubro,20:30,34473,Cruzeiro,Bahia
-699646,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 19 de outubro,15:00,50259,Internacional,Grêmio
-699649,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Denis Da Silva Ribeiro Serafim, 19 de outubro,15:00,24942,Vitória,Red Bull Bragantino
-699647,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Alex Gomes Stefano, 20 de outubro,19:00,10102,Juventude,Palmeiras
-699512,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 22 de outubro,18:30,39465,Fluminense,Athletico-PR
-699530,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 24 de outubro,18:00,16698,Vasco da Gama,Cuiabá
-699654,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 26 de outubro,15:30,60286,Flamengo,Juventude
-699655,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Edina Alves Batista, 26 de outubro,15:30,36754,Grêmio,Atlético-GO
-699656,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Ramon Abatti Abel, 26 de outubro,15:30,40321,Palmeiras,Fortaleza
-699659,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 26 de outubro,15:30,29186,Vitória,Fluminense
-699650,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 26 de outubro,17:30,35552,Athletico-PR,Cruzeiro
-699651,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 26 de outubro,18:00,27028,Atlético-MG,Internacional
-699657,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,"Daronco, Anderson", 26 de outubro,18:00,7303,Red Bull Bragantino,Botafogo
-699652,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 26 de outubro,20:00,17422,Criciúma,São Paulo
-699653,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 28 de outubro,18:00,,Cuiabá,Corinthians
-699658,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Raphael Claus, 28 de outubro,20:00,,Vasco da Gama,Bahia
+espn_id,local_,estadio,campeonato,arbitro,data_,horario,audiencia
+699353,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 13 de abril,17:30,12408
+699356,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 13 de abril,17:30,28511
+699355,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Maguielson Lima Barbosa, 13 de abril,20:00,17645
+699357,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Alex Gomes Stefano, 13 de abril,20:00,35055
+699350,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Jonathan Pinheiro, 14 de abril,15:00,21388
+699351,"Goiãnia, Brasil ",Estádio Serra Dourada,2024 Brasileiro Serie A ,André Luis Skettino Policarpo Bento, 14 de abril,15:00,35195
+699352,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Yuri Elino Ferreira Da Cruz, 14 de abril,15:00,44285
+699358,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 14 de abril,15:00,18055
+699354,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 14 de abril,16:00,20701
+699359,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 14 de abril,17:30,30644
+699361,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,João Vitor Gobi, 16 de abril,20:30,22893
+699366,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 17 de abril,18:00,13236
+699369,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 17 de abril,18:00,5448
+699360,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Paulo Belence Alves Dos Prazeres Filho, 17 de abril,19:00,24613
+699365,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Bruno Mota Correia, 17 de abril,19:00,22131
+699367,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 17 de abril,19:00,7478
+699368,"Barueri, Brasil ",Arena Barueri,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 17 de abril,19:00,13464
+699364,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,"Daronco, Anderson", 17 de abril,20:30,48103
+699362,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 18 de abril,20:30,8508
+699375,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 20 de abril,15:00,25842
+699376,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 20 de abril,17:30,22722
+699378,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 20 de abril,17:30,9466
+699372,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Ramon Abatti Abel, 20 de abril,20:00,39541
+699370,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 21 de abril,15:00,28788
+699377,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 21 de abril,15:00,29956
+699379,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Raphael Claus, 21 de abril,15:00,27396
+699371,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 21 de abril,17:30,9017
+699373,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Arthur Gomes Rabelo, 21 de abril,17:30,13273
+699385,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Caio Max Augusto Vieira, 27 de abril,15:00,17607
+699383,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Savio Pereira Sampaio, 27 de abril,17:30,6725
+699380,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 27 de abril,20:00,35836
+699389,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Raphael Claus, 28 de abril,10:00,53683
+699381,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Ramon Abatti Abel, 28 de abril,15:00,41839
+699382,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Fábio Augusto Santos Sá Junior, 28 de abril,15:00,20083
+699384,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 28 de abril,17:30,18113
+699387,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Alex Gomes Stefano, 28 de abril,17:30,5032
+699386,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Edina Alves Batista, 28 de abril,19:00,28468
+699388,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 29 de abril,19:00,55694
+699395,"Espírito Santo, Brasil ",Kléber Andrade,2024 Brasileiro Serie A ,Raphael Claus, 4 de maio,15:00,14202
+699398,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 4 de maio,17:30,9858
+699392,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 4 de maio,20:00,42456
+699390,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,"Daronco, Anderson", 5 de maio,15:00,30270
+699399,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Ramon Abatti Abel, 5 de maio,15:00,25540
+699391,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 5 de maio,17:30,22685
+699394,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 5 de maio,17:30,10493
+699404,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Ramon Abatti Abel, 11 de maio,15:00,56929
+699400,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 12 de maio,15:00,7576
+699405,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 12 de maio,15:00,15914
+699407,"Barueri, Brasil ",Arena Barueri,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 12 de maio,15:00,12108
+699402,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 12 de maio,17:30,36523
+699409,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Raphael Claus, 12 de maio,17:30,11094
+699408,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,"Daronco, Anderson", 13 de maio,19:00,39515
+699416,"Curitiba, Brasil ",Couto Pereira,2024 Brasileiro Serie A ,Ramon Abatti Abel, 1 de junho,15:00,7439
+699419,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Kleber Ariel Gonçalves Da Silva, 1 de junho,15:00,15887
+699413,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Anderson Ribeiro Gonçalves, 1 de junho,17:30,5752
+699414,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 1 de junho,17:30,21037
+699411,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,"Daronco, Anderson", 1 de junho,20:00,40937
+699410,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 2 de junho,15:00,37994
+699412,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 2 de junho,15:00,19027
+699418,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 2 de junho,15:00,62228
+699415,"Fortaleza, Brasil ",Estádio Presidente Vargas,2024 Brasileiro Serie A ,João Vitor Gobi, 2 de junho,17:30,12191
+699417,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 2 de junho,17:30,44928
+699397,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Raphael Claus, 5 de junho,18:00,5135
+699363,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 5 de junho,19:00,3614
+699403,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 9 de junho,15:00,13846
+699421,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 11 de junho,18:00,12089
+699427,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 11 de junho,18:00,6186
+699423,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 11 de junho,19:00,27239
+699425,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 11 de junho,20:30,4516
+699429,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 13 de junho,18:00,26595
+699420,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Jonathan Pinheiro, 13 de junho,19:00,22515
+699424,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 13 de junho,19:00,51785
+699426,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 13 de junho,19:00,19065
+699422,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 13 de junho,20:30,29889
+699428,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Ramon Abatti Abel, 13 de junho,20:30,37641
+699434,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Emerson Ricardo De Almeida Andrade, 15 de junho,17:30,3275
+699430,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 15 de junho,20:00,14485
+699436,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,"Daronco, Anderson", 16 de junho,15:00,37598
+699438,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Ramon Abatti Abel, 16 de junho,15:00,45747
+699435,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 16 de junho,15:00,14143
+699439,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 16 de junho,17:30,8661
+699431,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Jefferson Ferreira De Moraes, 16 de junho,17:30,4474
+699432,"Espírito Santo, Brasil ",Kléber Andrade,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 16 de junho,17:30,15811
+699433,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 16 de junho,17:30,11275
+699437,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 17 de junho,19:30,31448
+699440,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Alex Gomes Stefano, 19 de junho,18:00,6478
+699441,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Ramon Abatti Abel, 19 de junho,18:00,19589
+699449,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,João Vitor Gobi, 19 de junho,19:00,16935
+699446,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 19 de junho,19:00,4838
+699448,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 19 de junho,19:00,33586
+699442,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 19 de junho,20:30,28812
+699444,"Florianópolis, Brasil ",Orlando Scarpelli,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 19 de junho,20:30,17198
+699445,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 20 de junho,17:30,15044
+699443,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 20 de junho,19:00,49909
+699447,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,"Daronco, Anderson", 20 de junho,20:30,29119
+699453,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 22 de junho,15:00,16256
+699456,"Curitiba, Brasil ",Couto Pereira,2024 Brasileiro Serie A ,Ramon Abatti Abel, 22 de junho,16:30,27771
+699454,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 22 de junho,17:30,5768
+699459,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Caio Max Augusto Vieira, 22 de junho,20:30,5036
+699450,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 23 de junho,15:00,33689
+699452,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Paulo Belence Alves Dos Prazeres Filho, 23 de junho,15:00,34609
+699455,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 23 de junho,15:00,57098
+699451,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 23 de junho,17:30,20089
+699457,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 23 de junho,17:30,38258
+699458,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Jonathan Pinheiro, 23 de junho,17:30,4365
+699462,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 26 de junho,18:00,13333
+699464,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 26 de junho,18:00,26465
+699460,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 26 de junho,19:00,8838
+699463,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Fábio Augusto Santos Sá Junior, 26 de junho,19:00,38219
+699468,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 26 de junho,19:00,12675
+699461,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,João Vitor Gobi, 26 de junho,20:30,38021
+699466,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Alex Gomes Stefano, 26 de junho,20:30,28631
+699467,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 26 de junho,20:30,9978
+699465,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 27 de junho,18:00,24269
+699469,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 27 de junho,19:00,28008
+699472,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 29 de junho,17:30,5015
+699478,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Ramon Abatti Abel, 29 de junho,17:30,16121
+699470,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Jonathan Pinheiro, 30 de junho,10:00,39767
+699474,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 30 de junho,15:00,34680
+699475,"Caxias do Sul, Brasil ",Estádio Francisco Stédile (Centenário),2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 30 de junho,15:00,8549
+699477,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 30 de junho,15:00,49037
+699471,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 30 de junho,17:30,15859
+699473,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 30 de junho,17:30,56263
+699479,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 30 de junho,17:30,20376
+699476,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,"Daronco, Anderson", 1 de julho,19:00,41175
+699485,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 3 de julho,18:00,7849
+699489,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,João Vitor Gobi, 3 de julho,19:00,12352
+699488,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 3 de julho,19:00,14384
+699480,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Alex Gomes Stefano, 3 de julho,20:30,27482
+699481,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Ramon Abatti Abel, 3 de julho,20:30,39993
+699484,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 3 de julho,20:30,3018
+699482,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 4 de julho,18:00,42022
+699487,"Caxias do Sul, Brasil ",Estádio Francisco Stédile (Centenário),2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 4 de julho,18:00,15597
+699483,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 4 de julho,19:00,37689
+699486,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 4 de julho,19:00,40337
+699495,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 6 de julho,19:00,54948
+699490,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 6 de julho,19:00,46321
+699494,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Alex Gomes Stefano, 7 de julho,15:00,55186
+699496,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 7 de julho,15:00,34831
+699498,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 7 de julho,15:00,7984
+699497,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 7 de julho,17:00,41693
+699492,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,João Vitor Gobi, 7 de julho,17:30,6152
+699499,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Jonathan Pinheiro, 7 de julho,17:30,40198
+699491,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Bruno Mota Correia, 7 de julho,17:30,16489
+699493,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 7 de julho,19:30,21582
+699504,"Caxias do Sul, Brasil ",Estádio Francisco Stédile (Centenário),2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 10 de julho,17:30,4623
+699502,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 10 de julho,18:00,22407
+699507,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 10 de julho,18:00,18421
+699508,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 11 de julho,18:30,26897
+699500,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,"Daronco, Anderson", 11 de julho,19:00,11486
+699505,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Edina Alves Batista, 11 de julho,19:00,57717
+699501,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 11 de julho,20:30,28772
+699506,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Ramon Abatti Abel, 11 de julho,20:30,16549
+699516,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 13 de julho,15:00,48267
+699513,"Belo Horizonte, Brasil ",Estádio Raimundo Sampaio (Independência),2024 Brasileiro Serie A ,Savio Pereira Sampaio, 13 de julho,15:00,20042
+699518,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Alex Gomes Stefano, 16 de julho,18:00,9788
+699514,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Jonathan Pinheiro, 16 de julho,20:00,42965
+699517,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 17 de julho,18:00,12089
+699519,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 17 de julho,19:00,53168
+699515,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,"Daronco, Anderson", 17 de julho,20:30,39570
+699511,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 17 de julho,20:30,24813
+699524,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Maguielson Lima Barbosa, 20 de julho,15:00,60127
+699526,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 20 de julho,17:30,31344
+699520,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 20 de julho,20:00,40465
+699522,"Caxias do Sul, Brasil ",Estádio Francisco Stédile (Centenário),2024 Brasileiro Serie A ,Savio Pereira Sampaio, 21 de julho,10:00,14241
+699528,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Raphael Claus, 21 de julho,15:00,42353
+699527,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 21 de julho,15:00,47096
+699523,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 21 de julho,17:30,30822
+699521,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 21 de julho,17:30,26476
+699529,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Denis Da Silva Ribeiro Serafim, 21 de julho,17:30,4343
+699525,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,"Daronco, Anderson", 21 de julho,19:00,13231
+699374,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Jonathan Pinheiro, 24 de julho,18:00,13625
+699534,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Maguielson Lima Barbosa, 24 de julho,18:00,46603
+699531,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 24 de julho,18:30,53244
+699539,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Raphael Claus, 24 de julho,19:00,30509
+699537,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Luciano Da Silva Miranda Filho, 24 de julho,20:30,5777
+699533,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 24 de julho,20:30,51375
+699536,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Alex Gomes Stefano, 25 de julho,19:00,45183
+699547,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,João Vitor Gobi, 27 de julho,18:00,6564
+699548,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Caio Max Augusto Vieira, 27 de julho,18:00,39609
+699541,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 27 de julho,19:00,32950
+699542,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 27 de julho,20:30,24057
+699545,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 27 de julho,20:30,41322
+699549,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 28 de julho,10:00,7304
+699544,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 28 de julho,15:00,63016
+699540,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 28 de julho,18:00,44048
+699543,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Jefferson Ferreira De Moraes, 28 de julho,18:00,4452
+699546,"Chapecó, Brasil ",Arena Condá,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 28 de julho,18:00,17543
+699555,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,João Vitor Gobi, 3 de agosto,15:00,26715
+699558,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 3 de agosto,18:00,17938
+699551,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 3 de agosto,19:00,8618
+699553,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Jonathan Pinheiro, 3 de agosto,19:00,15642
+699557,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 3 de agosto,20:30,58065
+699550,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 4 de agosto,15:00,26339
+699552,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 4 de agosto,15:00,43947
+699554,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 4 de agosto,15:00,50262
+699556,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 4 de agosto,16:00,30668
+699559,"Espírito Santo, Brasil ",Kléber Andrade,2024 Brasileiro Serie A ,Alex Gomes Stefano, 5 de agosto,20:00,9666
+699565,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Kleber Ariel Gonçalves Da Silva, 10 de agosto,15:00,40311
+699568,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 10 de agosto,18:00,9862
+699562,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 10 de agosto,20:30,41750
+699569,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Raphael Claus, 10 de agosto,20:30,61583
+699561,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,"Daronco, Anderson", 10 de agosto,20:30,20003
+699567,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 11 de agosto,10:00,5288
+699563,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 11 de agosto,15:00,45123
+699564,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 11 de agosto,15:00,55051
+699560,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 11 de agosto,15:00,46600
+699566,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 11 de agosto,18:00,20996
+699406,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 14 de agosto,18:30,11920
+699572,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 17 de agosto,15:00,36290
+699576,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 17 de agosto,15:00,17010
+699578,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Alex Gomes Stefano, 17 de agosto,17:30,3859
+699574,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 17 de agosto,20:00,30475
+699571,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 18 de agosto,15:00,5460
+699579,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 18 de agosto,15:00,18403
+699577,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Raphael Claus, 18 de agosto,15:00,35791
+699570,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,João Vitor Gobi, 18 de agosto,17:30,21930
+699573,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 18 de agosto,17:30,25888
+699575,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 19 de agosto,19:00,16940
+699580,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Bruno Pereira Vasconcelos, 24 de agosto,15:00,4407
+699587,"São Paulo, Brasil ",Brinco de Ouro da Princesa,2024 Brasileiro Serie A ,Alex Gomes Stefano, 24 de agosto,17:30,16566
+699581,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 24 de agosto,20:00,32068
+699582,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Ramon Abatti Abel, 25 de agosto,15:00,39625
+699583,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 25 de agosto,15:00,17377
+699585,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 25 de agosto,15:00,51297
+699588,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 25 de agosto,17:30,32712
+699586,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 25 de agosto,18:00,30754
+699584,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 25 de agosto,19:00,30225
+699589,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Jonathan Pinheiro, 26 de agosto,20:00,16775
+699535,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,André Luis Skettino Policarpo Bento, 28 de agosto,18:30,11849
+699393,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 28 de agosto,18:30,35238
+699594,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 31 de agosto,17:30,4095
+699591,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 31 de agosto,20:00,32564
+699593,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 1 de setembro,10:00,58233
+699596,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Raphael Claus, 1 de setembro,10:00,9961
+699592,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Ramon Abatti Abel, 1 de setembro,15:00,45237
+699590,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 1 de setembro,17:30,28334
+699595,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Paulo Cezar Zanovelli Da Silva, 1 de setembro,17:30,45759
+699597,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 1 de setembro,17:30,10721
+699598,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 1 de setembro,17:30,3858
+699599,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 1 de setembro,17:30,20785
+699503,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Felipe Fernandes De Lima, 5 de setembro,19:00,4826
+699532,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 11 de setembro,18:30,23358
+699605,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Edina Alves Batista, 14 de setembro,15:00,4938
+699600,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 14 de setembro,17:30,15635
+699603,"Rio de Janeiro, Brasil ",Estádio Nilton Santos,2024 Brasileiro Serie A ,"Daronco, Anderson", 14 de setembro,20:00,32691
+699604,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 15 de setembro,15:00,6632
+699602,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Alex Gomes Stefano, 15 de setembro,15:00,40035
+699601,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 15 de setembro,15:00,5228
+699609,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 15 de setembro,17:30,26420
+699608,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 15 de setembro,17:30,44743
+699607,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Raphael Claus, 15 de setembro,17:30,63830
+699606,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 16 de setembro,19:00,32686
+699611,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 21 de setembro,15:00,46001
+699619,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 21 de setembro,15:00,24479
+699614,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 21 de setembro,17:30,29710
+699615,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Raphael Claus, 21 de setembro,20:00,24774
+699610,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 22 de setembro,15:00,24618
+699618,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 22 de setembro,15:00,64848
+699613,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 22 de setembro,17:30,5948
+699616,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 22 de setembro,17:30,17786
+699617,"São Paulo, Brasil ",MorumBIS,2024 Brasileiro Serie A ,Ramon Abatti Abel, 22 de setembro,17:30,39078
+699612,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,"Daronco, Anderson", 22 de setembro,19:00,12765
+699396,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 25 de setembro,18:00,13437
+699509,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 25 de setembro,18:00,3871
+699628,"São Paulo, Brasil ",Brinco de Ouro da Princesa,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 28 de setembro,17:30,16040
+699622,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Maguielson Lima Barbosa, 28 de setembro,20:00,30735
+699627,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Alex Gomes Stefano, 29 de setembro,10:00,6285
+699620,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Ramon Abatti Abel, 29 de setembro,15:00,7871
+699625,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Denis Da Silva Ribeiro Serafim, 29 de setembro,15:00,32654
+699629,"Brasília, Brasil ",Arena BRB Mané Garrincha,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 29 de setembro,15:00,25888
+699621,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Edina Alves Batista, 29 de setembro,17:30,24574
+699623,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 29 de setembro,17:30,36817
+699626,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Wagner Do Nascimento Magalhaes, 29 de setembro,17:30,40405
+699624,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 29 de setembro,19:00,28708
+699639,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,João Vitor Gobi, 3 de outubro,18:00,12343
+699636,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Gustavo Ervino Bauermann, 3 de outubro,20:30,19352
+699637,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 4 de outubro,20:30,21984
+699630,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 5 de outubro,15:30,22726
+699631,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 5 de outubro,15:30,34910
+699634,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 5 de outubro,15:30,9989
+699632,"Salvador, Brasil ",Arena Fonte Nova,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 5 de outubro,18:00,41978
+699633,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Lucas Paulo Torezin, 5 de outubro,18:00,44597
+699635,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,"Daronco, Anderson", 5 de outubro,18:00,11883
+699638,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Caio Max Augusto Vieira, 5 de outubro,20:00,18036
+699401,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,Luiz Flavio de Oliveira, 9 de outubro,18:30,22053
+699645,"Fortaleza, Brasil ",Castelão,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 16 de outubro,20:45,23046
+699648,"São Paulo, Brasil ",Brinco de Ouro da Princesa,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 16 de outubro,20:45,15497
+699642,"São Paulo, Brasil ",Neo Química Arena,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 17 de outubro,19:00,44116
+699644,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Raphael Claus, 17 de outubro,19:00,58117
+699640,"Goiãnia, Brasil ",Estádio Antônio Accioly,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 18 de outubro,18:00,3622
+699641,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Matheus Delgado Candançan, 18 de outubro,19:00,64727
+699643,"Belo Horizonte, Brasil ",Estadio Mineirão,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 18 de outubro,20:30,34473
+699646,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 19 de outubro,15:00,50259
+699649,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Denis Da Silva Ribeiro Serafim, 19 de outubro,15:00,24942
+699647,"Caxias do Sul, Brasil ",Alfredo Jaconi,2024 Brasileiro Serie A ,Alex Gomes Stefano, 20 de outubro,19:00,10102
+699512,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 22 de outubro,18:30,39465
+699530,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Wilton Pereira Sampaio, 24 de outubro,18:00,16698
+699654,"Rio de Janeiro, Brasil ",Estadio do Maracanã,2024 Brasileiro Serie A ,Braulio Da Silva Machado, 26 de outubro,15:30,60286
+699655,"Porto Alegre, Brasil ",Grêmio Arena,2024 Brasileiro Serie A ,Edina Alves Batista, 26 de outubro,15:30,36754
+699656,"São Paulo, Brasil ",Allianz Parque,2024 Brasileiro Serie A ,Ramon Abatti Abel, 26 de outubro,15:30,40321
+699659,"Salvador, Brasil ",Estádio Manoel Barradas,2024 Brasileiro Serie A ,Flavio Rodrigues de Souza, 26 de outubro,15:30,29186
+699650,"Curitiba, Brasil ",Ligga Arena,2024 Brasileiro Serie A ,Rodrigo Jose Pereira De Lima, 26 de outubro,17:30,35552
+699651,"Belo Horizonte, Brasil ",Arena MRV,2024 Brasileiro Serie A ,"De Lima Henrique, Marcelo", 26 de outubro,18:00,27028
+699657,"Bragança Paulista, Brasil ",Estádio Nabi Abi Chedid,2024 Brasileiro Serie A ,"Daronco, Anderson", 26 de outubro,18:00,7303
+699652,"Criciúma, Brasil ",Heriberto Hülse,2024 Brasileiro Serie A ,Rafael Rodrigo Klein, 26 de outubro,20:00,17422
+699653,"Cuiabá, Brasil ",Arena Pantanal,2024 Brasileiro Serie A ,Bruno Arleu de Araujo, 28 de outubro,18:00,
+699658,"Rio de Janeiro, Brasil ",Estádio São Januário,2024 Brasileiro Serie A ,Raphael Claus, 28 de outubro,20:00,17213
+699510,"Porto Alegre, Brasil ",Estadio Beira-Rio,2024 Brasileiro Serie A ,Davi De Oliveira Lacerda, 30 de outubro,18:00,

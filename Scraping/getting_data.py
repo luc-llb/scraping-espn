@@ -11,7 +11,9 @@ logging.basicConfig(filename='getting_data.log', level=logging.DEBUG,
                     format='%(asctime)s - %(levelname)s - %(message)s', encoding='utf-8')
 
 # obtendo os links dos jogos desde a primeira rodada 2024-04-13
+print('Getting games links...')
 jogos = sc.get_all_games(20240413) 
+print(f'+{len(jogos)} Games links obtained!')
 
 # Obterndo os dados de cada jogo
 dados = {
@@ -20,6 +22,7 @@ dados = {
     'escalacoes': [],
 }
 
+print('Getting data from games...')
 for jogo in jogos.values():
     if jogo is None:
         continue
@@ -30,6 +33,7 @@ for jogo in jogos.values():
         dados['escalacoes'].append(sc.get_lineup(str(id)))
 
 # Formatando os dados para utiliza-los no banco de dados
+print('Formatting data...')
 estatisticas, escalacoes, lances, partidas = [], [], [], []
 
 for i in range(len(dados['estatisticas'])):
@@ -51,6 +55,7 @@ for i in range(len(dados['estatisticas'])):
                 escalacoes.append(e)
 
 # Obtendo os dados dos times e jogadores
+print('Getting players...')
 times_id = sc.get_teams_id()
 elencos = []
 for time in times_id:
@@ -59,6 +64,7 @@ for time in times_id:
     for nome, id in time.items():
         elencos.append(sc.get_cast(id))
 
+print('Formatting data...')
 jogadores, passagens = [], []
 for time in elencos:
     if time is None:
@@ -76,10 +82,13 @@ for time in times_id:
     times.append(df.format_times(time))
 
 # Salvando os dados em arquivos csv (cada csv é uma tabela do banco de dados)
-df.save_toCSV(estatisticas, 'Datas/estatisticas.csv', ['id_partida', 'time', 'chute_gol', 'chute', 'gol', 'defesa', 'posse'])
-df.save_toCSV(escalacoes, 'Datas/escalacoes.csv', ['time', 'partida', 'jogador', 'status'])
-df.save_toCSV(lances, 'Datas/lances.csv', ['partida', 'jogador-1', 'jogador-2', 'tipo', 'minuto', 'descricao', 'time'])
-df.save_toCSV(partidas, 'Datas/partidas.csv', ['partida', 'local', 'estadio', 'campeonato', 'arbitro', 'data', 'horario', 'audiencia', 'mandante', 'visitante'])
-df.save_toCSV(jogadores, 'Datas/jogadores.csv', ['nome', 'posicao', 'idade', 'altura', 'nacionalidade'])
-df.save_toCSV(passagens, 'Datas/passagens.csv', ['jogador', 'time', 'ano'])
-df.save_toCSV(times, 'Datas/times.csv', ['id', 'nome'])
+print('Saving informations...')
+df.save_toCSV(estatisticas, 'Datas/estatisticas.csv', ['id_partida', 'id_time', 'chute_gol', 'gol', 'chute', 'defesa', 'posse'])
+df.save_toCSV(escalacoes, 'Datas/escalacoes.csv', ['time', 'partida', 'jogador', 'status_'])
+df.save_toCSV(lances, 'Datas/lances.csv', ['id_partida', 'jogador_1', 'jogador_2', 'tipo', 'minuto', 'descricao', 'time'])
+df.save_toCSV(partidas, 'Datas/partidas.csv', ['espn_id', 'local_', 'estadio', 'campeonato', 'arbitro', 'data_', 'horario', 'audiencia'])
+df.save_toCSV(jogadores, 'Datas/jogadores.csv', ['nome', 'espn_id', 'posicao', 'idade', 'altura', 'nacionalidade'])
+df.save_toCSV(passagens, 'Datas/passagens.csv', ['id_jogador', 'id_time', 'ano'])
+df.save_toCSV(times, 'Datas/times.csv', ['nome', 'espn_id'])
+
+print('Sucessfull operation!!')

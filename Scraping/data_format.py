@@ -10,10 +10,10 @@ def stats_formatting(data: dict, id: str) -> list:
 
         return {
             'id_partida': id,
-            'time': data['time'],
+            'id_time': data['time'],
             'chute_gol': int(data['chute a gol']),
-            'chute': int(data['chute']),
             'gol': int(data['gols']),
+            'chute': int(data['chute']),
             'defesa': int(data['defesas']),
             'posse': float(data['posse'])
         }
@@ -29,14 +29,14 @@ def lineUp_formatting(data: dict, team: str, game: str) -> list:
             player = {
                 'time': team,
                 'partida': int(game),
-                'jogador': name
+                'jogador': int(name)
             }
             if key == 'titulares':
-                player['status'] = 'TITULAR'
+                player['status_'] = 'TITULAR'
             elif key == 'substitutos':
-                player['status'] = 'SUBSTITUTO'
+                player['status_'] = 'SUBSTITUTO'
             else:
-                player['status'] = 'RESERVA'
+                player['status_'] = 'RESERVA'
             datas.append(player)
     return datas
 
@@ -45,6 +45,7 @@ def format_jogadores(data: dict) -> dict:
 
     return {
         'nome': data['nome'],
+        'espn_id': int(data['espn_id']),
         'posicao': data['posicao'],
         'idade': int(data['idade']),
         'altura': float(data['altura'].replace(' m', '')) if data['altura'] != None else None,
@@ -59,9 +60,9 @@ def format_lances(data: dict) -> list:
     game = data_aux.pop('partida')
     for key, value in data_aux.items():
         datas.append({
-            'partida': game,
-            'jogador-1': value['jogador-1'],
-            'jogador-2': value['jogador-2'],
+            'id_partida': game,
+            'jogador_1': value['jogador-1'],
+            'jogador_2': value['jogador-2'],
             'tipo': value['tipo'],
             'minuto': value['minuto'],
             'descricao': value['descricao'],
@@ -73,16 +74,16 @@ def format_partidas(data: dict) -> dict:
     '''Format the data from the table Partidas'''
 
     return {
-        'partida': int(data['partida']),
-        'local': data['local'],
+        'espn_id': int(data['partida']),
+        'local_': data['local'],
         'estadio': data['estadio'],
         'campeonato': data['campeonato'],
         'arbitro': data['arbitro'],
-        'data': data['data'],
+        'data_': data['data'],
         'horario': data['horario'],
         'audiencia': int(data['audiencia']) if data['audiencia'] != None else None,
-        'mandante': data['mandante']['time'],
-        'visitante': data['visitante']['time'],
+        # 'mandante': data['mandante']['time'],
+        # 'visitante': data['visitante']['time'],
     }
 
 def format_estatisticas_partida(data: dict) -> list:
@@ -104,19 +105,19 @@ def format_times(data: dict) -> dict:
 
     team = list(data.keys())[0]
     return {
-        'id': int(data[team].split('/')[0]),
-        'nome': team
+        'nome': team,
+        'espn_id': int(data[team].split('/')[0])
     }
 
 def format_passagens(data: dict) -> list:
     '''Format the data from the table Passagens'''
 
     datas = []
+    time = data['time'].split('/')[0]
     for player in data['jogadores']:
-        time = data['time'].split('/')[0]
         datas.append({
-            'jogador': player['nome'],
-            'time': int(time),
+            'id_jogador': int(player['espn_id']),
+            'id_time': int(time),
             'ano': int(data['temporada'])
         })
     return datas

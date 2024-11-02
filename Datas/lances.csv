@@ -1,4 +1,4 @@
-partida,jogador-1,jogador-2,tipo,minuto,descricao,time
+id_partida,jogador_1,jogador_2,tipo,minuto,descricao,id_time
 699353,,,ENCERRAMENTO-2,90'+7',,
 699353,Rodrigo Sam,,CARTAO-AMARELO,90'+6',,Juventude
 699353,Yannick Bolasie,,CARTAO-AMARELO,90'+6',,Criciúma
@@ -10888,6 +10888,114 @@ partida,jogador-1,jogador-2,tipo,minuto,descricao,time
 699469,,Ferreira,FALTA-SOFRIDA,4',,São Paulo
 699469,Ronald,,FALTA-FEITA,4',,Criciúma
 699469,Alisson,,GOL,1',,São Paulo
+699472,,,ENCERRAMENTO-2,90'+10',,
+699472,Nathan Mendes,Lucas Evangelista ,IMPEDIMENTO,90'+8',,RB Bragantino
+699472,Isidro Pitta,,CARTAO-AMARELO,90'+7',,Cuiabá
+699472,Luciano Giménez,,CARTAO-VERMELHO,90'+7',por brigar com outro jogador,Cuiabá
+699472,Pedro Henrique,,LESAO,90'+5',,RB Bragantino
+699472,,Pedro Henrique,FALTA-SOFRIDA,90'+5',,RB Bragantino
+699472,Luciano Giménez,,FALTA-FEITA,90'+5',,Cuiabá
+699472,André Luís,Luciano Giménez ,IMPEDIMENTO,90'+3',,Cuiabá
+699472,,Fernando Sobral,FALTA-SOFRIDA,90'+2',,Cuiabá
+699472,Henry Mosquera,,FALTA-FEITA,90'+2',,RB Bragantino
+699472,,Nathan Mendes,ESCANTEIO,90'+1',, Cuiabá
+699472,Luciano Giménez,,GOL-PERDIDO,90'+1',CHUTE (pé esquerdo),Cuiabá
+699472,,Nathan Mendes,ESCANTEIO,88',, Cuiabá
+699472,,Luciano Giménez,ESCANTEIO,87',, RB Bragantino
+699472,Bruno Alves,,FALTA-FEITA,87',,Cuiabá
+699472,,Everton,FALTA-SOFRIDA,87',,RB Bragantino
+699472,Guilherme,Helinho uma lesão,SUBSTITUICAO,86',, RB Bragantino
+699472,Fernando Sobral,Denilson,SUBSTITUICAO,86',, Cuiabá
+699472,Luciano Giménez,Isidro Pitta,SUBSTITUICAO,86',, Cuiabá
+699472,,Eliel,ESCANTEIO,85',, RB Bragantino
+699472,Helinho,,FALTA-FEITA,84',,RB Bragantino
+699472,,Denilson,FALTA-SOFRIDA,84',,Cuiabá
+699472,Walter,Isidro Pitta ,IMPEDIMENTO,82',,Cuiabá
+699472,André Luís,,CARTAO-AMARELO,80',por uma entrada perigosa,Cuiabá
+699472,Juninho Capixaba,,GOL-PERDIDO,80',CHUTE (pé esquerdo),RB Bragantino
+699472,Bruno Alves,,FALTA-FEITA,80',,Cuiabá
+699472,,Everton,FALTA-SOFRIDA,80',,RB Bragantino
+699472,,Isidro Pitta,FALTA-SOFRIDA,79',,Cuiabá
+699472,Luan Cândido,,FALTA-FEITA,79',,RB Bragantino
+699472,Nathan Mendes,,LESAO,76',,RB Bragantino
+699472,Eliel,,LESAO,76',,Cuiabá
+699472,,Gustavinho,FALTA-SOFRIDA,75',,RB Bragantino
+699472,Lucas Fernandes,,FALTA-FEITA,75',,Cuiabá
+699472,Juninho Capixaba,,FALTA-FEITA,74',,RB Bragantino
+699472,,André Luís,FALTA-SOFRIDA,74',,Cuiabá
+699472,,Matheus Alexandre,FALTA-SOFRIDA,74',,Cuiabá
+699472,Henry Mosquera,,FALTA-FEITA,74',,RB Bragantino
+699472,André Luís,Derik Lacerda,SUBSTITUICAO,73',, Cuiabá
+699472,Jadsom,Eric Ramires,SUBSTITUICAO,73',, RB Bragantino
+699472,Gustavinho,Lincoln,SUBSTITUICAO,73',, RB Bragantino
+699472,Everton,,CARTAO-AMARELO,72',por uma entrada perigosa,RB Bragantino
+699472,Everton,,FALTA-FEITA,72',,RB Bragantino
+699472,,Eliel,FALTA-SOFRIDA,72',,Cuiabá
+699472,,Matheus Alexandre,ESCANTEIO,71',, RB Bragantino
+699472,Ramon,,GOL-PERDIDO,71',CHUTE (pé esquerdo),Cuiabá
+699472,,Luan Cândido,ESCANTEIO,70',, Cuiabá
+699472,,Ramon,ESCANTEIO,69',, RB Bragantino
+699472,Henry Mosquera,Talisson uma lesão,SUBSTITUICAO,66',, RB Bragantino
+699472,Everton,Vitinho,SUBSTITUICAO,66',, RB Bragantino
+699472,Talisson,,LESAO,65',,RB Bragantino
+699472,,Lucas Mineiro,ESCANTEIO,63',, RB Bragantino
+699472,Lucas Fernandes,Filipe Augusto,SUBSTITUICAO,62',, Cuiabá
+699472,Eliel,Railan,SUBSTITUICAO,62',, Cuiabá
+699472,,Nathan Mendes,FALTA-SOFRIDA,61',,RB Bragantino
+699472,Ramon,,FALTA-FEITA,61',,Cuiabá
+699472,Helinho,Luan Cândido ,IMPEDIMENTO,60',,RB Bragantino
+699472,,Matheus Alexandre,ESCANTEIO,60',, RB Bragantino
+699472,,Lucas Mineiro,ESCANTEIO,59',, RB Bragantino
+699472,,Railan,ESCANTEIO,59',, RB Bragantino
+699472,,Marllon,FALTA-SOFRIDA,56',,Cuiabá
+699472,Talisson,,FALTA-FEITA,56',,RB Bragantino
+699472,Nathan Mendes,,FALTA-FEITA,56',,RB Bragantino
+699472,,Derik Lacerda,FALTA-SOFRIDA,56',,Cuiabá
+699472,Lincoln,,GOL-PERDIDO,55',CHUTE (pé direito),RB Bragantino
+699472,Derik Lacerda,,LESAO,54',,Cuiabá
+699472,,Marllon,ESCANTEIO,53',, RB Bragantino
+699472,,Isidro Pitta,FALTA-SOFRIDA,49',,Cuiabá
+699472,Luan Cândido,,FALTA-FEITA,49',,RB Bragantino
+699472,Helinho,,GOL-PERDIDO,48',CHUTE (pé esquerdo),RB Bragantino
+699472,,Talisson,FALTA-SOFRIDA,47',,RB Bragantino
+699472,Lucas Mineiro,,FALTA-FEITA,47',,Cuiabá
+699472,,,ENCERRAMENTO-1,45'+7',,
+699472,Derik Lacerda,,CARTAO-AMARELO,45'+3',,Cuiabá
+699472,Eric Ramires,,CARTAO-AMARELO,45'+3',por uma entrada perigosa,RB Bragantino
+699472,Eric Ramires,,FALTA-FEITA,45'+3',,RB Bragantino
+699472,,Bruno Alves,FALTA-SOFRIDA,45'+3',,Cuiabá
+699472,,Filipe Augusto,FALTA-SOFRIDA,43',,Cuiabá
+699472,Eric Ramires,,FALTA-FEITA,43',,RB Bragantino
+699472,Helinho,Eric Ramires,GOL,42',,RB Bragantino
+699472,Pedro Henrique,,FALTA-FEITA,37',,RB Bragantino
+699472,,Derik Lacerda,FALTA-SOFRIDA,37',,Cuiabá
+699472,Lucas Evangelista,,GOL-PERDIDO,35',CHUTE (pé esquerdo),RB Bragantino
+699472,,Railan,ESCANTEIO,35',, RB Bragantino
+699472,,Matheus Alexandre,ESCANTEIO,35',, RB Bragantino
+699472,Derik Lacerda,Railan com um cruzamento,GOL,33',,Cuiabá
+699472,Eric Ramires,,FALTA-FEITA,30',,RB Bragantino
+699472,,Derik Lacerda,FALTA-SOFRIDA,30',,Cuiabá
+699472,,Railan,FALTA-SOFRIDA,28',,Cuiabá
+699472,Eric Ramires,,FALTA-FEITA,28',,RB Bragantino
+699472,,Lucas Evangelista,FALTA-SOFRIDA,28',,RB Bragantino
+699472,Filipe Augusto,,FALTA-FEITA,28',,Cuiabá
+699472,,Isidro Pitta,FALTA-SOFRIDA,26',,Cuiabá
+699472,Lincoln,,FALTA-FEITA,26',,RB Bragantino
+699472,Vitinho,,GOL-PERDIDO,22',CHUTE (pé direito),RB Bragantino
+699472,Lucas Mineiro,,CARTAO-AMARELO,19',por uma entrada perigosa,Cuiabá
+699472,,Vitinho,FALTA-SOFRIDA,19',,RB Bragantino
+699472,Lucas Mineiro,,FALTA-FEITA,19',,Cuiabá
+699472,Lucas Mineiro,,FALTA-FEITA,15',,Cuiabá
+699472,,Eric Ramires,FALTA-SOFRIDA,15',,RB Bragantino
+699472,Filipe Augusto,,FALTA-FEITA,14',,Cuiabá
+699472,,Eric Ramires,FALTA-SOFRIDA,14',,RB Bragantino
+699472,,Helinho,FALTA-SOFRIDA,11',,RB Bragantino
+699472,Filipe Augusto,,FALTA-FEITA,11',,Cuiabá
+699472,,Marllon,FALTA-SOFRIDA,8',,Cuiabá
+699472,Talisson,,FALTA-FEITA,8',,RB Bragantino
+699472,Derik Lacerda,,GOL-PERDIDO,6',CHUTE (pé direito),Cuiabá
+699472,,Helinho,FALTA-SOFRIDA,3',,RB Bragantino
+699472,Filipe Augusto,,FALTA-FEITA,3',,Cuiabá
 699478,,,ENCERRAMENTO-2,90'+6',,
 699478,,Rayan,FALTA-SOFRIDA,90'+4',,Vasco da Gama
 699478,Kauê,,FALTA-FEITA,90'+4',,Botafogo
@@ -29048,3 +29156,70 @@ partida,jogador-1,jogador-2,tipo,minuto,descricao,time
 699658,,Kanu,FALTA-SOFRIDA,7',,Bahia
 699658,Emerson Rodríguez,,FALTA-FEITA,7',,Vasco da Gama
 699658,,Emerson Rodríguez,ESCANTEIO,6',,Bahia
+699510,Rômulo,,GOL-PERDIDO,77',CABECEIO,Internacional
+699510,,Fabrício Bruno,ESCANTEIO,77',,Internacional
+699510,Carlos Alcaraz,,GOL-PERDIDO,76',CHUTE (pé direito),Flamengo
+699510,Vitão,,GOL-PERDIDO,74',CHUTE (pé esquerdo),Internacional
+699510,Enner Valencia,Thiago Maia,SUBSTITUICAO,73',,Internacional
+699510,,Guillermo Varela,ESCANTEIO,72',,Internacional
+699510,,Ayrton Lucas,ESCANTEIO,71',,Internacional
+699510,Michael,Gonzalo Plata,SUBSTITUICAO,68',,Flamengo
+699510,Agustín Rossi,,LESAO,67',,Flamengo
+699510,Rafael Borré,,FALTA-FEITA,67',,Internacional
+699510,,Agustín Rossi,FALTA-SOFRIDA,67',,Flamengo
+699510,Wanderson,Wesley,SUBSTITUICAO,64',,Internacional
+699510,Gabriel Carvalho,Tabata,SUBSTITUICAO,63',,Internacional
+699510,Carlos Alcaraz,,FALTA-FEITA,62',,Flamengo
+699510,,Bruno Gomes,FALTA-SOFRIDA,62',,Internacional
+699510,Tabata,Rafael Borré,IMPEDIMENTO,61',,Internacional
+699510,Gerson,,CARTAO-AMARELO,58',por uma entrada perigosa,Flamengo
+699510,,Rômulo,FALTA-SOFRIDA,58',,Internacional
+699510,Gerson,,FALTA-FEITA,58',,Flamengo
+699510,Alexandro Bernabéi,,GOL-PERDIDO,55',CHUTE (pé esquerdo),Internacional
+699510,Fabrício Bruno,,CARTAO-AMARELO,51',por uma entrada perigosa,Flamengo
+699510,,Wesley,FALTA-SOFRIDA,51',,Internacional
+699510,Fabrício Bruno,,FALTA-FEITA,51',,Flamengo
+699510,Wesley,,LESAO,50',,Internacional
+699510,,Gerson,FALTA-SOFRIDA,47',,Flamengo
+699510,Alan Patrick,,FALTA-FEITA,47',,Internacional
+699510,Clayton,Agustín Rogel,SUBSTITUICAO,45',,Internacional
+699510,,,ENCERRAMENTO-1,45'+5',,
+699510,Carlos Alcaraz,,GOL,45'+3',,Flamengo
+699510,Tabata,,GOL-PERDIDO,45',CHUTE (pé esquerdo),Internacional
+699510,,Sergio Rochet,ESCANTEIO,44',,Flamengo
+699510,,Vitão,ESCANTEIO,43',,Flamengo
+699510,Tabata,,FALTA-FEITA,41',,Internacional
+699510,,Ayrton Lucas,FALTA-SOFRIDA,41',,Flamengo
+699510,Erick Pulgar,,CARTAO-AMARELO,40',por uma entrada perigosa,Flamengo
+699510,,Wesley,FALTA-SOFRIDA,40',,Internacional
+699510,Erick Pulgar,,FALTA-FEITA,40',,Flamengo
+699510,Rafael Borré,,GOL-PERDIDO,39',CABECEIO,Internacional
+699510,,Rafael Borré,FALTA-SOFRIDA,37',,Internacional
+699510,Fabrício Bruno,,FALTA-FEITA,37',,Flamengo
+699510,Agustín Rossi,Bruno Henrique,IMPEDIMENTO,36',,Flamengo
+699510,Alexandro Bernabéi,,FALTA-FEITA,36',,Internacional
+699510,,Carlos Alcaraz,FALTA-SOFRIDA,36',,Flamengo
+699510,,Rafael Borré,ESCANTEIO,34',,Flamengo
+699510,,Wesley,ESCANTEIO,33',,Flamengo
+699510,,Bruno Gomes,ESCANTEIO,33',,Flamengo
+699510,Bruno Henrique,,LESAO,31',,Flamengo
+699510,Agustín Rogel,,CARTAO-AMARELO,31',por uma entrada perigosa,Internacional
+699510,Agustín Rogel,,FALTA-FEITA,31',,Internacional
+699510,,Bruno Henrique,FALTA-SOFRIDA,31',,Flamengo
+699510,Guillermo Varela,Bruno Henrique,IMPEDIMENTO,30',,Flamengo
+699510,Léo Ortiz,Bruno Henrique,IMPEDIMENTO,28',,Flamengo
+699510,Carlos Alcaraz,Bruno Henrique,IMPEDIMENTO,26',,Flamengo
+699510,Bruno Henrique,,GOL-PERDIDO,23',CABECEIO,Flamengo
+699510,,Rafael Borré,FALTA-SOFRIDA,22',,Internacional
+699510,Fabrício Bruno,,FALTA-FEITA,22',,Flamengo
+699510,,Gonzalo Plata,FALTA-SOFRIDA,19',,Flamengo
+699510,Wesley,,FALTA-FEITA,19',,Internacional
+699510,,Gonzalo Plata,FALTA-SOFRIDA,14',,Flamengo
+699510,Wesley,,FALTA-FEITA,14',,Internacional
+699510,Gerson,,GOL-PERDIDO,12',CHUTE (pé esquerdo),Flamengo
+699510,Bruno Henrique,,GOL-PERDIDO,6',CHUTE (pé esquerdo),Flamengo
+699510,Wesley,,GOL-PERDIDO,6',CHUTE (pé direito),Internacional
+699510,,Guillermo Varela,ESCANTEIO,5',,Internacional
+699510,Guillermo Varela,,CARTAO-AMARELO,4',por uma entrada perigosa,Flamengo
+699510,,Wesley,FALTA-SOFRIDA,4',,Internacional
+699510,Guillermo Varela,,FALTA-FEITA,4',,Flamengo

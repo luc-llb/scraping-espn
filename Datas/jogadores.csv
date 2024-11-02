@@ -1,920 +1,920 @@
-nome,posicao,idade,altura,nacionalidade
-Gatito Fernández,GOLEIRO,36,1.96,Paraguai
-John,GOLEIRO,28,1.96,Brasil
-Lucas Barreto,GOLEIRO,22,,Brasil
-Cristiano,GOLEIRO,19,,Brasil
-Igo Gabriel,GOLEIRO,23,1.91,Brasil
-Raul,GOLEIRO,27,1.88,Brasil
-Rafael,DEFENSOR,34,1.73,Brasil
-Lucas Halter,DEFENSOR,24,1.88,Brasil
-Mateo Ponte,DEFENSOR,21,1.78,Uruguai
-Alex Telles,DEFENSOR,31,1.8,Brasil
-Bastos,DEFENSOR,33,1.83,Angola
-Hugo,DEFENSOR,23,1.75,Brasil
-Alexander Barboza,DEFENSOR,29,1.93,Argentina
-Fernando Marçal,DEFENSOR,35,1.75,Brasil
-Vitinho,DEFENSOR,25,1.75,Brasil
-Pablo,DEFENSOR,33,1.8,Brasil
-Adryelson,DEFENSOR,26,1.83,Brasil
-Kawan,DEFENSOR,21,1.88,Brasil
-Cuiabano,DEFENSOR,21,1.8,Brasil
-Mohamed El Arouch,MEIO-CAMPO,20,1.65,França
-Kauan Lindes,MEIO-CAMPO,20,,Brasil
-Danilo,MEIO-CAMPO,28,1.83,Brasil
-Tchê Tchê,MEIO-CAMPO,32,1.75,Brasil
-Marlon Freitas,MEIO-CAMPO,29,1.85,Brasil
-Thiago Almada,MEIO-CAMPO,23,1.7,Argentina
-Kauê Rodrigues Pessanha,MEIO-CAMPO,20,1.75,Brasil
-Gregore,MEIO-CAMPO,30,1.8,Brasil
-Allan,MEIO-CAMPO,33,1.75,Brasil
-Carlos Eduardo,MEIO-CAMPO,35,1.83,Brasil
-Rhuan,MEIO-CAMPO,20,,Brasil
-Óscar Romero,MEIO-CAMPO,32,1.75,Paraguai
-Bernardo Valim,MEIO-CAMPO,18,1.88,Brasil
-Luiz Henrique,ATACANTE,23,1.8,Brasil
-Tiquinho Soares,ATACANTE,33,1.83,Brasil
-Jefferson Savarino,ATACANTE,27,1.68,Venezuela
-Júnior Santos,ATACANTE,30,1.85,Brasil
-Carlos Alberto,ATACANTE,22,1.78,Brasil
-Matheus Martins,ATACANTE,21,1.78,Brasil
-Jeffinho,ATACANTE,24,1.75,Brasil
-Kayke,ATACANTE,18,,Brasil
-Lucas Vargas,ATACANTE,19,,Brasil
-Yarlen Faustino Augusto,ATACANTE,18,,Brasil
-Rafael Lobato,ATACANTE,18,1.7,Brasil
-Fabiano,ATACANTE,18,1.8,Brasil
-Matheus Nascimento,ATACANTE,20,1.83,Brasil
-Igor Jesus,ATACANTE,23,1.8,Brasil
-Mateus Oliveira,GOLEIRO,22,1.98,Brasil
-Marcelo Lomba,GOLEIRO,37,1.88,Brasil
-Weverton,GOLEIRO,36,1.88,Brasil
-Aranha,GOLEIRO,19,,Brasil
-Deivid Andrade Soares,GOLEIRO,19,1.96,Brasil
-Marcos Rocha,DEFENSOR,35,1.75,Brasil
-Agustín Giay,DEFENSOR,20,1.8,Argentina
-Vanderlan,DEFENSOR,22,1.83,Brasil
-Mayke,DEFENSOR,31,1.78,Brasil
-Gustavo Gómez,DEFENSOR,31,1.85,Paraguai
-Joaquín Piquerez,DEFENSOR,26,1.83,Uruguai
-Murilo,DEFENSOR,27,1.88,Brasil
-Michel,DEFENSOR,21,1.88,Brasil
-Kaiky Naves,DEFENSOR,22,1.8,Brasil
-Arthur,DEFENSOR,19,1.75,Brasil
-Vitor Nunes,DEFENSOR,18,1.85,Brasil
-Gabriel Kidani,DEFENSOR,18,1.68,Brasil
-Gilberto,DEFENSOR,19,1.65,Brasil
-Luis Benedetti,DEFENSOR,18,1.98,Brasil
-Aníbal Moreno,MEIO-CAMPO,25,1.78,Argentina
-Zé Rafael,MEIO-CAMPO,31,1.75,Brasil
-Felipe Anderson,MEIO-CAMPO,31,1.75,Brasil
-Caio Paulista,MEIO-CAMPO,26,1.8,Brasil
-Mauricio,MEIO-CAMPO,23,1.75,Brasil
-Romulo,MEIO-CAMPO,23,,Brasil
-Raphael Veiga,MEIO-CAMPO,29,1.78,Brasil
-Gabriel Menino,MEIO-CAMPO,24,1.78,Brasil
-Richard Ríos,MEIO-CAMPO,24,1.85,Colômbia
-Fabinho,MEIO-CAMPO,22,1.78,Brasil
-Patrick Silva,MEIO-CAMPO,20,1.88,Brasil
-Vitor Figueiredo,MEIO-CAMPO,18,1.73,Brasil
-Silva,MEIO-CAMPO,19,,Brasil
-Rafael Coutinho,MEIO-CAMPO,18,1.78,Brasil
-Thalys,MEIO-CAMPO,19,1.83,Brasil
-Dudu,ATACANTE,32,1.68,Brasil
-Rony,ATACANTE,29,1.68,Brasil
-Bruno Nascimento,ATACANTE,27,1.78,Brasil
-Lázaro,ATACANTE,22,1.8,Brasil
-Riquelme,ATACANTE,18,1.75,Brasil
-Daniel Silva,ATACANTE,20,1.8,Brasil
-Estêvão,ATACANTE,17,1.75,Brasil
-José López,ATACANTE,23,1.91,Argentina
-Edney Henrique Santos Da Silva,ATACANTE,20,1.75,Brasil
-Allan,ATACANTE,20,1.75,Brasil
-Luighi Hanri,ATACANTE,18,1.83,Brasil
-Wendell Sacramento,ATACANTE,19,,Brasil
-João Ricardo,GOLEIRO,36,1.85,Brasil
-Magrão,GOLEIRO,24,1.98,Brasil
-Santos,GOLEIRO,34,1.93,Brasil
-Mauricio Kozlinski,GOLEIRO,33,1.91,Brasil
-Murilo D'Angelo,GOLEIRO,20,1.85,Brasil
-Tinga,DEFENSOR,31,1.78,Brasil
-Titi,DEFENSOR,36,1.85,Brasil
-Bruno Pacheco,DEFENSOR,32,1.75,Brasil
-Benjamín Kuscevic,DEFENSOR,28,1.85,Chile
-Jhonatan,DEFENSOR,25,1.65,Brasil
-Emanuel Britez,DEFENSOR,32,1.78,Argentina
-Tomás Cardona,DEFENSOR,29,1.85,Argentina
-Eros Mancuso,DEFENSOR,25,1.7,Argentina
-Felipe Jonatan,DEFENSOR,26,1.73,Brasil
-Arthur Barbosa,DEFENSOR,18,1.78,Brasil
-Guilherme,DEFENSOR,19,,Brasil
-Samuel Estevam,DEFENSOR,19,,Brasil
-Gustavo,DEFENSOR,20,1.75,Brasil
-Tomás Pochettino,MEIO-CAMPO,28,1.78,Argentina
-Emmanuel Martínez,MEIO-CAMPO,30,1.7,Argentina
-Calebe,MEIO-CAMPO,24,1.73,Brasil
-Matheus Rossetto,MEIO-CAMPO,28,1.8,Brasil
-José Welison,MEIO-CAMPO,29,1.78,Brasil
-Yago Pikachu,MEIO-CAMPO,32,1.7,Brasil
-Pedro Augusto,MEIO-CAMPO,27,1.8,Brasil
-Hércules,MEIO-CAMPO,24,1.78,Brasil
-Gabriel Cunha,MEIO-CAMPO,19,1.75,Brasil
-Fabrício Dias,MEIO-CAMPO,20,,Brasil
-Kaue,MEIO-CAMPO,20,,Brasil
-Michel Cavalcante,MEIO-CAMPO,18,1.75,Brasil
-Lucas Sasha,MEIO-CAMPO,34,1.78,Brasil
-Juan Martín Lucero,ATACANTE,33,1.78,Argentina
-Marinho,ATACANTE,34,1.68,Brasil
-Breno,ATACANTE,28,1.75,Brasil
-Moisés,ATACANTE,28,1.78,Brasil
-Alexsandro Amorim,ATACANTE,19,1.73,Brasil
-Iarley Barros,ATACANTE,21,1.73,Brasil
-Kauan,ATACANTE,19,1.7,Brasil
-Imanol Machuca,ATACANTE,24,1.68,Argentina
-Tavinho,ATACANTE,20,1.7,Brasil
-Landerson,ATACANTE,17,1.68,Brasil
-Kaiky,ATACANTE,20,1.8,Brasil
-Kervin Andrade,ATACANTE,19,1.63,Venezuela
-Renato Kayzer,ATACANTE,28,1.78,Brasil
-Agustín Rossi,GOLEIRO,29,1.93,Argentina
-Lucas Furtado Dos Santos,GOLEIRO,19,,Brasil
-Matheus Cunha,GOLEIRO,23,1.8,Brasil
-Dyogo,GOLEIRO,20,1.8,Brasil
-Caio Albado Barone,GOLEIRO,18,1.96,Brasil
-Gullermo Varela,DEFENSOR,31,1.73,Uruguai
-Léo Ortiz,DEFENSOR,28,1.85,Brasil
-Léo Pereira,DEFENSOR,28,1.88,Brasil
-Ayrton Lucas,DEFENSOR,27,1.8,Brasil
-Fabrício Bruno,DEFENSOR,28,1.91,Brasil
-Matías Viña,DEFENSOR,26,1.75,Uruguai
-David Luiz,DEFENSOR,37,1.88,Brasil
-Alex Sandro,DEFENSOR,33,1.8,Brasil
-Cleiton,DEFENSOR,21,1.8,Brasil
-José Welinton,DEFENSOR,20,1.7,Brasil
-Da Mata,DEFENSOR,18,1.85,Brasil
-Wesley França,DEFENSOR,21,1.78,Brasil
-João Victor Schlickmann Carbone,DEFENSOR,19,,Brasil
-Germano,DEFENSOR,18,1.75,Brasil
-Daniel Sales,DEFENSOR,18,1.78,Brasil
-Lucyan,DEFENSOR,18,1.78,Brasil
-Iago Teodoro Da Silva Nogueira,DEFENSOR,19,1.8,Brasil
-João Cunha,DEFENSOR,17,1.88,Brasil
-Ainoã Ricardo Silva Oliveira,DEFENSOR,19,,Brasil
-Erick Pulgar,MEIO-CAMPO,30,1.88,Chile
-Gerson,MEIO-CAMPO,27,1.88,Brasil
-Giorgian de Arrascaeta,MEIO-CAMPO,30,1.73,Uruguai
-Nicolás de la Cruz,MEIO-CAMPO,27,1.68,Uruguai
-Lorran,MEIO-CAMPO,18,1.78,Brasil
-Allan,MEIO-CAMPO,27,1.75,Brasil
-Michael Delgado,MEIO-CAMPO,28,1.65,Brasil
-Rayan,MEIO-CAMPO,19,1.8,Brasil
-Carlos Alcaraz,MEIO-CAMPO,21,1.75,Argentina
-Fabiano,MEIO-CAMPO,19,1.83,Brasil
-João Alves,MEIO-CAMPO,19,,Brasil
-Evertton,MEIO-CAMPO,21,1.73,Brasil
-Caio Vinicius,MEIO-CAMPO,20,1.8,Brasil
-Luis Aucélio,MEIO-CAMPO,18,,Brasil
-Daniel Rogério,MEIO-CAMPO,19,1.73,Brasil
-Wallace Yan De Souza Barreto,MEIO-CAMPO,19,1.75,Brasil
-Luiz Araújo,ATACANTE,28,1.75,Brasil
-Pedro,ATACANTE,27,1.85,Brasil
-Everton,ATACANTE,28,1.75,Brasil
-Matheus Gonçalves,ATACANTE,19,1.78,Brasil
-Carlinhos,ATACANTE,27,1.96,Brasil
-Bruno Henrique,ATACANTE,33,1.83,Brasil
-Felipe Teresa,ATACANTE,18,1.83,Brasil
-Gonzalo Plata,ATACANTE,23,1.78,Equador
-Felipe Lima,ATACANTE,18,1.85,Brasil
-Guilherme Henrique Bernardineli Gomes,ATACANTE,18,,Brasil
-Shola Ogundana,ATACANTE,19,1.73,Nigéria
-Pedro Henrique Leão Alves Lopes,ATACANTE,18,1.83,Brasil
-Adriel,ATACANTE,18,,Brasil
-Gabriel Barbosa,ATACANTE,28,1.78,Brasil
-Ivan,GOLEIRO,27,1.93,Brasil
-Sergio Rochet,GOLEIRO,31,1.91,Uruguai
-Fabrício,GOLEIRO,38,1.93,Brasil
-Kauan,GOLEIRO,21,1.93,Brasil
-Anthoni,GOLEIRO,22,1.93,Brasil
-Henrique Menke,GOLEIRO,17,,Brasil
-Diego Esser Pereira,GOLEIRO,19,1.93,Brasil
-Brian Aguirre,DEFENSOR,24,1.75,Argentina
-Eduardo Carvalho,DEFENSOR,19,,Brasil
-René,DEFENSOR,32,1.75,Brasil
-Italo,DEFENSOR,19,,Brasil
-Agustin Rogel,DEFENSOR,27,1.91,Uruguai
-Clayton,DEFENSOR,24,1.88,Brasil
-Nathan,DEFENSOR,23,1.85,Brasil
-Gabriel Mercado,DEFENSOR,37,1.8,Argentina
-Alexander Bernabei,DEFENSOR,24,1.7,Argentina
-Guilherme Bahia,DEFENSOR,18,,Brasil
-Kauã Barbosa,DEFENSOR,17,,Brasil
-Carioca,DEFENSOR,17,,Brasil
-Victor Gabriel,DEFENSOR,20,,Brasil
-Evertow,DEFENSOR,17,1.85,Brasil
-Vitão,DEFENSOR,24,1.85,Brasil
-Pedro Kauã,DEFENSOR,18,,Brasil
-João Dalla Corte,DEFENSOR,18,1.8,Brasil
-Fernando,MEIO-CAMPO,37,1.83,Brasil
-Hyoran,MEIO-CAMPO,31,1.75,Brasil
-Bruno Henrique,MEIO-CAMPO,35,1.78,Brasil
-Alan Patrick,MEIO-CAMPO,33,1.78,Brasil
-Bruno Gomes,MEIO-CAMPO,23,1.75,Brasil
-Thiago Maia,MEIO-CAMPO,27,1.78,Brasil
-Anderson,MEIO-CAMPO,19,1.8,Brasil
-Gabriel Teixeira,MEIO-CAMPO,17,1.68,Brasil
-Rodriguinho,MEIO-CAMPO,18,,Brasil
-Luis Otávio,MEIO-CAMPO,17,,Brasil
-Rômulo,MEIO-CAMPO,24,,Brasil
-Gustavo Prado,MEIO-CAMPO,19,1.78,Brasil
-Matheus Cadorini,ATACANTE,22,1.93,Brasil
-Pedro Pio,ATACANTE,20,,Brasil
-Wanderson,ATACANTE,30,1.75,Brasil
-Enner Valencia,ATACANTE,34,1.78,Equador
-Bruno Tabata,ATACANTE,27,1.75,Brasil
-Wendel,ATACANTE,19,1.73,Brasil
-Pedrinho,ATACANTE,19,,Brasil
-Rafael Borré,ATACANTE,29,1.75,Colômbia
-Wesley,ATACANTE,25,1.78,Brasil
-Adriel,ATACANTE,20,,Brasil
-Jhonatan Kauan,ATACANTE,20,1.73,Brasil
-Lucas Alario,ATACANTE,32,1.83,Argentina
-Yago,ATACANTE,17,,Brasil
-Lucca,ATACANTE,21,1.8,Brasil
-Lucca Drummond,ATACANTE,20,,Brasil
-Ricardo Mathias,ATACANTE,18,1.96,Brasil
-Leandro Mathias Silva Bueno,GOLEIRO,19,1.88,Brasil
-Rafael,GOLEIRO,35,1.93,Brasil
-Felipe Preis,GOLEIRO,18,,Brasil
-João Pedro,GOLEIRO,18,1.91,Brasil
-Young,GOLEIRO,22,2.03,Brasil
-Jandrei,GOLEIRO,31,1.88,Brasil
-Igor Felisberto,DEFENSOR,17,,Brasil
-Igor,DEFENSOR,27,1.75,Brasil
-Jamal Lewis,DEFENSOR,26,1.78,Irlanda do Norte
-Robert Arboleda,DEFENSOR,33,1.88,Equador
-Welington,DEFENSOR,23,1.78,Brasil
-Rafinha,DEFENSOR,39,1.7,Brasil
-Ruan,DEFENSOR,25,1.88,Brasil
-Alan Franco,DEFENSOR,28,1.78,Argentina
-João Moreira,DEFENSOR,20,1.75,Brasil
-Nahuel Ferraresi,DEFENSOR,25,1.91,Venezuela
-Igão,DEFENSOR,17,,Brasil
-Sabino,DEFENSOR,28,1.83,Brasil
-Patryck,DEFENSOR,21,1.73,Brasil
-Lucas Loss,DEFENSOR,17,1.88,Brasil
-Matheus Souza,DEFENSOR,21,1.83,Brasil
-Giuliano Galoppo,MEIO-CAMPO,25,1.8,Argentina
-Rodrigo Nestor,MEIO-CAMPO,24,1.75,Brasil
-Michel Araújo,MEIO-CAMPO,28,1.78,Uruguai
-Luiz Gustavo,MEIO-CAMPO,37,1.85,Brasil
-Rodriguinho,MEIO-CAMPO,20,1.88,Brasil
-Marcos Antonio,MEIO-CAMPO,24,1.65,Brasil
-Damián Bobadilla,MEIO-CAMPO,23,1.8,Paraguai
-Alisson,MEIO-CAMPO,31,1.73,Brasil
-Liziero,MEIO-CAMPO,26,1.75,Brasil
-Wellington Rato,MEIO-CAMPO,32,1.73,Brasil
-Pablo Maia,MEIO-CAMPO,22,1.78,Brasil
-Cauã Lucca,MEIO-CAMPO,20,1.7,Brasil
-Lucas Ferreira,MEIO-CAMPO,18,1.8,Brasil
-Felipe Negrucci,MEIO-CAMPO,20,1.8,Brasil
-Santiago Longo,ATACANTE,26,1.78,Argentina
-Lucas Moura,ATACANTE,32,1.73,Brasil
-Jonathan Calleri,ATACANTE,31,1.8,Argentina
-Luciano,ATACANTE,31,1.83,Brasil
-Paulo Sérgio,ATACANTE,19,1.78,Brasil
-André Silva,ATACANTE,27,1.8,Brasil
-Ryan Francisco,ATACANTE,17,1.7,Brasil
-Erick,ATACANTE,26,1.73,Brasil
-Henrique Carmo,ATACANTE,17,,Brasil
-William,ATACANTE,18,,Brasil
-Ferreira,ATACANTE,26,1.75,Brasil
-King Faisal,ATACANTE,20,1.73,Gana
-João Gabriel,ATACANTE,20,1.83,Brasil
-Danilo Fernandes,GOLEIRO,36,1.88,Brasil
-Marcos Felipe,GOLEIRO,28,1.85,Brasil
-Adriel,GOLEIRO,23,1.91,Brasil
-André Dhominique,DEFENSOR,21,1.78,Brasil
-Gilberto,DEFENSOR,31,1.8,Brasil
-Gabriel Xavier,DEFENSOR,23,,Brasil
-Kanu,DEFENSOR,27,1.85,Brasil
-Santiago Arias,DEFENSOR,32,1.78,Colômbia
-Víctor Cuesta,DEFENSOR,35,1.88,Argentina
-Iago,DEFENSOR,27,1.8,Brasil
-Vitor Hugo,DEFENSOR,33,1.88,Brasil
-David Duarte,DEFENSOR,29,1.93,Brasil
-Cicinho,DEFENSOR,35,1.68,Bulgária
-Vitinho,MEIO-CAMPO,20,,Brasil
-Julio Cesar,MEIO-CAMPO,29,,Brasil
-Jean Lucas,MEIO-CAMPO,26,1.8,Brasil
-Cauly Oliveira Souza,MEIO-CAMPO,29,1.73,Brasil
-Éverton Ribeiro,MEIO-CAMPO,35,1.7,Brasil
-Carlos De Peña,MEIO-CAMPO,32,1.78,Uruguai
-Thaciano,MEIO-CAMPO,29,1.83,Brasil
-Caio Alexandre,MEIO-CAMPO,25,1.75,Brasil
-Yago Felipe,MEIO-CAMPO,29,1.75,Brasil
-Nicolás Acevedo,MEIO-CAMPO,25,1.73,Uruguai
-Sidney,MEIO-CAMPO,18,1.68,Brasil
-Jota,MEIO-CAMPO,20,1.83,Brasil
-Roger Gabriel,MEIO-CAMPO,17,,Brasil
-Ruan Pablo,ATACANTE,16,,Brasil
-Ademir,ATACANTE,29,1.75,Brasil
-Everaldo,ATACANTE,33,1.8,Brasil
-Gabriel Teixeira,ATACANTE,23,1.7,Brasil
-Luciano Rodríguez,ATACANTE,21,1.78,Uruguai
-Rafael Ratão,ATACANTE,28,1.83,Brasil
-Luciano,ATACANTE,25,1.75,Brasil
-Tiago Souza De Jesus Carvalho,ATACANTE,19,,Brasil
-Cássio,GOLEIRO,37,1.96,Brasil
-Leonardo,GOLEIRO,22,,Brasil
-Otávio,GOLEIRO,18,,Brasil
-Marcelo,GOLEIRO,18,,Brasil
-Gabriel Chapecó,GOLEIRO,24,1.8,Brasil
-Anderson Paixão,GOLEIRO,26,1.93,Brasil
-Wesley,DEFENSOR,24,1.78,Brasil
-Marlon,DEFENSOR,27,1.75,Brasil
-Zé Ivaldo,DEFENSOR,27,1.85,Brasil
-Kaiki,DEFENSOR,21,1.73,Brasil
-William,DEFENSOR,29,1.75,Brasil
-Lucas Villalba,DEFENSOR,30,1.78,Argentina
-Jonathan Jesus,DEFENSOR,20,,Brasil
-Pedro Henrique Franklim Martins,DEFENSOR,20,1.91,Brasil
-João Marcelo,DEFENSOR,24,1.88,Brasil
-Weverton,DEFENSOR,21,1.83,Brasil
-Dorival,DEFENSOR,20,,Brasil
-Victor Gabriel,DEFENSOR,18,,Brasil
-Bruno Alves,DEFENSOR,19,1.85,Brasil
-Mateus Vital,MEIO-CAMPO,26,1.75,Brasil
-Matheus Pereira,MEIO-CAMPO,28,1.75,Brasil
-Lucas Silva,MEIO-CAMPO,31,1.8,Brasil
-Ramiro,MEIO-CAMPO,31,1.68,Brasil
-Walace,MEIO-CAMPO,29,1.88,Brasil
-Álvaro Barreal,MEIO-CAMPO,24,1.73,Argentina
-Vitinho,MEIO-CAMPO,20,,Brasil
-Lucas Romero,MEIO-CAMPO,30,1.73,Argentina
-Fabrizio Peralta,MEIO-CAMPO,22,1.75,Paraguai
-Alessandro,MEIO-CAMPO,17,1.85,Brasil
-Henrique Silva,MEIO-CAMPO,19,1.78,Brasil
-Jhosefer,MEIO-CAMPO,20,,Brasil
-Xavier,MEIO-CAMPO,20,,Brasil
-Gui Meira,MEIO-CAMPO,19,1.78,Brasil
-Rhuan Gabriel,MEIO-CAMPO,18,1.75,Brasil
-Nicolas Pontes,MEIO-CAMPO,18,1.75,Brasil
-Cauan Baptistella,MEIO-CAMPO,16,1.78,Itália
-Murilo Rhikman,MEIO-CAMPO,18,1.83,Brasil
-Arthur Viana,MEIO-CAMPO,20,1.8,Brasil
-Japa,MEIO-CAMPO,20,,Brasil
-Matheus Henrique,MEIO-CAMPO,26,1.75,Brasil
-Rafael Silva,ATACANTE,32,1.78,Brasil
-Juan Dinenno,ATACANTE,30,1.85,Argentina
-Kaio Jorge,ATACANTE,22,1.75,Brasil
-Lautaro Díaz,ATACANTE,26,1.8,Argentina
-Gabriel Veron,ATACANTE,22,1.75,Brasil
-Tevis Gabriel,ATACANTE,18,1.78,Brasil
-Ruan Silva Fonseca,ATACANTE,18,,Brasil
-Kenji,ATACANTE,18,1.78,Brasil
-Gustavo Zago,ATACANTE,18,1.75,Brasil
-Phillipe Gabriel,GOLEIRO,18,1.96,Brasil
-Léo Jardim,GOLEIRO,29,1.88,Brasil
-Keiller,GOLEIRO,28,1.93,Brasil
-Pablo,GOLEIRO,21,1.88,Brasil
-Luiz Gustavo Marinho Ribeiro Dos Santos,DEFENSOR,18,,Brasil
-José Luis Rodríguez,DEFENSOR,27,1.83,Uruguai
-Léo,DEFENSOR,28,1.83,Brasil
-Maicon,DEFENSOR,36,1.91,Brasil
-Lucas Piton,DEFENSOR,24,1.75,Itália
-Victor Luis,DEFENSOR,31,1.8,Brasil
-Robert Rojas,DEFENSOR,28,1.78,Paraguai
-Lyncon Correa Gonçalves,DEFENSOR,19,,Brasil
-João Victor,DEFENSOR,26,1.88,Brasil
-Paulo Henrique,DEFENSOR,28,1.75,Brasil
-Souza,MEIO-CAMPO,35,1.88,Brasil
-Jair,MEIO-CAMPO,30,1.78,Brasil
-Dimitri Payet,MEIO-CAMPO,37,1.75,França
-Philippe Coutinho,MEIO-CAMPO,32,1.73,Brasil
-Guilherme Estrella,MEIO-CAMPO,19,,Brasil
-Emerson Rodríguez,MEIO-CAMPO,24,1.75,Colômbia
-Paulinho,MEIO-CAMPO,27,1.75,Brasil
-Juan Sforza,MEIO-CAMPO,22,1.8,Argentina
-Jean Meneses,MEIO-CAMPO,31,1.65,Chile
-Hugo Moura,MEIO-CAMPO,26,1.83,Brasil
-Maxime Dominguez,MEIO-CAMPO,28,1.73,Suíça
-Pablo Galdames,MEIO-CAMPO,27,1.75,Chile
-Adson,MEIO-CAMPO,24,1.68,Brasil
-Rossi,MEIO-CAMPO,31,1.7,Brasil
-Lucas Eduardo De Souza Oliveira,MEIO-CAMPO,20,,Brasil
-Leandrinho,MEIO-CAMPO,19,1.7,Brasil
-Matheus Carvalho,MEIO-CAMPO,22,1.75,Brasil
-JP,MEIO-CAMPO,19,1.75,Brasil
-Bruno Lopes,ATACANTE,17,,Brasil
-David,ATACANTE,29,1.78,Brasil
-Alegria,ATACANTE,20,,Brasil
-Rayan Rocha,ATACANTE,18,1.85,Brasil
-Alex Teixeira,ATACANTE,34,1.73,Brasil
-Pablo Vegetti,ATACANTE,36,1.88,Argentina
-Gabriel Souza Da Silva,ATACANTE,19,,Brasil
-Gabriel Delfim,GOLEIRO,22,1.91,Brasil
-Pedro Cobra,GOLEIRO,18,1.93,Brasil
-Éverson,GOLEIRO,34,1.93,Brasil
-Robert,GOLEIRO,19,,Brasil
-Matheus Mendes,GOLEIRO,25,1.91,Brasil
-Gabriel Atila,GOLEIRO,21,1.93,Brasil
-Lyanco,DEFENSOR,27,1.88,Brasil
-Bruno Fuchs,DEFENSOR,25,1.91,Brasil
-Mauricio Lemos,DEFENSOR,28,1.78,Uruguai
-Júnior Alonso,DEFENSOR,31,1.85,Paraguai
-Guilherme Arana,DEFENSOR,27,1.75,Brasil
-Igor Rabello,DEFENSOR,29,1.91,Brasil
-Mariano,DEFENSOR,38,1.83,Brasil
-Renzo Saravia,DEFENSOR,31,1.88,Argentina
-Renan Santana,DEFENSOR,19,1.8,Brasil
-David Kauã,DEFENSOR,19,1.83,Brasil
-Rubens,DEFENSOR,23,1.75,Brasil
-Julio César,DEFENSOR,20,,Brasil
-Rômulo,DEFENSOR,20,1.83,Brasil
-Vitor Reis,DEFENSOR,18,1.75,Brasil
-Otávio,MEIO-CAMPO,30,1.73,Brasil
-Gustavo Scarpa,MEIO-CAMPO,30,1.75,Brasil
-Matías Zaracho,MEIO-CAMPO,26,1.7,Argentina
-Igor Gomes,MEIO-CAMPO,25,1.83,Brasil
-Fausto Vera,MEIO-CAMPO,24,1.78,Argentina
-Bernard,MEIO-CAMPO,32,1.65,Brasil
-Rodrigo Battaglia,MEIO-CAMPO,33,1.88,Argentina
-Alan Franco,MEIO-CAMPO,26,1.75,Equador
-Paulo Vitor,MEIO-CAMPO,20,,Brasil
-Mateus Iseppe,MEIO-CAMPO,18,,Brasil
-Zé Phelipe,MEIO-CAMPO,19,,Brasil
-Victor Hugo,MEIO-CAMPO,21,1.73,Brasil
-João Rafael,MEIO-CAMPO,19,,Brasil
-Alisson Santana,MEIO-CAMPO,19,1.73,Brasil
-Hulk,ATACANTE,38,1.83,Brasil
-Deyverson,ATACANTE,33,1.88,Brasil
-Paulinho,ATACANTE,24,1.78,Brasil
-Eduardo Vargas,ATACANTE,34,1.75,Chile
-Alan Kardec,ATACANTE,35,1.88,Brasil
-Lucas Louback,ATACANTE,18,,Brasil
-Brahian Palacios,ATACANTE,21,1.78,Colômbia
-Robert Santos,ATACANTE,21,1.8,Brasil
-Caio Maia,ATACANTE,19,1.75,Brasil
-Carlos Eduardo,ATACANTE,20,1.78,Brasil
-Agustín Marchesín,GOLEIRO,36,1.88,Argentina
-Thiago Stallbaum,GOLEIRO,21,,Brasil
-Caíque,GOLEIRO,27,1.98,Brasil
-Rafael,GOLEIRO,34,1.85,Brasil
-Felipe,GOLEIRO,24,1.78,Brasil
-Fabio,DEFENSOR,34,1.73,Brasil
-Pedro Geromel,DEFENSOR,39,1.88,Brasil
-Wálter Kannemann,DEFENSOR,33,1.85,Argentina
-Rodrigo Ely,DEFENSOR,30,1.88,Brasil
-Reinaldo,DEFENSOR,35,1.78,Brasil
-João Pedro,DEFENSOR,27,1.78,Brasil
-Mayk,DEFENSOR,25,1.73,Brasil
-Jemerson,DEFENSOR,32,1.83,Brasil
-Rodrigo Caio,DEFENSOR,31,1.83,Brasil
-Igor Schlemper,DEFENSOR,19,1.8,Brasil
-Natã,DEFENSOR,23,,Brasil
-Viery Fernandes Santos Lopes,DEFENSOR,19,1.88,Brasil
-Zé Guilherme,DEFENSOR,19,1.8,Brasil
-Wesley Da Costa Silva,DEFENSOR,20,,Brasil
-Athos Thawan,DEFENSOR,19,1.88,Brasil
-Gustavo Martins,DEFENSOR,22,1.91,Brasil
-João Lima,DEFENSOR,19,1.88,Brasil
-Yeferson Soteldo,MEIO-CAMPO,27,1.6,Venezuela
-Franco Cristaldo,MEIO-CAMPO,28,1.7,Argentina
-Miguel Monsalve,MEIO-CAMPO,20,1.78,Colômbia
-Nathan,MEIO-CAMPO,28,1.8,Brasil
-Edenilson,MEIO-CAMPO,34,1.75,Brasil
-Dodi,MEIO-CAMPO,28,1.7,Brasil
-Mathías Villasanti,MEIO-CAMPO,27,1.78,Paraguai
-Pepê,MEIO-CAMPO,26,1.78,Brasil
-Ronald Falkoski,MEIO-CAMPO,21,1.85,Brasil
-Du Queiroz,MEIO-CAMPO,24,1.7,Brasil
-Jardiel,MEIO-CAMPO,19,1.85,Brasil
-Caio Araújo,MEIO-CAMPO,19,1.75,Brasil
-Hiago,MEIO-CAMPO,20,,Brasil
-Mila,MEIO-CAMPO,21,,Brasil
-Luis Henrique Hoffmann,MEIO-CAMPO,21,,Brasil
-João Vitor Araújo Da Silva,MEIO-CAMPO,19,,Brasil
-Bruno Cheron,MEIO-CAMPO,20,1.8,Brasil
-Kaick,MEIO-CAMPO,18,,Brasil
-Riquelme Freitas Dos Santos,MEIO-CAMPO,18,,Brasil
-Douglas Arezo,ATACANTE,21,1.78,Uruguai
-Alexander Aravena,ATACANTE,22,1.75,Chile
-Diego Costa,ATACANTE,36,1.88,Espanha
-Cristian Pavón,ATACANTE,28,1.68,Argentina
-Martin Braithwaite,ATACANTE,33,1.8,Dinamarca
-Nathan Ribeiro Fernandes,ATACANTE,19,1.93,Brasil
-Lian Dos Santos Da Silva,ATACANTE,19,1.68,Brasil
-Alysson Edward,ATACANTE,18,1.83,Brasil
-Guga,ATACANTE,18,1.75,Brasil
-André Henrique,ATACANTE,22,1.88,Brasil
-Gustavo,GOLEIRO,31,1.85,Brasil
-Kauã Moroso,GOLEIRO,20,1.8,Brasil
-Alisson,GOLEIRO,29,1.91,Brasil
-Matheus Teixeira,GOLEIRO,25,,Brasil
-Hiago,DEFENSOR,19,,Brasil
-Jackson Crispim,DEFENSOR,21,,Brasil
-Kaik,DEFENSOR,20,,Brasil
-Rodrigo,DEFENSOR,37,1.88,Brasil
-Wilker Ángel,DEFENSOR,31,1.88,Venezuela
-Jonathan Lemos,DEFENSOR,32,1.78,Brasil
-Miguel Trauco,DEFENSOR,32,1.75,Peru
-Eliédson,DEFENSOR,21,,Brasil
-Dudu,DEFENSOR,27,1.78,Brasil
-Marcelo Hermes,DEFENSOR,29,1.78,Brasil
-Claudio Coelho Salvático,DEFENSOR,24,,Brasil
-Tobias Figueiredo,DEFENSOR,30,1.88,Portugal
-Walisson Maia,DEFENSOR,33,1.88,Brasil
-Erick Garcia,DEFENSOR,19,,Brasil
-Thiago Mina,DEFENSOR,22,,Brasil
-Guilherme Silva,DEFENSOR,22,1.8,Brasil
-Fabricio,MEIO-CAMPO,18,,Brasil
-Higor Matheus Meritão,MEIO-CAMPO,30,,Brasil
-Ronald,MEIO-CAMPO,27,1.7,Brasil
-Fellipe Mateus,MEIO-CAMPO,33,1.78,Brasil
-Newton,MEIO-CAMPO,24,,Brasil
-Marquinhos Gabriel,MEIO-CAMPO,34,1.75,Brasil
-Matheuzinho,MEIO-CAMPO,26,1.65,Brasil
-Eliel,MEIO-CAMPO,21,1.7,Brasil
-Léo Gonçalves,MEIO-CAMPO,22,,Brasil
-Serginho,MEIO-CAMPO,29,1.8,Brasil
-Patrick de Paula,MEIO-CAMPO,25,1.78,Brasil
-Barreto,MEIO-CAMPO,28,1.8,Brasil
-Allano,ATACANTE,29,1.83,Brasil
-Felipe Vizeu,ATACANTE,27,1.85,Brasil
-Yannick Bolasie,ATACANTE,35,1.88,Congo (Brazavile)
-Éder,ATACANTE,37,1.78,Itália
-Pedro Rocha,ATACANTE,30,1.8,Brasil
-Arthur Caike,ATACANTE,32,1.75,Brasil
-Jhonata Robert,ATACANTE,25,1.78,Brasil
-Adriano,ATACANTE,20,,Brasil
-Werik,ATACANTE,23,1.91,Brasil
-Eduardo,ATACANTE,23,1.85,Brasil
-Fábio,GOLEIRO,44,1.88,Brasil
-Kevyn,GOLEIRO,19,,Brasil
-Felipe Alves,GOLEIRO,36,1.88,Brasil
-Gabriel Fuentes,GOLEIRO,21,1.91,Chile
-Gustavo Ramalho Bremer Pinto,GOLEIRO,22,2.01,Brasil
-Vitor Eudes,GOLEIRO,26,1.93,Brasil
-Samuel Xavier,DEFENSOR,34,1.68,Brasil
-Thiago Silva,DEFENSOR,40,1.83,Brasil
-Ignácio,DEFENSOR,27,1.93,Brasil
-Diogo Barbosa,DEFENSOR,32,1.78,Brasil
-Marcelo,DEFENSOR,36,1.73,Brasil
-Felipe De Andrade Vieira,DEFENSOR,22,,Brasil
-Guga,DEFENSOR,26,1.73,Brasil
-Antônio Carlos,DEFENSOR,31,1.91,Brasil
-Manoel,DEFENSOR,34,1.8,Brasil
-Felipe Melo,DEFENSOR,41,1.85,Brasil
-João Loiola,DEFENSOR,19,,Brasil
-Wallace II,DEFENSOR,17,,Brasil
-Lucas Da Sliva Justen,DEFENSOR,21,,Brasil
-Rafael Monteiro,DEFENSOR,20,,Brasil
-João Henrique,DEFENSOR,18,1.8,Brasil
-Facundo Bernal,MEIO-CAMPO,21,1.88,Uruguai
-Renato Augusto,MEIO-CAMPO,36,1.85,Brasil
-Martinelli,MEIO-CAMPO,23,1.78,Brasil
-Ganso,MEIO-CAMPO,35,1.83,Brasil
-Nonato,MEIO-CAMPO,26,1.75,Brasil
-Jhon Arias,MEIO-CAMPO,27,1.7,Colômbia
-Gabriel,MEIO-CAMPO,31,1.85,Brasil
-Arthur Wenderrosky Sanches,MEIO-CAMPO,19,1.73,Brasil
-Thiago Santos,MEIO-CAMPO,35,1.8,Brasil
-Robinho,MEIO-CAMPO,20,1.7,Brasil
-Isaque,MEIO-CAMPO,17,,Brasil
-Thiago Henrique,MEIO-CAMPO,20,,Brasil
-Lima,MEIO-CAMPO,28,1.73,Brasil
-Gustavo Dohmann,MEIO-CAMPO,19,,Brasil
-David Terans,MEIO-CAMPO,30,1.73,Uruguai
-Joao Neto,ATACANTE,21,1.8,Brasil
-John Kennedy,ATACANTE,22,1.73,Brasil
-Keno,ATACANTE,35,1.78,Brasil
-Germán Cano,ATACANTE,36,1.78,Argentina
-Matheus Reis,ATACANTE,17,1.8,México
-Jan Lucumí,ATACANTE,20,,Colômbia
-Lelê,ATACANTE,27,,Brasil
-Kauã Elias,ATACANTE,18,1.8,Brasil
-Victor Hugo Ramos De Souza,ATACANTE,20,1.83,Brasil
-Isaac,ATACANTE,20,,Brasil
-Agner,ATACANTE,19,0.79,Brasil
-Marquinhos,ATACANTE,21,1.75,Brasil
-Kevin Serna,ATACANTE,26,1.8,Colômbia
-Lucas Arcanjo,GOLEIRO,26,1.88,Brasil
-Yuri Sena,GOLEIRO,23,1.91,Brasil
-Muriel,GOLEIRO,37,1.91,Brasil
-Fintelman,GOLEIRO,23,1.93,Brasil
-Roque Júnior,DEFENSOR,22,1.88,Brasil
-Wagner Leonardo,DEFENSOR,25,1.85,Brasil
-Camutanga,DEFENSOR,31,1.88,Brasil
-Itaro Patric,DEFENSOR,30,1.8,Brasil
-Lucas Esteves,DEFENSOR,24,1.7,Brasil
-Bruno Uvini,DEFENSOR,33,1.88,Brasil
-Raúl Cáceres,DEFENSOR,33,1.78,Paraguai
-Edu,DEFENSOR,24,1.85,Brasil
-Andrei Gabriel Dos Santos Ferreira,DEFENSOR,19,2.03,Brasil
-Neris,DEFENSOR,32,1.91,Brasil
-Willean Lepu,DEFENSOR,27,1.8,Brasil
-Leo Naldi,MEIO-CAMPO,23,,Brasil
-Luan,MEIO-CAMPO,25,1.75,Brasil
-Jean Mota,MEIO-CAMPO,31,1.73,Brasil
-Caio Vinicius,MEIO-CAMPO,25,1.85,Brasil
-Ricardo,MEIO-CAMPO,30,1.83,Brasil
-Willian,MEIO-CAMPO,31,1.83,Brasil
-Matheus,MEIO-CAMPO,27,1.65,Brasil
-Machado,MEIO-CAMPO,28,1.75,Brasil
-José Breno,MEIO-CAMPO,20,1.75,Brasil
-Pablo,MEIO-CAMPO,21,,Brasil
-Fábio Soares Dos Santos,MEIO-CAMPO,19,,Brasil
-Gustavo Mosquito,ATACANTE,27,1.7,Brasil
-Alerrando,ATACANTE,24,1.8,Brasil
-Osvaldo,ATACANTE,37,1.7,Brasil
-Luiz Adriano,ATACANTE,37,1.83,Brasil
-Hugo,ATACANTE,25,,Brasil
-Luis Miguel Borges De Paula,ATACANTE,19,,Brasil
-Paulo Roberto,ATACANTE,18,,Brasil
-Lawan Kennyd Gabriel Santos,ATACANTE,19,1.8,Brasil
-Everaldo,ATACANTE,30,1.85,Brasil
-Janderson,ATACANTE,25,1.85,Brasil
-Carlos Eduardo,ATACANTE,28,1.75,Brasil
-Felipe Longo,GOLEIRO,19,1.88,Brasil
-Hugo Souza,GOLEIRO,25,1.98,Brasil
-Matheus Donelli,GOLEIRO,22,1.88,Brasil
-Cadu,GOLEIRO,19,1.93,Brasil
-Matheus Corrêa,GOLEIRO,18,1.88,Brasil
-Mateuzinho,DEFENSOR,24,1.75,Brasil
-Félix Torres,DEFENSOR,27,1.88,Equador
-Caetano,DEFENSOR,25,1.83,Brasil
-André Ramalho,DEFENSOR,32,1.83,Brasil
-Diego Palacios,DEFENSOR,25,1.7,Equador
-Gustavo Henrique,DEFENSOR,31,1.96,Brasil
-Matheus Bidu,DEFENSOR,25,1.73,Brasil
-Fagner,DEFENSOR,35,1.68,Brasil
-Cacá,DEFENSOR,25,1.88,Brasil
-Denner Evangelista,DEFENSOR,16,,Brasil
-Léo Mana,DEFENSOR,20,1.75,Brasil
-Renato Santos,DEFENSOR,20,1.88,Brasil
-Fernando Vera,DEFENSOR,19,1.85,Paraguai
-Hugo,DEFENSOR,27,1.78,Brasil
-Guilherme Pellegrin Almeida,DEFENSOR,18,,Brasil
-Maycon,MEIO-CAMPO,27,1.7,Brasil
-Rodrigo Garro,MEIO-CAMPO,26,,Argentina
-Raniele,MEIO-CAMPO,27,1.83,Brasil
-Charles,MEIO-CAMPO,28,1.88,Brasil
-Breno Bidon,MEIO-CAMPO,19,1.75,Brasil
-Matheus Andrade,MEIO-CAMPO,22,1.75,Brasil
-Ruan,MEIO-CAMPO,24,1.75,Brasil
-Ryan,MEIO-CAMPO,21,1.7,Brasil
-Yago Kauã Rodrigues Gonçalves,MEIO-CAMPO,18,,Brasil
-Luiz Gustavo,MEIO-CAMPO,18,1.78,Brasil
-Dieguinho,MEIO-CAMPO,17,,Brasil
-Vitinho,MEIO-CAMPO,17,,Brasil
-José Andrés Martínez,MEIO-CAMPO,30,1.78,Venezuela
-Igor Coronado,MEIO-CAMPO,32,1.7,Itália
-Alex Santana,MEIO-CAMPO,29,1.83,Brasil
-Hector Hernández,ATACANTE,29,1.8,Espanha
-André Carrillo,ATACANTE,33,1.8,Peru
-Yuri Alberto,ATACANTE,23,1.8,Brasil
-Ángel Romero,ATACANTE,32,1.75,Paraguai
-Pedro Henrique,ATACANTE,34,1.8,Brasil
-Giovane,ATACANTE,20,1.83,Brasil
-Talles Magno,ATACANTE,22,1.85,Brasil
-Pedro Raúl,ATACANTE,27,1.93,Brasil
-Kayke Ferrari,ATACANTE,20,,Brasil
-Guilherme Inácio,ATACANTE,17,,Brasil
-Guilherme Henrique De Oliveira Morais,ATACANTE,17,1.73,Brasil
-Luiz Fernando,ATACANTE,17,,Brasil
-Kauã,ATACANTE,17,,Brasil
-Memphis Depay,ATACANTE,30,1.78,Holanda
-Leo Linck,GOLEIRO,23,1.96,Brasil
-Mycael,GOLEIRO,20,1.88,Brasil
-Matheus Rocha,GOLEIRO,19,1.93,Brasil
-Maksym Voronov,GOLEIRO,18,,Ucrânia
-Luan Patrick,DEFENSOR,22,1.91,Brasil
-Kaique Rocha,DEFENSOR,23,1.98,Brasil
-Fernando,DEFENSOR,25,1.8,Brasil
-Mateo Gamarra,DEFENSOR,24,1.8,Paraguai
-Mádson,DEFENSOR,32,1.83,Brasil
-Filipinho,DEFENSOR,23,,Brasil
-Leonardo Godoy,DEFENSOR,29,1.73,Argentina
-Lucas Esquivel,DEFENSOR,23,1.8,Argentina
-Marcos Victor,DEFENSOR,22,1.85,Brasil
-Thiago Heleno,DEFENSOR,36,1.85,Brasil
-Lucas Belezi,DEFENSOR,21,1.85,Brasil
-Marcos André Paulino Maia,DEFENSOR,18,,Brasil
-Leonardo Ataíde,DEFENSOR,20,1.78,Brasil
-Leonardo Derik,DEFENSOR,19,1.65,Brasil
-Arthur Dias,DEFENSOR,17,,Brasil
-Fábio Lucas,DEFENSOR,18,1.88,Brasil
-João Vigolo,DEFENSOR,18,,Brasil
-Gabriel,MEIO-CAMPO,32,1.7,Brasil
-Fernandinho,MEIO-CAMPO,39,1.78,Brasil
-Bruno Conceicão,MEIO-CAMPO,22,1.85,Brasil
-Bruno Zapelli,MEIO-CAMPO,22,1.8,Argentina
-Nikão,MEIO-CAMPO,32,1.75,Brasil
-Andrey Da Silva Bezerra De Carvalho,MEIO-CAMPO,19,,Brasil
-Erick,MEIO-CAMPO,26,1.75,Brasil
-José Vitor Silva Neves,MEIO-CAMPO,24,1.93,Brasil
-Eduardo,MEIO-CAMPO,18,1.78,Brasil
-Chiqueti,MEIO-CAMPO,19,1.7,Brasil
-João Cruz,MEIO-CAMPO,18,1.7,Brasil
-João Vitor,MEIO-CAMPO,20,1.85,Brasil
-Diogo Riquelme,MEIO-CAMPO,19,,Brasil
-Guilherme Back,MEIO-CAMPO,18,,Brasil
-Carlos Biro,MEIO-CAMPO,20,1.78,Brasil
-Christian,MEIO-CAMPO,23,1.75,Brasil
-Lucas Di Yorio,ATACANTE,27,1.91,Argentina
-Gonzalo Mastriani,ATACANTE,31,1.8,Uruguai
-Agustín Canobbio,ATACANTE,26,1.75,Uruguai
-Julimar,ATACANTE,23,1.88,Brasil
-Kayke Santos,ATACANTE,16,,Brasil
-Tomás Cuello,ATACANTE,24,1.75,Argentina
-Renan,ATACANTE,21,1.88,Brasil
-Walace,ATACANTE,19,,Brasil
-Sorriso,ATACANTE,18,,Brasil
-Kauê Sestrem,ATACANTE,18,,Brasil
-Emersonn,ATACANTE,20,1.85,Brasil
-Pablo,ATACANTE,32,1.88,Brasil
-Cleiton,GOLEIRO,27,1.91,Brasil
-Rubens Flávio Klemann Marcarini,GOLEIRO,18,,Brasil
-Fabrício,GOLEIRO,24,1.91,Brasil
-Lucão,GOLEIRO,23,1.91,Brasil
-Gustavo Reis De Alcantara,GOLEIRO,19,1.91,Brasil
-Eduardo Santos,DEFENSOR,26,1.96,Brasil
-Lucas Cunha,DEFENSOR,27,1.85,Brasil
-Sergio Palacios,DEFENSOR,19,,Colômbia
-Pedro Henrique,DEFENSOR,29,1.88,Brasil
-Marcos Paulo Lima Batista Silva,DEFENSOR,21,1.8,Brasil
-Isac,DEFENSOR,18,,Brasil
-Juninho Capixaba,DEFENSOR,27,1.75,Brasil
-Guilherme Almeida,DEFENSOR,22,1.78,Brasil
-José Hurtado,DEFENSOR,22,1.78,Equador
-Luan Cândido,DEFENSOR,23,1.88,Brasil
-Kevyn Monteiro,DEFENSOR,19,,Brasil
-Douglas Mendes,DEFENSOR,20,1.91,Brasil
-Nathan,DEFENSOR,22,1.8,Brasil
-Kauan Martins Chagas,DEFENSOR,20,,Brasil
-Gustavo Henrique Da Silva,DEFENSOR,19,,Brasil
-Danilo,DEFENSOR,20,1.7,Brasil
-Rafael Lima,MEIO-CAMPO,18,,Brasil
-Jadsom,MEIO-CAMPO,23,1.75,Brasil
-Jhonatan,MEIO-CAMPO,22,1.78,Brasil
-Ramires,MEIO-CAMPO,24,1.75,Brasil
-Lucas Evangelista,MEIO-CAMPO,29,1.8,Brasil
-Lincoln,MEIO-CAMPO,25,1.78,Brasil
-Gabriel Lopes,MEIO-CAMPO,18,,Brasil
-João Neto,MEIO-CAMPO,21,1.78,Brasil
-Gustavinho,MEIO-CAMPO,20,1.75,Brasil
-Raul,MEIO-CAMPO,28,1.78,Brasil
-Yuri Leles,MEIO-CAMPO,17,,Brasil
-Riquelme,MEIO-CAMPO,18,,Brasil
-Matheus Fernandes,MEIO-CAMPO,26,1.83,Brasil
-Kelvin Florez,MEIO-CAMPO,20,,Colômbia
-Victor Hugo De Faria Mota,MEIO-CAMPO,21,,Brasil
-Marquinhos,MEIO-CAMPO,20,1.8,Brasil
-Chumbinho,MEIO-CAMPO,21,1.83,Brasil
-Johan Caicedo,MEIO-CAMPO,20,,Colômbia
-Dija,MEIO-CAMPO,21,,Brasil
-Ivan Cavaleiro,ATACANTE,31,1.75,Angola
-Rai,ATACANTE,20,,Brasil
-Thiago Borbas,ATACANTE,22,1.85,Uruguai
-Eduardo Sasha,ATACANTE,32,1.75,Brasil
-Arthur Sousa Araújo,ATACANTE,21,1.83,Brasil
-Vitinho,ATACANTE,25,1.78,Brasil
-Henry Mosquera,ATACANTE,22,,Colômbia
-Kauê Ricardo,ATACANTE,19,,Brasil
-João Vitor Campos De Assis Ataide,ATACANTE,19,,Brasil
-Filipe,ATACANTE,18,,Brasil
-André Ricardo,ATACANTE,19,,Brasil
-Vinicinho,ATACANTE,20,,Brasil
-Juliano Viana Papille,ATACANTE,16,,Brasil
-Gabriel,GOLEIRO,32,1.93,Brasil
-Claus,GOLEIRO,30,1.93,Brasil
-Mário,GOLEIRO,19,1.93,Brasil
-Lucas Wingert,GOLEIRO,25,,Brasil
-João,DEFENSOR,26,1.8,Brasil
-Ze Marcos,DEFENSOR,26,1.88,Brasil
-Danilo Boza,DEFENSOR,26,1.83,Brasil
-Gabriel Inocencio,DEFENSOR,30,,Brasil
-Ewerton,DEFENSOR,23,,Brasil
-Mateus Gabriel Schaffer,DEFENSOR,17,1.85,Brasil
-João Vitor,DEFENSOR,22,,Brasil
-Abner,DEFENSOR,20,1.88,Brasil
-Alan Ruschel,DEFENSOR,35,1.75,Brasil
-Rodrigo Sam,DEFENSOR,29,1.85,Brasil
-Cauã Da Rocha,DEFENSOR,19,1.85,Brasil
-Lucas Freitas,DEFENSOR,23,1.83,Brasil
-Romércio,DEFENSOR,27,1.85,Brasil
-Yan,DEFENSOR,23,1.88,Brasil
-Luis,MEIO-CAMPO,27,1.7,Brasil
-Thiaguinho,MEIO-CAMPO,27,1.8,Brasil
-Nenê,MEIO-CAMPO,43,1.8,Brasil
-Kelvi,MEIO-CAMPO,22,1.83,Brasil
-Jádson,MEIO-CAMPO,31,1.7,Brasil
-Jean,MEIO-CAMPO,32,1.78,Brasil
-Lucas Barbosa,MEIO-CAMPO,23,1.93,Brasil
-Dudu,MEIO-CAMPO,30,1.75,Brasil
-Luis Mandaca,MEIO-CAMPO,23,1.78,Brasil
-João Victor Trevisol Da Silva,MEIO-CAMPO,19,1.85,Brasil
-Peixoto,MEIO-CAMPO,27,,Brasil
-Davi Goes Silva Ferreira Carvalho,MEIO-CAMPO,19,,Brasil
-Ronaldo,MEIO-CAMPO,28,1.78,Brasil
-Erick,ATACANTE,27,1.73,Brasil
-Gilberto,ATACANTE,35,1.78,Brasil
-Marcelinho,ATACANTE,21,1.65,Brasil
-Diego,ATACANTE,30,1.83,Brasil
-Edson Guilherme Mendes dos Santos,ATACANTE,27,1.78,Brasil
-David Conceição,ATACANTE,24,,Brasil
-Gabriel Taliari,ATACANTE,27,1.75,Brasil
-Pinna,ATACANTE,17,1.83,Brasil
-Ronie Carrillo,ATACANTE,28,1.88,Equador
-Caique,ATACANTE,26,1.73,Brasil
-Walter,GOLEIRO,36,1.88,Brasil
-Rhyan,GOLEIRO,18,,Brasil
-Mateus,GOLEIRO,32,1.93,Brasil
-Felipe Lopes,GOLEIRO,19,,Brasil
-Matheus Alexandre,DEFENSOR,25,,Brasil
-Marllon,DEFENSOR,32,1.85,Brasil
-Marcelo Henrique,DEFENSOR,19,,Brasil
-Guilherme Madruga,DEFENSOR,23,,Brasil
-Hernandes,DEFENSOR,19,,Brasil
-Ramon,DEFENSOR,23,1.73,Brasil
-Vinicius Dorneles,DEFENSOR,20,,Brasil
-Alan Empereur,DEFENSOR,30,1.85,Brasil
-Bruno Alves,DEFENSOR,33,1.83,Brasil
-Renan,DEFENSOR,20,,Brasil
-Vinicius Bertuchi,DEFENSOR,19,,Brasil
-Gabriel Knesowitsch,DEFENSOR,21,,Brasil
-Jadson,DEFENSOR,19,,Brasil
-Juan Pablo,DEFENSOR,22,,Brasil
-Luisão,DEFENSOR,19,,Brasil
-Mateusinho,DEFENSOR,19,,Brasil
-Filipe Augusto,MEIO-CAMPO,31,1.83,Brasil
-Max,MEIO-CAMPO,23,1.75,Brasil
-Eduardo Vinícius,MEIO-CAMPO,19,,Brasil
-Luiz Felipe,MEIO-CAMPO,20,1.78,Brasil
-Lucas Fernandes,MEIO-CAMPO,27,1.75,Brasil
-David Miguel De Souza Arcanjo,MEIO-CAMPO,17,1.8,Brasil
-Railan,MEIO-CAMPO,24,,Brasil
-Clayson,MEIO-CAMPO,29,1.7,Brasil
-Niltinho,MEIO-CAMPO,19,,Brasil
-Denilson,MEIO-CAMPO,23,,Brasil
-Lucas Mineiro,MEIO-CAMPO,28,1.88,Brasil
-Thomas,MEIO-CAMPO,19,,Brasil
-Lucas di Almeida,MEIO-CAMPO,18,,Brasil
-João Vitor,MEIO-CAMPO,19,,Brasil
-Guilherme Sousa,MEIO-CAMPO,18,,Brasil
-Rian Patric,MEIO-CAMPO,18,,Brasil
-Kauan,MEIO-CAMPO,18,,Brasil
-Tarcísio Muniz,MEIO-CAMPO,21,,Brasil
-Fernando Sobral,MEIO-CAMPO,29,1.78,Brasil
-Jonathan Cafú,ATACANTE,33,1.73,Brasil
-Isidro Pitta,ATACANTE,25,1.83,Paraguai
-Eliel,ATACANTE,21,1.75,Brasil
-Gustavo Sauer,ATACANTE,31,1.8,Brasil
-Derik Lacerda,ATACANTE,25,1.91,Brasil
-Dyego,ATACANTE,19,,Brasil
-Titto,ATACANTE,19,,Brasil
-Bibi,ATACANTE,18,,Brasil
-Gabryel Vinicius,ATACANTE,22,,Brasil
-André Luis,ATACANTE,27,1.78,Brasil
-Ronaldo,GOLEIRO,28,1.93,Brasil
-Emerson  Júnior,GOLEIRO,24,1.96,Brasil
-Pedro Rangel,GOLEIRO,24,1.93,Brasil
-Philipe Sampaio,DEFENSOR,29,1.91,Brasil
-Pedrão,DEFENSOR,31,1.91,Brasil
-Maguinho,DEFENSOR,32,1.7,Brasil
-Luiz Felipe,DEFENSOR,31,1.88,Brasil
-Guilherme Romão,DEFENSOR,27,1.75,Brasil
-Alix Vinicius,DEFENSOR,24,1.96,Brasil
-Yeferson Rodallega,DEFENSOR,23,,Colômbia
-Adriano Martins Da Fonseca,DEFENSOR,27,,Brasil
-Marcao,DEFENSOR,23,,Brasil
-Rafael Haller,DEFENSOR,24,1.78,Uruguai
-Hygor,DEFENSOR,20,1.7,Brasil
-Kauã Moura,DEFENSOR,20,1.83,Brasil
-Mateus Macedo,DEFENSOR,19,,Brasil
-Luiz Gustavo,DEFENSOR,21,,Brasil
-Gustavo Daniel,DEFENSOR,19,,Brasil
-Gonzalo Freitas,MEIO-CAMPO,33,1.85,Uruguai
-Gustavo Campanharo,MEIO-CAMPO,32,1.78,Brasil
-Angelo Araos,MEIO-CAMPO,27,1.75,Chile
-Shaylon,MEIO-CAMPO,27,1.8,Brasil
-Gabriel Baralhas,MEIO-CAMPO,26,1.78,Brasil
-Rhaldney,MEIO-CAMPO,25,,Brasil
-Roni,MEIO-CAMPO,25,1.75,Brasil
-Matías Lacava,MEIO-CAMPO,22,1.68,Venezuela
-Randerson De Sousa Almeida,MEIO-CAMPO,20,,Brasil
-Gustavo Almeida,MEIO-CAMPO,20,,Brasil
-Rai,MEIO-CAMPO,19,,Brasil
-Jean Carlos Alves Ferreira,MEIO-CAMPO,19,,Brasil
-Jorginho,MEIO-CAMPO,33,1.8,Brasil
-Derek,ATACANTE,26,1.85,Brasil
-Joel Campbell,ATACANTE,32,1.78,Costa Rica
-Luiz Fernando,ATACANTE,28,1.78,Brasil
-Bruno,ATACANTE,29,1.75,Brasil
-Jan Hurtado,ATACANTE,24,1.8,Venezuela
-Alejo Cruz Techera,ATACANTE,24,1.7,Uruguai
-Eli Silvano Kovalik Junior,ATACANTE,20,1.78,Brasil
-Emiliano Rodríguez,ATACANTE,21,1.91,Uruguai
-Max,ATACANTE,22,1.83,Brasil
-Sandrinho,ATACANTE,20,,Brasil
-Pedro Geovane Paranhos Santos,ATACANTE,18,,Brasil
-Janderson,ATACANTE,25,1.6,Brasil
+nome,espn_id,posicao,idade,altura,nacionalidade
+Gatito Fernández,164262,GOLEIRO,36,1.96,Paraguai
+John,233241,GOLEIRO,28,1.96,Brasil
+Lucas Barreto,379234,GOLEIRO,22,,Brasil
+Cristiano,381274,GOLEIRO,19,,Brasil
+Igo Gabriel,306566,GOLEIRO,23,1.91,Brasil
+Raul,233826,GOLEIRO,27,1.88,Brasil
+Rafael,25409,DEFENSOR,34,1.73,Brasil
+Lucas Halter,266281,DEFENSOR,24,1.88,Brasil
+Mateo Ponte,359977,DEFENSOR,21,1.78,Uruguai
+Alex Telles,199734,DEFENSOR,31,1.8,Brasil
+Bastos,204602,DEFENSOR,33,1.83,Angola
+Hugo,301595,DEFENSOR,23,1.75,Brasil
+Alexander Barboza,222631,DEFENSOR,29,1.93,Argentina
+Fernando Marçal,170362,DEFENSOR,35,1.75,Brasil
+Vitinho,268700,DEFENSOR,25,1.75,Brasil
+Pablo,202784,DEFENSOR,33,1.8,Brasil
+Adryelson,218981,DEFENSOR,26,1.83,Brasil
+Kawan,337129,DEFENSOR,21,1.88,Brasil
+Cuiabano,334756,DEFENSOR,21,1.8,Brasil
+Mohamed El Arouch,343330,MEIO-CAMPO,20,1.65,França
+Kauan Lindes,379739,MEIO-CAMPO,20,,Brasil
+Danilo,194929,MEIO-CAMPO,28,1.83,Brasil
+Tchê Tchê,198302,MEIO-CAMPO,32,1.75,Brasil
+Marlon Freitas,234016,MEIO-CAMPO,29,1.85,Brasil
+Thiago Almada,277208,MEIO-CAMPO,23,1.7,Argentina
+Kauê Rodrigues Pessanha,357363,MEIO-CAMPO,20,1.75,Brasil
+Gregore,235893,MEIO-CAMPO,30,1.8,Brasil
+Allan,143883,MEIO-CAMPO,33,1.75,Brasil
+Carlos Eduardo,174782,MEIO-CAMPO,35,1.83,Brasil
+Rhuan,381276,MEIO-CAMPO,20,,Brasil
+Óscar Romero,192234,MEIO-CAMPO,32,1.75,Paraguai
+Bernardo Valim,355366,MEIO-CAMPO,18,1.88,Brasil
+Luiz Henrique,304215,ATACANTE,23,1.8,Brasil
+Tiquinho Soares,202374,ATACANTE,33,1.83,Brasil
+Jefferson Savarino,177219,ATACANTE,27,1.68,Venezuela
+Júnior Santos,269843,ATACANTE,30,1.85,Brasil
+Carlos Alberto,299928,ATACANTE,22,1.78,Brasil
+Matheus Martins,314841,ATACANTE,21,1.78,Brasil
+Jeffinho,301780,ATACANTE,24,1.75,Brasil
+Kayke,381279,ATACANTE,18,,Brasil
+Lucas Vargas,381280,ATACANTE,19,,Brasil
+Yarlen Faustino Augusto,381139,ATACANTE,18,,Brasil
+Rafael Lobato,361652,ATACANTE,18,1.7,Brasil
+Fabiano,361658,ATACANTE,18,1.8,Brasil
+Matheus Nascimento,304659,ATACANTE,20,1.83,Brasil
+Igor Jesus,287869,ATACANTE,23,1.8,Brasil
+Mateus Oliveira,307666,GOLEIRO,22,1.98,Brasil
+Marcelo Lomba,201622,GOLEIRO,37,1.88,Brasil
+Weverton,198983,GOLEIRO,36,1.88,Brasil
+Aranha,382967,GOLEIRO,19,,Brasil
+Deivid Andrade Soares,392257,GOLEIRO,19,1.96,Brasil
+Marcos Rocha,185994,DEFENSOR,35,1.75,Brasil
+Agustín Giay,315619,DEFENSOR,20,1.8,Argentina
+Vanderlan,307933,DEFENSOR,22,1.83,Brasil
+Mayke,178927,DEFENSOR,31,1.78,Brasil
+Gustavo Gómez,118395,DEFENSOR,31,1.85,Paraguai
+Joaquín Piquerez,254007,DEFENSOR,26,1.83,Uruguai
+Murilo,252609,DEFENSOR,27,1.88,Brasil
+Michel,318406,DEFENSOR,21,1.88,Brasil
+Kaiky Naves,332351,DEFENSOR,22,1.8,Brasil
+Arthur,382965,DEFENSOR,19,1.75,Brasil
+Vitor Nunes,361434,DEFENSOR,18,1.85,Brasil
+Gabriel Kidani,382964,DEFENSOR,18,1.68,Brasil
+Gilberto,361454,DEFENSOR,19,1.65,Brasil
+Luis Benedetti,361457,DEFENSOR,18,1.98,Brasil
+Aníbal Moreno,286406,MEIO-CAMPO,25,1.78,Argentina
+Zé Rafael,201660,MEIO-CAMPO,31,1.75,Brasil
+Felipe Anderson,152812,MEIO-CAMPO,31,1.75,Brasil
+Caio Paulista,95558,MEIO-CAMPO,26,1.8,Brasil
+Mauricio,289046,MEIO-CAMPO,23,1.75,Brasil
+Romulo,314545,MEIO-CAMPO,23,,Brasil
+Raphael Veiga,236321,MEIO-CAMPO,29,1.78,Brasil
+Gabriel Menino,301544,MEIO-CAMPO,24,1.78,Brasil
+Richard Ríos,301520,MEIO-CAMPO,24,1.85,Colômbia
+Fabinho,307934,MEIO-CAMPO,22,1.78,Brasil
+Patrick Silva,361460,MEIO-CAMPO,20,1.88,Brasil
+Vitor Figueiredo,392620,MEIO-CAMPO,18,1.73,Brasil
+Silva,382968,MEIO-CAMPO,19,,Brasil
+Rafael Coutinho,382963,MEIO-CAMPO,18,1.78,Brasil
+Thalys,361458,MEIO-CAMPO,19,1.83,Brasil
+Dudu,178349,ATACANTE,32,1.68,Brasil
+Rony,236314,ATACANTE,29,1.68,Brasil
+Bruno Nascimento,227737,ATACANTE,27,1.78,Brasil
+Lázaro,289907,ATACANTE,22,1.8,Brasil
+Riquelme,361433,ATACANTE,18,1.75,Brasil
+Daniel Silva,339068,ATACANTE,20,1.8,Brasil
+Estêvão,376481,ATACANTE,17,1.75,Brasil
+José López,311743,ATACANTE,23,1.91,Argentina
+Edney Henrique Santos Da Silva,373813,ATACANTE,20,1.75,Brasil
+Allan,382966,ATACANTE,20,1.75,Brasil
+Luighi Hanri,376480,ATACANTE,18,1.83,Brasil
+Wendell Sacramento,382969,ATACANTE,19,,Brasil
+João Ricardo,203685,GOLEIRO,36,1.85,Brasil
+Magrão,308588,GOLEIRO,24,1.98,Brasil
+Santos,153754,GOLEIRO,34,1.93,Brasil
+Mauricio Kozlinski,169831,GOLEIRO,33,1.91,Brasil
+Murilo D'Angelo,385196,GOLEIRO,20,1.85,Brasil
+Tinga,200826,DEFENSOR,31,1.78,Brasil
+Titi,95849,DEFENSOR,36,1.85,Brasil
+Bruno Pacheco,236283,DEFENSOR,32,1.75,Brasil
+Benjamín Kuscevic,204888,DEFENSOR,28,1.85,Chile
+Jhonatan,97972,DEFENSOR,25,1.65,Brasil
+Emanuel Britez,200206,DEFENSOR,32,1.78,Argentina
+Tomás Cardona,212528,DEFENSOR,29,1.85,Argentina
+Eros Mancuso,318082,DEFENSOR,25,1.7,Argentina
+Felipe Jonatan,272437,DEFENSOR,26,1.73,Brasil
+Arthur Barbosa,383007,DEFENSOR,18,1.78,Brasil
+Guilherme,339867,DEFENSOR,19,,Brasil
+Samuel Estevam,339868,DEFENSOR,19,,Brasil
+Gustavo,359429,DEFENSOR,20,1.75,Brasil
+Tomás Pochettino,215771,MEIO-CAMPO,28,1.78,Argentina
+Emmanuel Martínez,218649,MEIO-CAMPO,30,1.7,Argentina
+Calebe,304469,MEIO-CAMPO,24,1.73,Brasil
+Matheus Rossetto,233217,MEIO-CAMPO,28,1.8,Brasil
+José Welison,201793,MEIO-CAMPO,29,1.78,Brasil
+Yago Pikachu,186832,MEIO-CAMPO,32,1.7,Brasil
+Pedro Augusto,269653,MEIO-CAMPO,27,1.8,Brasil
+Hércules,336622,MEIO-CAMPO,24,1.78,Brasil
+Gabriel Cunha,383008,MEIO-CAMPO,19,1.75,Brasil
+Fabrício Dias,368525,MEIO-CAMPO,20,,Brasil
+Kaue,360304,MEIO-CAMPO,20,,Brasil
+Michel Cavalcante,359432,MEIO-CAMPO,18,1.75,Brasil
+Lucas Sasha,146169,MEIO-CAMPO,34,1.78,Brasil
+Juan Martín Lucero,195743,ATACANTE,33,1.78,Argentina
+Marinho,198392,ATACANTE,34,1.68,Brasil
+Breno,236324,ATACANTE,28,1.75,Brasil
+Moisés,304365,ATACANTE,28,1.78,Brasil
+Alexsandro Amorim,358445,ATACANTE,19,1.73,Brasil
+Iarley Barros,359431,ATACANTE,21,1.73,Brasil
+Kauan,359193,ATACANTE,19,1.7,Brasil
+Imanol Machuca,285040,ATACANTE,24,1.68,Argentina
+Tavinho,383009,ATACANTE,20,1.7,Brasil
+Landerson,359433,ATACANTE,17,1.68,Brasil
+Kaiky,361625,ATACANTE,20,1.8,Brasil
+Kervin Andrade,318207,ATACANTE,19,1.63,Venezuela
+Renato Kayzer,227314,ATACANTE,28,1.78,Brasil
+Agustín Rossi,215388,GOLEIRO,29,1.93,Argentina
+Lucas Furtado Dos Santos,358241,GOLEIRO,19,,Brasil
+Matheus Cunha,315201,GOLEIRO,23,1.8,Brasil
+Dyogo,343843,GOLEIRO,20,1.8,Brasil
+Caio Albado Barone,357201,GOLEIRO,18,1.96,Brasil
+Gullermo Varela,188368,DEFENSOR,31,1.73,Uruguai
+Léo Ortiz,252316,DEFENSOR,28,1.85,Brasil
+Léo Pereira,145405,DEFENSOR,28,1.88,Brasil
+Ayrton Lucas,203077,DEFENSOR,27,1.8,Brasil
+Fabrício Bruno,236111,DEFENSOR,28,1.91,Brasil
+Matías Viña,254032,DEFENSOR,26,1.75,Uruguai
+David Luiz,98398,DEFENSOR,37,1.88,Brasil
+Alex Sandro,125514,DEFENSOR,33,1.8,Brasil
+Cleiton,329267,DEFENSOR,21,1.8,Brasil
+José Welinton,338951,DEFENSOR,20,1.7,Brasil
+Da Mata,371495,DEFENSOR,18,1.85,Brasil
+Wesley França,332354,DEFENSOR,21,1.78,Brasil
+João Victor Schlickmann Carbone,379318,DEFENSOR,19,,Brasil
+Germano,382845,DEFENSOR,18,1.75,Brasil
+Daniel Sales,357115,DEFENSOR,18,1.78,Brasil
+Lucyan,379250,DEFENSOR,18,1.78,Brasil
+Iago Teodoro Da Silva Nogueira,340588,DEFENSOR,19,1.8,Brasil
+João Cunha,376479,DEFENSOR,17,1.88,Brasil
+Ainoã Ricardo Silva Oliveira,379496,DEFENSOR,19,,Brasil
+Erick Pulgar,202533,MEIO-CAMPO,30,1.88,Chile
+Gerson,210135,MEIO-CAMPO,27,1.88,Brasil
+Giorgian de Arrascaeta,179767,MEIO-CAMPO,30,1.73,Uruguai
+Nicolás de la Cruz,251889,MEIO-CAMPO,27,1.68,Uruguai
+Lorran,357117,MEIO-CAMPO,18,1.78,Brasil
+Allan,223437,MEIO-CAMPO,27,1.75,Brasil
+Michael Delgado,255617,MEIO-CAMPO,28,1.65,Brasil
+Rayan,359450,MEIO-CAMPO,19,1.8,Brasil
+Carlos Alcaraz,302162,MEIO-CAMPO,21,1.75,Argentina
+Fabiano,388807,MEIO-CAMPO,19,1.83,Brasil
+João Alves,387686,MEIO-CAMPO,19,,Brasil
+Evertton,334752,MEIO-CAMPO,21,1.73,Brasil
+Caio Vinicius,358161,MEIO-CAMPO,20,1.8,Brasil
+Luis Aucélio,382849,MEIO-CAMPO,18,,Brasil
+Daniel Rogério,359449,MEIO-CAMPO,19,1.73,Brasil
+Wallace Yan De Souza Barreto,358167,MEIO-CAMPO,19,1.75,Brasil
+Luiz Araújo,234765,ATACANTE,28,1.75,Brasil
+Pedro,235017,ATACANTE,27,1.85,Brasil
+Everton,198940,ATACANTE,28,1.75,Brasil
+Matheus Gonçalves,334379,ATACANTE,19,1.78,Brasil
+Carlinhos,246711,ATACANTE,27,1.96,Brasil
+Bruno Henrique,201683,ATACANTE,33,1.83,Brasil
+Felipe Teresa,382846,ATACANTE,18,1.83,Brasil
+Gonzalo Plata,277352,ATACANTE,23,1.78,Equador
+Felipe Lima,366742,ATACANTE,18,1.85,Brasil
+Guilherme Henrique Bernardineli Gomes,379497,ATACANTE,18,,Brasil
+Shola Ogundana,382847,ATACANTE,19,1.73,Nigéria
+Pedro Henrique Leão Alves Lopes,379317,ATACANTE,18,1.83,Brasil
+Adriel,388806,ATACANTE,18,,Brasil
+Gabriel Barbosa,182522,ATACANTE,28,1.78,Brasil
+Ivan,202493,GOLEIRO,27,1.93,Brasil
+Sergio Rochet,184206,GOLEIRO,31,1.91,Uruguai
+Fabrício,257387,GOLEIRO,38,1.93,Brasil
+Kauan,361392,GOLEIRO,21,1.93,Brasil
+Anthoni,315428,GOLEIRO,22,1.93,Brasil
+Henrique Menke,382893,GOLEIRO,17,,Brasil
+Diego Esser Pereira,379787,GOLEIRO,19,1.93,Brasil
+Eduardo Carvalho,382891,DEFENSOR,19,,Brasil
+René,173588,DEFENSOR,32,1.75,Brasil
+Italo,382894,DEFENSOR,19,,Brasil
+Agustin Rogel,254033,DEFENSOR,27,1.91,Uruguai
+Clayton,351447,DEFENSOR,24,1.88,Brasil
+Nathan,301859,DEFENSOR,23,1.85,Brasil
+Gabriel Mercado,76818,DEFENSOR,37,1.8,Argentina
+Alexander Bernabei,285029,DEFENSOR,24,1.7,Argentina
+Guilherme Bahia,382892,DEFENSOR,18,,Brasil
+Kauã Barbosa,382895,DEFENSOR,17,,Brasil
+Brian Aguirre,309131,DEFENSOR,24,1.75,Argentina
+Carioca,382890,DEFENSOR,17,,Brasil
+Victor Gabriel,319790,DEFENSOR,20,,Brasil
+Evertow,361375,DEFENSOR,17,1.85,Brasil
+Vitão,254145,DEFENSOR,24,1.85,Brasil
+Pedro Kauã,382898,DEFENSOR,18,,Brasil
+João Dalla Corte,361358,DEFENSOR,18,1.8,Brasil
+Fernando,124066,MEIO-CAMPO,37,1.83,Brasil
+Hyoran,202201,MEIO-CAMPO,31,1.75,Brasil
+Bruno Henrique,188485,MEIO-CAMPO,35,1.78,Brasil
+Alan Patrick,165232,MEIO-CAMPO,33,1.78,Brasil
+Bruno Gomes,295006,MEIO-CAMPO,23,1.75,Brasil
+Thiago Maia,213239,MEIO-CAMPO,27,1.78,Brasil
+Anderson,361396,MEIO-CAMPO,19,1.8,Brasil
+Gabriel Teixeira,361399,MEIO-CAMPO,17,1.68,Brasil
+Rodriguinho,382899,MEIO-CAMPO,18,,Brasil
+Luis Otávio,382896,MEIO-CAMPO,17,,Brasil
+Rômulo,290441,MEIO-CAMPO,24,,Brasil
+Gustavo Prado,361391,MEIO-CAMPO,19,1.78,Brasil
+Matheus Cadorini,315115,ATACANTE,22,1.93,Brasil
+Pedro Pio,336631,ATACANTE,20,,Brasil
+Wanderson,11632,ATACANTE,30,1.75,Brasil
+Enner Valencia,171771,ATACANTE,34,1.78,Equador
+Bruno Tabata,260059,ATACANTE,27,1.75,Brasil
+Wendel,361373,ATACANTE,19,1.73,Brasil
+Pedrinho,382897,ATACANTE,19,,Brasil
+Rafael Borré,197052,ATACANTE,29,1.75,Colômbia
+Wesley,288887,ATACANTE,25,1.78,Brasil
+Adriel,382871,ATACANTE,20,,Brasil
+Jhonatan Kauan,361400,ATACANTE,20,1.73,Brasil
+Lucas Alario,158918,ATACANTE,32,1.83,Argentina
+Yago,382900,ATACANTE,17,,Brasil
+Lucca,338953,ATACANTE,21,1.8,Brasil
+Lucca Drummond,385758,ATACANTE,20,,Brasil
+Ricardo Mathias,361364,ATACANTE,18,1.96,Brasil
+Leandro Mathias Silva Bueno,362543,GOLEIRO,19,1.88,Brasil
+Rafael,199013,GOLEIRO,35,1.93,Brasil
+Felipe Preis,380459,GOLEIRO,18,,Brasil
+João Pedro,383059,GOLEIRO,18,1.91,Brasil
+Young,318176,GOLEIRO,22,2.03,Brasil
+Jandrei,198844,GOLEIRO,31,1.88,Brasil
+Igor Felisberto,379484,DEFENSOR,17,,Brasil
+Igor,235894,DEFENSOR,27,1.75,Brasil
+Jamal Lewis,243720,DEFENSOR,26,1.78,Irlanda do Norte
+Robert Arboleda,201531,DEFENSOR,33,1.88,Equador
+Welington,300103,DEFENSOR,23,1.78,Brasil
+Rafinha,69155,DEFENSOR,39,1.7,Brasil
+Ruan,268693,DEFENSOR,25,1.88,Brasil
+Alan Franco,228493,DEFENSOR,28,1.78,Argentina
+João Moreira,334787,DEFENSOR,20,1.75,Brasil
+Nahuel Ferraresi,245291,DEFENSOR,25,1.91,Venezuela
+Igão,386050,DEFENSOR,17,,Brasil
+Sabino,285010,DEFENSOR,28,1.83,Brasil
+Patryck,297078,DEFENSOR,21,1.73,Brasil
+Lucas Loss,383060,DEFENSOR,17,1.88,Brasil
+Matheus Souza,358242,DEFENSOR,21,1.83,Brasil
+Giuliano Galoppo,270889,MEIO-CAMPO,25,1.8,Argentina
+Rodrigo Nestor,266664,MEIO-CAMPO,24,1.75,Brasil
+Michel Araújo,227241,MEIO-CAMPO,28,1.78,Uruguai
+Luiz Gustavo,113352,MEIO-CAMPO,37,1.85,Brasil
+Rodriguinho,339001,MEIO-CAMPO,20,1.88,Brasil
+Marcos Antonio,266282,MEIO-CAMPO,24,1.65,Brasil
+Damián Bobadilla,301516,MEIO-CAMPO,23,1.8,Paraguai
+Alisson,199012,MEIO-CAMPO,31,1.73,Brasil
+Liziero,228403,MEIO-CAMPO,26,1.75,Brasil
+Wellington Rato,233238,MEIO-CAMPO,32,1.73,Brasil
+Pablo Maia,319168,MEIO-CAMPO,22,1.78,Brasil
+Cauã Lucca,383058,MEIO-CAMPO,20,1.7,Brasil
+Lucas Ferreira,383068,MEIO-CAMPO,18,1.8,Brasil
+Felipe Negrucci,361627,MEIO-CAMPO,20,1.8,Brasil
+Santiago Longo,290766,ATACANTE,26,1.78,Argentina
+Lucas Moura,130711,ATACANTE,32,1.73,Brasil
+Jonathan Calleri,162558,ATACANTE,31,1.8,Argentina
+Luciano,190483,ATACANTE,31,1.83,Brasil
+Paulo Sérgio,383041,ATACANTE,19,1.78,Brasil
+André Silva,270578,ATACANTE,27,1.8,Brasil
+Ryan Francisco,383042,ATACANTE,17,1.7,Brasil
+Erick,256044,ATACANTE,26,1.73,Brasil
+Henrique Carmo,381160,ATACANTE,17,,Brasil
+William,376664,ATACANTE,18,,Brasil
+Ferreira,296573,ATACANTE,26,1.75,Brasil
+King Faisal,361623,ATACANTE,20,1.73,Gana
+João Gabriel,383073,ATACANTE,20,1.83,Brasil
+Danilo Fernandes,143818,GOLEIRO,36,1.88,Brasil
+Marcos Felipe,191997,GOLEIRO,28,1.85,Brasil
+Adriel,315681,GOLEIRO,23,1.91,Brasil
+André Dhominique,338647,DEFENSOR,21,1.78,Brasil
+Gilberto,198761,DEFENSOR,31,1.8,Brasil
+Gabriel Xavier,336604,DEFENSOR,23,,Brasil
+Kanu,252973,DEFENSOR,27,1.85,Brasil
+Santiago Arias,164756,DEFENSOR,32,1.78,Colômbia
+Víctor Cuesta,200303,DEFENSOR,35,1.88,Argentina
+Luciano Rodríguez,118688,DEFENSOR,17,1.88,Uruguai
+Iago,252800,DEFENSOR,27,1.8,Brasil
+Vitor Hugo,191995,DEFENSOR,33,1.88,Brasil
+David Duarte,219090,DEFENSOR,29,1.93,Brasil
+Cicinho,191411,DEFENSOR,35,1.68,Bulgária
+Vitinho,388193,MEIO-CAMPO,20,,Brasil
+Julio Cesar,217415,MEIO-CAMPO,29,,Brasil
+Jean Lucas,269910,MEIO-CAMPO,26,1.8,Brasil
+Cauly Oliveira Souza,260392,MEIO-CAMPO,29,1.73,Brasil
+Éverton Ribeiro,199017,MEIO-CAMPO,35,1.7,Brasil
+Carlos De Peña,199087,MEIO-CAMPO,32,1.78,Uruguai
+Thaciano,218938,MEIO-CAMPO,29,1.83,Brasil
+Caio Alexandre,299932,MEIO-CAMPO,25,1.75,Brasil
+Yago Felipe,202554,MEIO-CAMPO,29,1.75,Brasil
+Nicolás Acevedo,285757,MEIO-CAMPO,25,1.73,Uruguai
+Sidney,376490,MEIO-CAMPO,18,1.68,Brasil
+Jota,339036,MEIO-CAMPO,20,1.83,Brasil
+Roger Gabriel,360136,MEIO-CAMPO,17,,Brasil
+Ruan Pablo,387949,ATACANTE,16,,Brasil
+Ademir,269675,ATACANTE,29,1.75,Brasil
+Everaldo,167845,ATACANTE,33,1.8,Brasil
+Gabriel Teixeira,314835,ATACANTE,23,1.7,Brasil
+Rafael Ratão,198512,ATACANTE,28,1.83,Brasil
+Luciano,304757,ATACANTE,25,1.75,Brasil
+Tiago Souza De Jesus Carvalho,387395,ATACANTE,19,,Brasil
+Cássio,108347,GOLEIRO,37,1.96,Brasil
+Leonardo,361949,GOLEIRO,22,,Brasil
+Otávio,337996,GOLEIRO,18,,Brasil
+Marcelo,383087,GOLEIRO,18,,Brasil
+Gabriel Chapecó,317014,GOLEIRO,24,1.8,Brasil
+Anderson Paixão,276217,GOLEIRO,26,1.93,Brasil
+Wesley,266671,DEFENSOR,24,1.78,Brasil
+Marlon,229121,DEFENSOR,27,1.75,Brasil
+Zé Ivaldo,319270,DEFENSOR,27,1.85,Brasil
+Kaiki,317233,DEFENSOR,21,1.73,Brasil
+William,212077,DEFENSOR,29,1.75,Brasil
+Lucas Villalba,176810,DEFENSOR,30,1.78,Argentina
+Jonathan Jesus,363020,DEFENSOR,20,,Brasil
+Pedro Henrique Franklim Martins,341413,DEFENSOR,20,1.91,Brasil
+João Marcelo,286558,DEFENSOR,24,1.88,Brasil
+Weverton,314830,DEFENSOR,21,1.83,Brasil
+Dorival,383092,DEFENSOR,20,,Brasil
+Victor Gabriel,383086,DEFENSOR,18,,Brasil
+Bruno Alves,383090,DEFENSOR,19,1.85,Brasil
+Mateus Vital,229019,MEIO-CAMPO,26,1.75,Brasil
+Matheus Pereira,216098,MEIO-CAMPO,26,1.8,Brasil
+Lucas Silva,108103,MEIO-CAMPO,31,1.8,Brasil
+Ramiro,157285,MEIO-CAMPO,31,1.68,Brasil
+Walace,204113,MEIO-CAMPO,29,1.88,Brasil
+Álvaro Barreal,279454,MEIO-CAMPO,24,1.73,Argentina
+Vitinho,380102,MEIO-CAMPO,20,,Brasil
+Lucas Romero,77577,MEIO-CAMPO,30,1.73,Argentina
+Fabrizio Peralta,297321,MEIO-CAMPO,22,1.75,Paraguai
+Alessandro,383088,MEIO-CAMPO,17,1.85,Brasil
+Henrique Silva,383095,MEIO-CAMPO,19,1.78,Brasil
+Jhosefer,337135,MEIO-CAMPO,20,,Brasil
+Xavier,352011,MEIO-CAMPO,20,,Brasil
+Gui Meira,383093,MEIO-CAMPO,19,1.78,Brasil
+Rhuan Gabriel,371530,MEIO-CAMPO,18,1.75,Brasil
+Nicolas Pontes,383098,MEIO-CAMPO,18,1.75,Brasil
+Cauan Baptistella,383091,MEIO-CAMPO,17,1.78,Itália
+Murilo Rhikman,383097,MEIO-CAMPO,18,1.83,Brasil
+Arthur Viana,383089,MEIO-CAMPO,20,1.8,Brasil
+Japa,358337,MEIO-CAMPO,20,,Brasil
+Matheus Henrique,268221,MEIO-CAMPO,26,1.75,Brasil
+Rafael Silva,237998,ATACANTE,32,1.78,Brasil
+Juan Dinenno,193755,ATACANTE,30,1.85,Argentina
+Kaio Jorge,280978,ATACANTE,22,1.75,Brasil
+Lautaro Díaz,292041,ATACANTE,26,1.8,Argentina
+Gabriel Veron,297072,ATACANTE,22,1.75,Brasil
+Tevis Gabriel,383099,ATACANTE,18,1.78,Brasil
+Ruan Silva Fonseca,374514,ATACANTE,18,,Brasil
+Kenji,383096,ATACANTE,18,1.78,Brasil
+Gustavo Zago,383094,ATACANTE,18,1.75,Brasil
+Phillipe Gabriel,371432,GOLEIRO,18,1.96,Brasil
+Léo Jardim,205464,GOLEIRO,29,1.88,Brasil
+Keiller,234080,GOLEIRO,28,1.93,Brasil
+Pablo,379269,GOLEIRO,21,1.88,Brasil
+Luiz Gustavo Marinho Ribeiro Dos Santos,379502,DEFENSOR,18,,Brasil
+José Luis Rodríguez,43711,DEFENSOR,27,1.83,Uruguai
+Léo,200660,DEFENSOR,28,1.83,Brasil
+Maicon,124025,DEFENSOR,36,1.91,Brasil
+Lucas Piton,287862,DEFENSOR,24,1.75,Itália
+Victor Luis,198108,DEFENSOR,31,1.8,Brasil
+Robert Rojas,238451,DEFENSOR,28,1.78,Paraguai
+Lyncon Correa Gonçalves,357310,DEFENSOR,19,,Brasil
+João Victor,287946,DEFENSOR,26,1.88,Brasil
+Paulo Henrique,234842,DEFENSOR,28,1.75,Brasil
+Souza,148973,MEIO-CAMPO,35,1.88,Brasil
+Jair,196873,MEIO-CAMPO,30,1.78,Brasil
+Dimitri Payet,84877,MEIO-CAMPO,37,1.75,França
+Philippe Coutinho,130372,MEIO-CAMPO,32,1.73,Brasil
+Guilherme Estrella,379581,MEIO-CAMPO,19,,Brasil
+Emerson Rodríguez,308522,MEIO-CAMPO,24,1.75,Colômbia
+Paulinho,289499,MEIO-CAMPO,27,1.75,Brasil
+Juan Sforza,297055,MEIO-CAMPO,22,1.8,Argentina
+Jean Meneses,206320,MEIO-CAMPO,31,1.65,Chile
+Hugo Moura,269924,MEIO-CAMPO,26,1.83,Brasil
+Maxime Dominguez,233707,MEIO-CAMPO,28,1.73,Suíça
+Pablo Galdames,34390,MEIO-CAMPO,27,1.75,Chile
+Adson,315293,MEIO-CAMPO,24,1.68,Brasil
+Rossi,198111,MEIO-CAMPO,31,1.7,Brasil
+Lucas Eduardo De Souza Oliveira,357312,MEIO-CAMPO,20,,Brasil
+Leandrinho,379377,MEIO-CAMPO,19,1.7,Brasil
+Matheus Carvalho,346179,MEIO-CAMPO,22,1.75,Brasil
+JP,379268,MEIO-CAMPO,19,1.75,Brasil
+Bruno Lopes,379267,ATACANTE,17,,Brasil
+David,219005,ATACANTE,29,1.78,Brasil
+Alegria,379239,ATACANTE,20,,Brasil
+Rayan Rocha,357719,ATACANTE,18,1.85,Brasil
+Alex Teixeira,114031,ATACANTE,34,1.73,Brasil
+Pablo Vegetti,176895,ATACANTE,36,1.88,Argentina
+Gabriel Souza Da Silva,357722,ATACANTE,19,,Brasil
+Gabriel Delfim,318191,GOLEIRO,22,1.91,Brasil
+Pedro Cobra,376488,GOLEIRO,18,1.93,Brasil
+Éverson,223953,GOLEIRO,34,1.93,Brasil
+Robert,383039,GOLEIRO,19,,Brasil
+Matheus Mendes,302601,GOLEIRO,25,1.91,Brasil
+Gabriel Atila,338972,GOLEIRO,21,1.93,Brasil
+Lyanco,220747,DEFENSOR,27,1.88,Brasil
+Bruno Fuchs,257050,DEFENSOR,25,1.91,Brasil
+Mauricio Lemos,199024,DEFENSOR,28,1.78,Uruguai
+Júnior Alonso,181657,DEFENSOR,31,1.85,Paraguai
+Guilherme Arana,207269,DEFENSOR,27,1.75,Brasil
+Igor Rabello,212879,DEFENSOR,29,1.91,Brasil
+Mariano,101283,DEFENSOR,38,1.83,Brasil
+Renzo Saravia,184717,DEFENSOR,31,1.88,Argentina
+Renan Santana,359417,DEFENSOR,19,1.8,Brasil
+David Kauã,361448,DEFENSOR,19,1.83,Brasil
+Rubens,311146,DEFENSOR,23,1.75,Brasil
+Julio César,381174,DEFENSOR,20,,Brasil
+Rômulo,318189,DEFENSOR,20,1.83,Brasil
+Vitor Reis,358752,DEFENSOR,18,1.75,Brasil
+Otávio,201547,MEIO-CAMPO,30,1.73,Brasil
+Gustavo Scarpa,205074,MEIO-CAMPO,30,1.75,Brasil
+Matías Zaracho,241988,MEIO-CAMPO,26,1.7,Argentina
+Igor Gomes,268472,MEIO-CAMPO,25,1.83,Brasil
+Fausto Vera,272319,MEIO-CAMPO,24,1.78,Argentina
+Bernard,158272,MEIO-CAMPO,32,1.65,Brasil
+Rodrigo Battaglia,152706,MEIO-CAMPO,33,1.88,Argentina
+Alan Franco,262111,MEIO-CAMPO,26,1.75,Equador
+Paulo Vitor,361977,MEIO-CAMPO,20,,Brasil
+Mateus Iseppe,383036,MEIO-CAMPO,18,,Brasil
+Zé Phelipe,383040,MEIO-CAMPO,19,,Brasil
+Victor Hugo,322751,MEIO-CAMPO,21,1.73,Brasil
+João Rafael,381173,MEIO-CAMPO,19,,Brasil
+Alisson Santana,359420,MEIO-CAMPO,19,1.73,Brasil
+Hulk,124068,ATACANTE,38,1.83,Brasil
+Deyverson,192710,ATACANTE,33,1.88,Brasil
+Paulinho,258271,ATACANTE,24,1.78,Brasil
+Eduardo Vargas,169773,ATACANTE,34,1.75,Chile
+Alan Kardec,98428,ATACANTE,35,1.88,Brasil
+Lucas Louback,383035,ATACANTE,18,,Brasil
+Brahian Palacios,315583,ATACANTE,21,1.78,Colômbia
+Robert Santos,379742,ATACANTE,21,1.8,Brasil
+Caio Maia,359419,ATACANTE,19,1.75,Brasil
+Carlos Eduardo,338970,ATACANTE,20,1.78,Brasil
+Agustín Marchesín,195663,GOLEIRO,36,1.88,Argentina
+Thiago Stallbaum,379334,GOLEIRO,21,,Brasil
+Caíque,223125,GOLEIRO,27,1.98,Brasil
+Rafael,134307,GOLEIRO,34,1.85,Brasil
+Felipe,318137,GOLEIRO,24,1.78,Brasil
+Fabio,122463,DEFENSOR,34,1.73,Brasil
+Pedro Geromel,69737,DEFENSOR,39,1.88,Brasil
+Wálter Kannemann,146109,DEFENSOR,33,1.85,Argentina
+Rodrigo Ely,155584,DEFENSOR,30,1.88,Brasil
+Reinaldo,115379,DEFENSOR,35,1.78,Brasil
+João Pedro,213260,DEFENSOR,27,1.78,Brasil
+Mayk,277092,DEFENSOR,25,1.73,Brasil
+Jemerson,187396,DEFENSOR,32,1.83,Brasil
+Rodrigo Caio,196864,DEFENSOR,31,1.83,Brasil
+Igor Schlemper,380444,DEFENSOR,19,1.8,Brasil
+Natã,333863,DEFENSOR,23,,Brasil
+Viery Fernandes Santos Lopes,364156,DEFENSOR,19,1.88,Brasil
+Zé Guilherme,360186,DEFENSOR,19,1.8,Brasil
+Wesley Da Costa Silva,363226,DEFENSOR,20,,Brasil
+Athos Thawan,382838,DEFENSOR,19,1.88,Brasil
+Gustavo Martins,314603,DEFENSOR,22,1.91,Brasil
+João Lima,382834,DEFENSOR,19,1.88,Brasil
+Yeferson Soteldo,194039,MEIO-CAMPO,27,1.6,Venezuela
+Franco Cristaldo,204873,MEIO-CAMPO,28,1.7,Argentina
+Miguel Monsalve,307659,MEIO-CAMPO,20,1.78,Colômbia
+Nathan,255639,MEIO-CAMPO,28,1.8,Brasil
+Edenilson,196849,MEIO-CAMPO,34,1.75,Brasil
+Dodi,213879,MEIO-CAMPO,28,1.7,Brasil
+Mathías Villasanti,238449,MEIO-CAMPO,27,1.78,Paraguai
+Pepê,269911,MEIO-CAMPO,26,1.78,Brasil
+Ronald Falkoski,359383,MEIO-CAMPO,21,1.85,Brasil
+Du Queiroz,321356,MEIO-CAMPO,24,1.7,Brasil
+Jardiel,382835,MEIO-CAMPO,19,1.85,Brasil
+Caio Araújo,382837,MEIO-CAMPO,19,1.75,Brasil
+Hiago,380442,MEIO-CAMPO,20,,Brasil
+Mila,333984,MEIO-CAMPO,21,,Brasil
+Luis Henrique Hoffmann,359387,MEIO-CAMPO,21,,Brasil
+João Vitor Araújo Da Silva,374727,MEIO-CAMPO,19,,Brasil
+Bruno Cheron,380445,MEIO-CAMPO,20,1.8,Brasil
+Kaick,380441,MEIO-CAMPO,18,,Brasil
+Riquelme Freitas Dos Santos,380443,MEIO-CAMPO,18,,Brasil
+Douglas Arezo,287029,ATACANTE,21,1.78,Uruguai
+Alexander Aravena,297127,ATACANTE,22,1.75,Chile
+Diego Costa,95410,ATACANTE,36,1.88,Espanha
+Cristian Pavón,24388,ATACANTE,28,1.68,Argentina
+Martin Braithwaite,187100,ATACANTE,33,1.8,Dinamarca
+Nathan Ribeiro Fernandes,362784,ATACANTE,19,1.93,Brasil
+Lian Dos Santos Da Silva,362873,ATACANTE,19,1.68,Brasil
+Alysson Edward,382839,ATACANTE,18,1.83,Brasil
+Guga,382836,ATACANTE,18,1.75,Brasil
+André Henrique,361901,ATACANTE,22,1.88,Brasil
+Gustavo,186558,GOLEIRO,31,1.85,Brasil
+Kauã Moroso,338673,GOLEIRO,20,1.8,Brasil
+Alisson,240556,GOLEIRO,29,1.91,Brasil
+Hiago,333958,DEFENSOR,19,,Brasil
+Jackson Crispim,349955,DEFENSOR,21,,Brasil
+Kaik,384962,DEFENSOR,20,,Brasil
+Rodrigo,198592,DEFENSOR,37,1.88,Brasil
+Wilker Ángel,138701,DEFENSOR,31,1.88,Venezuela
+Jonathan Lemos,198365,DEFENSOR,32,1.78,Brasil
+Miguel Trauco,156342,DEFENSOR,32,1.75,Peru
+Eliédson,343742,DEFENSOR,21,,Brasil
+Dudu,249088,DEFENSOR,27,1.78,Brasil
+Marcelo Hermes,214399,DEFENSOR,29,1.78,Brasil
+Claudio Coelho Salvático,292396,DEFENSOR,24,,Brasil
+Tobias Figueiredo,192479,DEFENSOR,30,1.88,Portugal
+Matheus Teixeira,275424,DEFENSOR,28,,Brasil
+Walisson Maia,158647,DEFENSOR,33,1.88,Brasil
+Erick Garcia,381399,DEFENSOR,19,,Brasil
+Thiago Mina,358785,DEFENSOR,22,,Brasil
+Guilherme Silva,338666,DEFENSOR,22,1.8,Brasil
+Fabricio,381534,MEIO-CAMPO,18,,Brasil
+Higor Matheus Meritão,285000,MEIO-CAMPO,30,,Brasil
+Ronald,253276,MEIO-CAMPO,27,1.7,Brasil
+Fellipe Mateus,198569,MEIO-CAMPO,33,1.78,Brasil
+Newton,357362,MEIO-CAMPO,24,,Brasil
+Marquinhos Gabriel,131532,MEIO-CAMPO,34,1.75,Brasil
+Matheuzinho,228399,MEIO-CAMPO,26,1.65,Brasil
+Eliel,336807,MEIO-CAMPO,21,1.7,Brasil
+Léo Gonçalves,338669,MEIO-CAMPO,22,,Brasil
+Serginho,264237,MEIO-CAMPO,29,1.8,Brasil
+Patrick de Paula,301543,MEIO-CAMPO,25,1.78,Brasil
+Barreto,211347,MEIO-CAMPO,28,1.8,Brasil
+Allano,202710,ATACANTE,29,1.83,Brasil
+Felipe Vizeu,233577,ATACANTE,27,1.85,Brasil
+Yannick Bolasie,121921,ATACANTE,35,1.88,Congo (Brazavile)
+Éder,87174,ATACANTE,37,1.78,Itália
+Pedro Rocha,216846,ATACANTE,30,1.8,Brasil
+Arthur Caike,201728,ATACANTE,32,1.75,Brasil
+Jhonata Robert,296570,ATACANTE,25,1.78,Brasil
+Adriano,315785,ATACANTE,20,,Brasil
+Werik,348314,ATACANTE,23,1.91,Brasil
+Eduardo,338668,ATACANTE,23,1.85,Brasil
+Fábio,158382,GOLEIRO,44,1.88,Brasil
+Kevyn,368528,GOLEIRO,19,,Brasil
+Felipe Alves,182301,GOLEIRO,36,1.88,Brasil
+Gabriel Fuentes,272847,GOLEIRO,21,1.91,Chile
+Gustavo Ramalho Bremer Pinto,315456,GOLEIRO,22,2.01,Brasil
+Vitor Eudes,255327,GOLEIRO,26,1.93,Brasil
+Samuel Xavier,146162,DEFENSOR,34,1.68,Brasil
+Thiago Silva,96254,DEFENSOR,40,1.83,Brasil
+Ignácio,281559,DEFENSOR,27,1.93,Brasil
+Diogo Barbosa,187032,DEFENSOR,32,1.78,Brasil
+Marcelo,77641,DEFENSOR,36,1.73,Brasil
+Felipe De Andrade Vieira,315455,DEFENSOR,22,,Brasil
+Guga,271557,DEFENSOR,26,1.73,Brasil
+Antônio Carlos,196842,DEFENSOR,31,1.91,Brasil
+Manoel,198968,DEFENSOR,34,1.8,Brasil
+Felipe Melo,48735,DEFENSOR,41,1.85,Brasil
+João Loiola,382971,DEFENSOR,19,,Brasil
+Wallace II,382972,DEFENSOR,17,,Brasil
+Lucas Da Sliva Justen,367960,DEFENSOR,21,,Brasil
+Rafael Monteiro,361439,DEFENSOR,20,,Brasil
+João Henrique,361430,DEFENSOR,18,1.8,Brasil
+Facundo Bernal,359912,MEIO-CAMPO,21,1.88,Uruguai
+Renato Augusto,74906,MEIO-CAMPO,36,1.85,Brasil
+Martinelli,307946,MEIO-CAMPO,23,1.78,Brasil
+Ganso,175902,MEIO-CAMPO,35,1.83,Brasil
+Nonato,238342,MEIO-CAMPO,26,1.75,Brasil
+Jhon Arias,239566,MEIO-CAMPO,27,1.7,Colômbia
+Gabriel,155466,MEIO-CAMPO,31,1.85,Brasil
+Arthur Wenderrosky Sanches,315457,MEIO-CAMPO,19,1.73,Brasil
+Thiago Santos,188143,MEIO-CAMPO,35,1.8,Brasil
+Robinho,307937,MEIO-CAMPO,20,1.7,Brasil
+Isaque,382970,MEIO-CAMPO,17,,Brasil
+Thiago Henrique,361437,MEIO-CAMPO,20,,Brasil
+Lima,222955,MEIO-CAMPO,28,1.73,Brasil
+Gustavo Dohmann,361441,MEIO-CAMPO,19,,Brasil
+David Terans,207912,MEIO-CAMPO,30,1.73,Uruguai
+Joao Neto,314838,ATACANTE,21,1.8,Brasil
+John Kennedy,312741,ATACANTE,22,1.73,Brasil
+Keno,203693,ATACANTE,35,1.78,Brasil
+Germán Cano,165749,ATACANTE,36,1.78,Argentina
+Matheus Reis,371529,ATACANTE,17,1.8,México
+Jan Lucumí,380447,ATACANTE,20,,Colômbia
+Lelê,333936,ATACANTE,27,,Brasil
+Kauã Elias,361432,ATACANTE,18,1.8,Brasil
+Victor Hugo Ramos De Souza,347410,ATACANTE,20,1.83,Brasil
+Isaac,357482,ATACANTE,20,,Brasil
+Agner,358065,ATACANTE,19,0.79,Brasil
+Marquinhos,297070,ATACANTE,21,1.75,Brasil
+Kevin Serna,287633,ATACANTE,26,1.8,Colômbia
+Lucas Arcanjo,287941,GOLEIRO,26,1.88,Brasil
+Yuri Sena,266662,GOLEIRO,23,1.91,Brasil
+Muriel,101731,GOLEIRO,37,1.91,Brasil
+Fintelman,302124,GOLEIRO,23,1.93,Brasil
+Roque Júnior,387777,DEFENSOR,22,1.88,Brasil
+Wagner Leonardo,286201,DEFENSOR,25,1.85,Brasil
+Camutanga,272576,DEFENSOR,31,1.88,Brasil
+Itaro Patric,218935,DEFENSOR,30,1.8,Brasil
+Lucas Esteves,286841,DEFENSOR,24,1.7,Brasil
+Bruno Uvini,171198,DEFENSOR,33,1.88,Brasil
+Raúl Cáceres,191639,DEFENSOR,33,1.78,Paraguai
+Edu,293047,DEFENSOR,24,1.85,Brasil
+Andrei Gabriel Dos Santos Ferreira,394542,DEFENSOR,19,2.03,Brasil
+Neris,203887,DEFENSOR,32,1.91,Brasil
+Willean Lepu,251863,DEFENSOR,27,1.8,Brasil
+Leo Naldi,313111,MEIO-CAMPO,23,,Brasil
+Luan,276387,MEIO-CAMPO,25,1.75,Brasil
+Jean Mota,198531,MEIO-CAMPO,31,1.73,Brasil
+Caio Vinicius,269826,MEIO-CAMPO,25,1.85,Brasil
+Ricardo,203223,MEIO-CAMPO,30,1.83,Brasil
+Willian,186589,MEIO-CAMPO,31,1.83,Brasil
+Matheus,218972,MEIO-CAMPO,27,1.65,Brasil
+Machado,240051,MEIO-CAMPO,28,1.75,Brasil
+José Breno,387948,MEIO-CAMPO,20,1.75,Brasil
+Pablo,383898,MEIO-CAMPO,21,,Brasil
+Fábio Soares Dos Santos,368308,MEIO-CAMPO,19,,Brasil
+Gustavo Mosquito,250904,ATACANTE,27,1.7,Brasil
+Alerrando,270260,ATACANTE,24,1.8,Brasil
+Osvaldo,141626,ATACANTE,37,1.7,Brasil
+Luiz Adriano,108392,ATACANTE,37,1.83,Brasil
+Hugo,340094,ATACANTE,25,,Brasil
+Luis Miguel Borges De Paula,387547,ATACANTE,19,,Brasil
+Paulo Roberto,393014,ATACANTE,18,,Brasil
+Lawan Kennyd Gabriel Santos,387546,ATACANTE,19,1.8,Brasil
+Everaldo,223782,ATACANTE,30,1.85,Brasil
+Janderson,358165,ATACANTE,25,1.85,Brasil
+Carlos Eduardo,218974,ATACANTE,28,1.75,Brasil
+Felipe Longo,361463,GOLEIRO,19,1.88,Brasil
+Hugo Souza,257051,GOLEIRO,25,1.98,Brasil
+Matheus Donelli,284998,GOLEIRO,22,1.88,Brasil
+Cadu,361473,GOLEIRO,19,1.93,Brasil
+Matheus Corrêa,376482,GOLEIRO,18,1.88,Brasil
+Mateuzinho,272533,DEFENSOR,24,1.75,Brasil
+Félix Torres,251963,DEFENSOR,27,1.88,Equador
+Caetano,282093,DEFENSOR,25,1.83,Brasil
+André Ramalho,194090,DEFENSOR,32,1.83,Brasil
+Diego Palacios,276615,DEFENSOR,25,1.7,Equador
+Gustavo Henrique,168981,DEFENSOR,31,1.96,Brasil
+Matheus Bidu,287774,DEFENSOR,25,1.73,Brasil
+Fagner,108342,DEFENSOR,35,1.68,Brasil
+Cacá,271773,DEFENSOR,25,1.88,Brasil
+Denner Evangelista,392276,DEFENSOR,16,,Brasil
+Léo Mana,338591,DEFENSOR,20,1.75,Brasil
+Renato Santos,361470,DEFENSOR,20,1.88,Brasil
+Fernando Vera,315990,DEFENSOR,19,1.85,Paraguai
+Hugo,303591,DEFENSOR,27,1.78,Brasil
+Guilherme Pellegrin Almeida,379516,DEFENSOR,18,,Brasil
+Maycon,233416,MEIO-CAMPO,27,1.7,Brasil
+Rodrigo Garro,270562,MEIO-CAMPO,26,,Argentina
+Raniele,236099,MEIO-CAMPO,27,1.83,Brasil
+Charles,240557,MEIO-CAMPO,28,1.88,Brasil
+Breno Bidon,338898,MEIO-CAMPO,19,1.75,Brasil
+Matheus Andrade,297761,MEIO-CAMPO,22,1.75,Brasil
+Ruan,304648,MEIO-CAMPO,24,1.75,Brasil
+Ryan,357354,MEIO-CAMPO,21,1.7,Brasil
+Yago Kauã Rodrigues Gonçalves,379517,MEIO-CAMPO,18,,Brasil
+Luiz Gustavo,371496,MEIO-CAMPO,18,1.78,Brasil
+Dieguinho,382944,MEIO-CAMPO,17,,Brasil
+Vitinho,382962,MEIO-CAMPO,17,,Brasil
+José Andrés Martínez,287014,MEIO-CAMPO,30,1.78,Venezuela
+Igor Coronado,157983,MEIO-CAMPO,32,1.7,Itália
+Alex Santana,196879,MEIO-CAMPO,29,1.83,Brasil
+Hector Hernández,123865,ATACANTE,29,1.8,Espanha
+André Carrillo,148189,ATACANTE,33,1.8,Peru
+Yuri Alberto,266666,ATACANTE,23,1.8,Brasil
+Ángel Romero,193634,ATACANTE,32,1.75,Paraguai
+Pedro Henrique,143702,ATACANTE,34,1.8,Brasil
+Giovane,339953,ATACANTE,20,1.83,Brasil
+Talles Magno,288930,ATACANTE,22,1.85,Brasil
+Pedro Raúl,234070,ATACANTE,27,1.93,Brasil
+Kayke Ferrari,361467,ATACANTE,20,,Brasil
+Guilherme Inácio,382959,ATACANTE,17,,Brasil
+Guilherme Henrique De Oliveira Morais,379489,ATACANTE,17,1.73,Brasil
+Luiz Fernando,382961,ATACANTE,17,,Brasil
+Kauã,382960,ATACANTE,17,,Brasil
+Memphis Depay,159255,ATACANTE,30,1.78,Holanda
+Leo Linck,310822,GOLEIRO,23,1.96,Brasil
+Mycael,322655,GOLEIRO,20,1.88,Brasil
+Matheus Rocha,361393,GOLEIRO,19,1.93,Brasil
+Maksym Voronov,382868,GOLEIRO,18,,Ucrânia
+Luan Patrick,297764,DEFENSOR,22,1.91,Brasil
+Kaique Rocha,283147,DEFENSOR,23,1.98,Brasil
+Fernando,301225,DEFENSOR,25,1.8,Brasil
+Mateo Gamarra,285755,DEFENSOR,24,1.8,Paraguai
+Mádson,169078,DEFENSOR,32,1.83,Brasil
+Filipinho,315789,DEFENSOR,23,,Brasil
+Leonardo Godoy,187848,DEFENSOR,29,1.73,Argentina
+Lucas Esquivel,309499,DEFENSOR,23,1.8,Argentina
+Marcos Victor,334243,DEFENSOR,22,1.85,Brasil
+Thiago Heleno,201702,DEFENSOR,36,1.85,Brasil
+Lucas Belezi,323125,DEFENSOR,21,1.85,Brasil
+Marcos André Paulino Maia,374936,DEFENSOR,18,,Brasil
+Leonardo Ataíde,332434,DEFENSOR,20,1.78,Brasil
+Leonardo Derik,338881,DEFENSOR,19,1.65,Brasil
+Arthur Dias,381170,DEFENSOR,17,,Brasil
+Fábio Lucas,382859,DEFENSOR,18,1.88,Brasil
+João Vigolo,382865,DEFENSOR,18,,Brasil
+Gabriel,171993,MEIO-CAMPO,32,1.7,Brasil
+Fernandinho,178486,MEIO-CAMPO,39,1.78,Brasil
+Bruno Conceicão,289910,MEIO-CAMPO,22,1.85,Brasil
+Bruno Zapelli,296574,MEIO-CAMPO,22,1.8,Argentina
+Nikão,196828,MEIO-CAMPO,32,1.75,Brasil
+Andrey Da Silva Bezerra De Carvalho,373959,MEIO-CAMPO,19,,Brasil
+Erick,253796,MEIO-CAMPO,26,1.75,Brasil
+José Vitor Silva Neves,383950,MEIO-CAMPO,24,1.93,Brasil
+Eduardo,361357,MEIO-CAMPO,18,1.78,Brasil
+Chiqueti,361383,MEIO-CAMPO,19,1.7,Brasil
+João Cruz,361359,MEIO-CAMPO,18,1.7,Brasil
+João Vitor,348928,MEIO-CAMPO,20,1.85,Brasil
+Diogo Riquelme,382858,MEIO-CAMPO,19,,Brasil
+Guilherme Back,382862,MEIO-CAMPO,18,,Brasil
+Carlos Biro,334235,MEIO-CAMPO,20,1.78,Brasil
+Christian,287788,MEIO-CAMPO,23,1.75,Brasil
+Lucas Di Yorio,233903,ATACANTE,27,1.91,Argentina
+Gonzalo Mastriani,189900,ATACANTE,31,1.8,Uruguai
+Agustín Canobbio,241466,ATACANTE,26,1.75,Uruguai
+Julimar,274442,ATACANTE,23,1.88,Brasil
+Kayke Santos,385232,ATACANTE,16,,Brasil
+Tomás Cuello,252197,ATACANTE,24,1.75,Argentina
+Renan,318152,ATACANTE,21,1.88,Brasil
+Walace,382870,ATACANTE,19,,Brasil
+Sorriso,382869,ATACANTE,18,,Brasil
+Kauê Sestrem,382867,ATACANTE,18,,Brasil
+Emersonn,322654,ATACANTE,20,1.85,Brasil
+Pablo,165692,ATACANTE,32,1.88,Brasil
+Cleiton,239368,GOLEIRO,27,1.91,Brasil
+Rubens Flávio Klemann Marcarini,380202,GOLEIRO,18,,Brasil
+Fabrício,287767,GOLEIRO,24,1.91,Brasil
+Lucão,266667,GOLEIRO,23,1.91,Brasil
+Gustavo Reis De Alcantara,386191,GOLEIRO,19,1.91,Brasil
+Eduardo Santos,296900,DEFENSOR,26,1.96,Brasil
+Lucas Cunha,198597,DEFENSOR,27,1.85,Brasil
+Sergio Palacios,368823,DEFENSOR,19,,Colômbia
+Pedro Henrique,202485,DEFENSOR,29,1.88,Brasil
+Marcos Paulo Lima Batista Silva,333835,DEFENSOR,21,1.8,Brasil
+Isac,371525,DEFENSOR,18,,Brasil
+Juninho Capixaba,229555,DEFENSOR,27,1.75,Brasil
+Guilherme Almeida,216107,DEFENSOR,22,1.78,Brasil
+José Hurtado,311087,DEFENSOR,22,1.78,Equador
+Luan Cândido,266676,DEFENSOR,23,1.88,Brasil
+Kevyn Monteiro,381522,DEFENSOR,19,,Brasil
+Douglas Mendes,204133,DEFENSOR,20,1.91,Brasil
+Nathan,318174,DEFENSOR,22,1.8,Brasil
+Kauan Martins Chagas,390812,DEFENSOR,20,,Brasil
+Gustavo Henrique Da Silva,362762,DEFENSOR,19,,Brasil
+Danilo,155691,DEFENSOR,20,1.7,Brasil
+Rafael Lima,381277,MEIO-CAMPO,18,,Brasil
+Jadsom,283201,MEIO-CAMPO,23,1.75,Brasil
+Jhonatan,332353,MEIO-CAMPO,22,1.78,Brasil
+Ramires,279941,MEIO-CAMPO,24,1.75,Brasil
+Lucas Evangelista,186776,MEIO-CAMPO,29,1.8,Brasil
+Lincoln,216021,MEIO-CAMPO,25,1.78,Brasil
+Gabriel Lopes,381282,MEIO-CAMPO,18,,Brasil
+João Neto,291053,MEIO-CAMPO,21,1.78,Brasil
+Gustavinho,357358,MEIO-CAMPO,20,1.75,Brasil
+Raul,224731,MEIO-CAMPO,28,1.78,Brasil
+Yuri Leles,381273,MEIO-CAMPO,17,,Brasil
+Riquelme,381275,MEIO-CAMPO,18,,Brasil
+Matheus Fernandes,225538,MEIO-CAMPO,26,1.83,Brasil
+Kelvin Florez,345362,MEIO-CAMPO,20,,Colômbia
+Victor Hugo De Faria Mota,390376,MEIO-CAMPO,21,,Brasil
+Marquinhos,389360,MEIO-CAMPO,20,1.8,Brasil
+Chumbinho,361619,MEIO-CAMPO,21,1.83,Brasil
+Johan Caicedo,156482,MEIO-CAMPO,20,,Colômbia
+Dija,353186,MEIO-CAMPO,21,,Brasil
+Ivan Cavaleiro,187884,ATACANTE,31,1.75,Angola
+Rai,381521,ATACANTE,20,,Brasil
+Thiago Borbas,302628,ATACANTE,22,1.85,Uruguai
+Eduardo Sasha,199680,ATACANTE,32,1.75,Brasil
+Arthur Sousa Araújo,351298,ATACANTE,21,1.83,Brasil
+Vitinho,287903,ATACANTE,25,1.78,Brasil
+Henry Mosquera,333314,ATACANTE,22,,Colômbia
+Kauê Ricardo,381281,ATACANTE,19,,Brasil
+João Vitor Campos De Assis Ataide,381525,ATACANTE,19,,Brasil
+Filipe,381283,ATACANTE,18,,Brasil
+André Ricardo,381287,ATACANTE,19,,Brasil
+Vinicinho,383987,ATACANTE,20,,Brasil
+Juliano Viana Papille,387779,ATACANTE,16,,Brasil
+Gabriel,155156,GOLEIRO,32,1.93,Brasil
+Claus,216842,GOLEIRO,30,1.93,Brasil
+Mário,379335,GOLEIRO,19,1.93,Brasil
+Lucas Wingert,357943,GOLEIRO,25,,Brasil
+João,285280,DEFENSOR,26,1.8,Brasil
+Ze Marcos,228400,DEFENSOR,26,1.88,Brasil
+Danilo Boza,270376,DEFENSOR,26,1.83,Brasil
+Gabriel Inocencio,304538,DEFENSOR,30,,Brasil
+Ewerton,292255,DEFENSOR,23,,Brasil
+Mateus Gabriel Schaffer,384175,DEFENSOR,17,1.85,Brasil
+João Vitor,379367,DEFENSOR,22,,Brasil
+Abner,359217,DEFENSOR,20,1.88,Brasil
+Alan Ruschel,130645,DEFENSOR,35,1.75,Brasil
+Rodrigo Sam,205451,DEFENSOR,29,1.85,Brasil
+Cauã Da Rocha,354799,DEFENSOR,19,1.85,Brasil
+Lucas Freitas,312657,DEFENSOR,23,1.83,Brasil
+Romércio,250905,DEFENSOR,27,1.85,Brasil
+Yan,337018,DEFENSOR,23,1.88,Brasil
+Luis,269642,MEIO-CAMPO,27,1.7,Brasil
+Thiaguinho,163467,MEIO-CAMPO,27,1.8,Brasil
+Nenê,36805,MEIO-CAMPO,43,1.8,Brasil
+Kelvi,314605,MEIO-CAMPO,22,1.83,Brasil
+Jádson,173351,MEIO-CAMPO,31,1.7,Brasil
+Jean,198580,MEIO-CAMPO,32,1.78,Brasil
+Lucas Barbosa,248584,MEIO-CAMPO,23,1.93,Brasil
+Dudu,252543,MEIO-CAMPO,30,1.75,Brasil
+Luis Mandaca,318130,MEIO-CAMPO,23,1.78,Brasil
+João Victor Trevisol Da Silva,385281,MEIO-CAMPO,19,1.85,Brasil
+Peixoto,384200,MEIO-CAMPO,27,,Brasil
+Davi Goes Silva Ferreira Carvalho,381686,MEIO-CAMPO,19,,Brasil
+Caique,252315,MEIO-CAMPO,29,1.78,Brasil
+Ronaldo,229574,MEIO-CAMPO,28,1.78,Brasil
+Erick,271407,ATACANTE,27,1.73,Brasil
+Gilberto,199679,ATACANTE,35,1.78,Brasil
+Marcelinho,304363,ATACANTE,21,1.65,Brasil
+Diego,192510,ATACANTE,30,1.83,Brasil
+Edson Guilherme Mendes dos Santos,94310,ATACANTE,27,1.78,Brasil
+David Conceição,319696,ATACANTE,24,,Brasil
+Gabriel Taliari,235385,ATACANTE,27,1.75,Brasil
+Pinna,379336,ATACANTE,17,1.83,Brasil
+Ronie Carrillo,214113,ATACANTE,28,1.88,Equador
+Walter,196851,GOLEIRO,36,1.88,Brasil
+Rhyan,381535,GOLEIRO,18,,Brasil
+Mateus,198595,GOLEIRO,32,1.93,Brasil
+Felipe Lopes,382991,GOLEIRO,19,,Brasil
+Matheus Alexandre,280678,DEFENSOR,25,,Brasil
+Marllon,157743,DEFENSOR,32,1.85,Brasil
+Marcelo Henrique,382998,DEFENSOR,19,,Brasil
+Guilherme Madruga,357272,DEFENSOR,23,,Brasil
+Hernandes,382987,DEFENSOR,19,,Brasil
+Ramon,269915,DEFENSOR,23,1.73,Brasil
+Vinicius Dorneles,383006,DEFENSOR,20,,Brasil
+Alan Empereur,194566,DEFENSOR,30,1.85,Brasil
+Bruno Alves,200943,DEFENSOR,33,1.83,Brasil
+Renan,383001,DEFENSOR,20,,Brasil
+Vinicius Bertuchi,383005,DEFENSOR,19,,Brasil
+Gabriel Knesowitsch,338674,DEFENSOR,21,,Brasil
+Jadson,360138,DEFENSOR,19,,Brasil
+Juan Pablo,327806,DEFENSOR,22,,Brasil
+Luisão,382997,DEFENSOR,19,,Brasil
+Mateusinho,382999,DEFENSOR,19,,Brasil
+Filipe Augusto,177564,MEIO-CAMPO,31,1.83,Brasil
+Max,287768,MEIO-CAMPO,23,1.75,Brasil
+Eduardo Vinícius,382990,MEIO-CAMPO,19,,Brasil
+Luiz Felipe,376665,MEIO-CAMPO,20,1.78,Brasil
+Lucas Fernandes,234713,MEIO-CAMPO,27,1.75,Brasil
+David Miguel De Souza Arcanjo,395391,MEIO-CAMPO,17,1.8,Brasil
+Railan,346901,MEIO-CAMPO,24,,Brasil
+Clayson,198389,MEIO-CAMPO,29,1.7,Brasil
+Niltinho,383000,MEIO-CAMPO,19,,Brasil
+Denilson,325101,MEIO-CAMPO,23,,Brasil
+Lucas Mineiro,235996,MEIO-CAMPO,28,1.88,Brasil
+Thomas,383003,MEIO-CAMPO,19,,Brasil
+Lucas di Almeida,382995,MEIO-CAMPO,18,,Brasil
+João Vitor,358799,MEIO-CAMPO,19,,Brasil
+Guilherme Sousa,382992,MEIO-CAMPO,18,,Brasil
+Rian Patric,383002,MEIO-CAMPO,18,,Brasil
+Kauan,382994,MEIO-CAMPO,18,,Brasil
+Tarcísio Muniz,366777,MEIO-CAMPO,21,,Brasil
+Fernando Sobral,201942,MEIO-CAMPO,29,1.78,Brasil
+Jonathan Cafú,198610,ATACANTE,33,1.73,Brasil
+Isidro Pitta,287035,ATACANTE,25,1.83,Paraguai
+Eliel,345885,ATACANTE,21,1.75,Brasil
+Gustavo Sauer,203128,ATACANTE,31,1.8,Brasil
+Derik Lacerda,306512,ATACANTE,25,1.91,Brasil
+Dyego,382989,ATACANTE,19,,Brasil
+Titto,383004,ATACANTE,19,,Brasil
+Bibi,382988,ATACANTE,18,,Brasil
+Gabryel Vinicius,358813,ATACANTE,22,,Brasil
+André Luis,222200,ATACANTE,27,1.78,Brasil
+Ronaldo,224106,GOLEIRO,28,1.93,Brasil
+Emerson  Júnior,307606,GOLEIRO,24,1.96,Brasil
+Pedro Rangel,311037,GOLEIRO,19,1.8,Venezuela
+Philipe Sampaio,201164,DEFENSOR,29,1.91,Brasil
+Pedrão,201716,DEFENSOR,31,1.91,Brasil
+Maguinho,203967,DEFENSOR,32,1.7,Brasil
+Luiz Felipe,218909,DEFENSOR,31,1.88,Brasil
+Guilherme Romão,256866,DEFENSOR,27,1.75,Brasil
+Alix Vinicius,257335,DEFENSOR,24,1.96,Brasil
+Yeferson Rodallega,302153,DEFENSOR,23,,Colômbia
+Adriano Martins Da Fonseca,302596,DEFENSOR,27,,Brasil
+Marcao,338050,DEFENSOR,23,,Brasil
+Rafael Haller,359985,DEFENSOR,24,1.78,Uruguai
+Hygor,383894,DEFENSOR,20,1.7,Brasil
+Kauã Moura,383895,DEFENSOR,20,1.83,Brasil
+Mateus Macedo,383896,DEFENSOR,19,,Brasil
+Luiz Gustavo,384189,DEFENSOR,21,,Brasil
+Gustavo Daniel,359195,DEFENSOR,19,,Brasil
+Gonzalo Freitas,164162,MEIO-CAMPO,33,1.85,Uruguai
+Gustavo Campanharo,165877,MEIO-CAMPO,32,1.78,Brasil
+Angelo Araos,224335,MEIO-CAMPO,27,1.75,Chile
+Shaylon,252610,MEIO-CAMPO,27,1.8,Brasil
+Gabriel Baralhas,269852,MEIO-CAMPO,26,1.78,Brasil
+Rhaldney,303072,MEIO-CAMPO,25,,Brasil
+Roni,304351,MEIO-CAMPO,25,1.75,Brasil
+Matías Lacava,316226,MEIO-CAMPO,22,1.68,Venezuela
+Randerson De Sousa Almeida,373958,MEIO-CAMPO,20,,Brasil
+Gustavo Almeida,383893,MEIO-CAMPO,20,,Brasil
+Rai,384190,MEIO-CAMPO,19,,Brasil
+Jean Carlos Alves Ferreira,390671,MEIO-CAMPO,19,,Brasil
+Jorginho,188366,MEIO-CAMPO,33,1.8,Brasil
+Derek,34580,ATACANTE,26,1.85,Brasil
+Joel Campbell,166669,ATACANTE,32,1.78,Costa Rica
+Luiz Fernando,218924,ATACANTE,28,1.78,Brasil
+Bruno,234012,ATACANTE,29,1.75,Brasil
+Jan Hurtado,252023,ATACANTE,24,1.8,Venezuela
+Alejo Cruz Techera,309505,ATACANTE,24,1.7,Uruguai
+Eli Silvano Kovalik Junior,354171,ATACANTE,20,1.78,Brasil
+Emiliano Rodríguez,358753,ATACANTE,21,1.91,Uruguai
+Max,379288,ATACANTE,22,1.83,Brasil
+Sandrinho,384191,ATACANTE,20,,Brasil
+Pedro Geovane Paranhos Santos,392166,ATACANTE,18,,Brasil
+Janderson,249846,ATACANTE,25,1.6,Brasil
