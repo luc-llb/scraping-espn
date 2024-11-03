@@ -1,8 +1,6 @@
 # Football Data Analysis
 
-Esse repositorio contem os arquivos pertinentes a realização do desafio proposto na segunda etapa do Processo Seletivo da THM.
-
-Para utilização desse material é necessário possuir instalado o Python (recomendada a versão 3.12.5 na qual o projeto foi feito), uma ferramenta de banco de dados que suporte SQL (nesse projeto foi utilizado o MS SQL) e o Angular 18+.
+Para utilização desse material é necessário possuir instalado o Python (recomendada a versão 3.12.5 na qual o projeto foi feito) e uma ferramenta de banco de dados que suporte SQL (nesse projeto foi utilizado o MS SQL).
 
 ## Obtenção dos dados
 
