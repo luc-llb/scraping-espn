@@ -1,4 +1,4 @@
-# Football Data Analysis
+# Scraping ESPN
 
 Para utilização desse material é necessário possuir instalado o Python (recomendada a versão 3.12.5 na qual o projeto foi feito) e uma ferramenta de banco de dados que suporte SQL (nesse projeto foi utilizado o MS SQL).
 
