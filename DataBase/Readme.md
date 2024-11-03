@@ -7,3 +7,7 @@ Para esse projeto foi utilizado o MySQL, por meio do [Xampp](https://www.apachef
 3. inserts.sql
 
 Além disso, caso opte por utilizar do Xampp, será necessário que você salve os arquivos .csv em alguma pasta no diretório `\xampp\mysql\data` (copie e cole a pasta Datas nesse endereço).
+
+<div align="center">
+<img src="./THM_db.png" alt="Diagrama do banco de dados">
+</div>
